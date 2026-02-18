@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel Billing Issue",
+  "language": "EN",
+  "file_language": "te_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "హలో, నా హోటల్ బసకు సంబంధించిన ఒక చార్జ్ గురించి ప్రశ్న ఉంది."
+    },
+    {
+      "speaker": "agent",
+      "text": "సహాయం చేయడానికి సంతోషిస్తున్నాను. మీ రిజర్వేషన్ నంబర్ చెప్పగలరా?"
+    },
+    {
+      "speaker": "customer",
+      "text": "అవును, అది RES-90231."
+    },
+    {
+      "speaker": "agent",
+      "text": "ధన్యవాదాలు. ఏప్రిల్ 10న ఉన్న ₹180 చార్జ్ కనిపిస్తోంది."
+    },
+    {
+      "speaker": "customer",
+      "text": "ఇది నేను భావించినదానికంటే ఎక్కువగా ఉంది."
+    },
+    {
+      "speaker": "agent",
+      "text": "ఈ చార్జ్‌లో ఒక రాత్రి మరియు మినీబార్ ఫీ ఉన్నాయి."
+    },
+    {
+      "speaker": "customer",
+      "text": "నేను మినీబార్ ఉపయోగించలేదు."
+    },
+    {
+      "speaker": "agent",
+      "text": "అర్థమైంది. ఆ ఫీని తీసి భాగ రీఫండ్ ఇస్తాను."
+    },
+    {
+      "speaker": "customer",
+      "text": "ఎంత రీఫండ్ వస్తుంది?"
+    },
+    {
+      "speaker": "agent",
+      "text": "₹30 మీ కార్డ్‌కు తిరిగి జమ చేయబడుతుంది."
+    },
+    {
+      "speaker": "customer",
+      "text": "సరే, ధన్యవాదాలు."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Telugu te-IN Scripts.docx",
+    "conversation_index": 10,
+    "total_turns": 11
+  }
+}

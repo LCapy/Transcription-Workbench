@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Delivery Delay",
+  "language": "EN",
+  "file_language": "sr_RS",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Zdravo, zovem jer moj paket još nije stigao."
+    },
+    {
+      "speaker": "agent",
+      "text": "Žao mi je zbog toga. Mogu li dobiti broj za praćenje?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Da, TRK-55134."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hvala. Proveravam status."
+    },
+    {
+      "speaker": "agent",
+      "text": "Paket je kasnio zbog vremenskih uslova i sada je zakazan za isporuku sutra."
+    },
+    {
+      "speaker": "customer",
+      "text": "Trebalo je da stigne u ponedeljak."
+    },
+    {
+      "speaker": "agent",
+      "text": "Razumem frustraciju. Novi datum isporuke je 18. april."
+    },
+    {
+      "speaker": "customer",
+      "text": "Hoću li dobiti ažuriranje mejlom?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Da, poslaćemo obaveštenja na john.john@gmail.com."
+    },
+    {
+      "speaker": "customer",
+      "text": "U redu, hvala."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Serbian sr-RS Scripts.docx",
+    "conversation_index": 5,
+    "total_turns": 10
+  }
+}

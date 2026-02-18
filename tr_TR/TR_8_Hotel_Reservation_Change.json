@@ -1,0 +1,60 @@
+{
+  "scenario": "Hotel Reservation Change",
+  "language": "TR",
+  "file_language": "tr_TR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Merhaba, otel rezervasyonumun tarihlerini değiştirmek istiyorum."
+    },
+    {
+      "speaker": "agent",
+      "text": "Elbette. Rezervasyon numaranızı alabilir miyim?"
+    },
+    {
+      "speaker": "customer",
+      "text": "HA-56219."
+    },
+    {
+      "speaker": "agent",
+      "text": "Teşekkür ederim. Müsaitlik durumuna bakıyorum."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hangi yeni tarihleri istersiniz?"
+    },
+    {
+      "speaker": "customer",
+      "text": "10–12 Nisan yerine 12–14 Nisan’a almak istiyorum."
+    },
+    {
+      "speaker": "agent",
+      "text": "Uygun tarihler, rezervasyon yapılabilir."
+    },
+    {
+      "speaker": "customer",
+      "text": "Harika."
+    },
+    {
+      "speaker": "agent",
+      "text": "Rezervasyonu güncelledim ve onay e-postasını gönderdim."
+    },
+    {
+      "speaker": "customer",
+      "text": "Fiyat aynı kalacak mı?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Evet, herhangi bir fiyat değişikliği yok."
+    },
+    {
+      "speaker": "customer",
+      "text": "Çok teşekkür ederim."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Turkish Scripts.docx",
+    "conversation_index": 8,
+    "total_turns": 12
+  }
+}

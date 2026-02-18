@@ -1,0 +1,52 @@
+{
+  "scenario": "Bank Address Change",
+  "language": "TR",
+  "file_language": "tr_TR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Merhaba, banka hesabımdaki posta adresini güncellemem gerekiyor."
+    },
+    {
+      "speaker": "agent",
+      "text": "Elbette, yardımcı olabilirim. Önce tam adınızı doğrulayabilir miyim?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Tabii, Daniel Peterson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Teşekkürler Daniel. Yeni adresi alabilir miyim?"
+    },
+    {
+      "speaker": "customer",
+      "text": "782 Green Street, Seattle, Washington, 98101."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hemen güncelliyorum."
+    },
+    {
+      "speaker": "agent",
+      "text": "Adresiniz başarıyla güncellendi."
+    },
+    {
+      "speaker": "customer",
+      "text": "Bu durum hesap dökümanlarımı etkiler mi?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Bundan sonraki tüm ekstreler yeni adresinize gönderilecek."
+    },
+    {
+      "speaker": "customer",
+      "text": "Harika, teşekkür ederim."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Turkish Scripts.docx",
+    "conversation_index": 4,
+    "total_turns": 10
+  }
+}

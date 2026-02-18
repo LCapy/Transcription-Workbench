@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel Billing Issue",
+  "language": "TR",
+  "file_language": "tr_TR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Merhaba, yakın zamanda kaldığım otelle ilgili bir ücret hakkında sorum var."
+    },
+    {
+      "speaker": "agent",
+      "text": "Memnuniyetle yardımcı olurum. Rezervasyon numaranızı alabilir miyim?"
+    },
+    {
+      "speaker": "customer",
+      "text": "RES-90231."
+    },
+    {
+      "speaker": "agent",
+      "text": "Teşekkürler. 10 Nisan tarihli ₺180 tutarında bir ücret görüyorum."
+    },
+    {
+      "speaker": "customer",
+      "text": "Bu beklediğimden daha yüksek görünüyor."
+    },
+    {
+      "speaker": "agent",
+      "text": "Bu tutara bir gece konaklama ve minibar ücreti dahil."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ben minibarı hiç kullanmadım."
+    },
+    {
+      "speaker": "agent",
+      "text": "Anladım. Minibar ücretini kaldırıp kısmi iade yapabilirim."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ne kadar iade yapılacak?"
+    },
+    {
+      "speaker": "agent",
+      "text": "₺30 kartınıza geri yatırılacak."
+    },
+    {
+      "speaker": "customer",
+      "text": "Tamam, teşekkür ederim."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Turkish Scripts.docx",
+    "conversation_index": 10,
+    "total_turns": 11
+  }
+}

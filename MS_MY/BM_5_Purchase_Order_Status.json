@@ -1,0 +1,68 @@
+{
+  "scenario": "Purchase Order Status",
+  "language": "BM",
+  "file_language": "MS_MY",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Helo, saya telefon untuk semak status pesanan mesin basuh yang kami buat minggu lepas."
+    },
+    {
+      "speaker": "agent",
+      "text": "Baik, boleh saya dapatkan nombor pesanan?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ya, 78421."
+    },
+    {
+      "speaker": "agent",
+      "text": "Terima kasih. Saya semak sekarang."
+    },
+    {
+      "speaker": "agent",
+      "text": "Pesanan telah diluluskan dan dihantar semalam pada waktu petang."
+    },
+    {
+      "speaker": "customer",
+      "text": "Bagus. Tahu bila ia akan sampai?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Anggaran tarikh penghantaran ialah Jumaat ini, 10 Disember."
+    },
+    {
+      "speaker": "customer",
+      "text": "Adakah kami akan dapat pengesahan penghantaran?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ya, anda akan menerima e-mel dengan maklumat penjejakan. Sebelum itu, boleh sahkan kaedah pembayaran?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Saya bayar guna kad Visa. Nombor 4111 2222 3344 6677."
+    },
+    {
+      "speaker": "agent",
+      "text": "Terima kasih. Atas sebab keselamatan, saya tidak ulang nombor itu, tetapi pembayaran telah diproses."
+    },
+    {
+      "speaker": "customer",
+      "text": "Baik."
+    },
+    {
+      "speaker": "agent",
+      "text": "Pengesahan akan dihantar ke alex@gmail.com. Ada apa-apa lagi saya boleh bantu?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Tidak, terima kasih."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Bahasa ms-MY Scripts.docx",
+    "conversation_index": 5,
+    "total_turns": 14
+  }
+}

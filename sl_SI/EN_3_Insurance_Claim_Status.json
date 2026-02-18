@@ -1,0 +1,52 @@
+{
+  "scenario": "Insurance Claim Status",
+  "language": "EN",
+  "file_language": "sl_SI",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Pozdravljeni, kličem, da preverim stanje zavarovalnega zahtevka, ki sem ga oddal prejšnji teden."
+    },
+    {
+      "speaker": "agent",
+      "text": "S tem vam lahko pomagam. Mi lahko prosim poveste številko zahtevka?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Da, to je CLM-458921."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hvala. Naj to preverim."
+    },
+    {
+      "speaker": "agent",
+      "text": "Vidim, da je bil zahtevek oddan 3. aprila in je trenutno v pregledu."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ali veste, kdaj bo odobren?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Pregled običajno traja pet do sedem delovnih dni."
+    },
+    {
+      "speaker": "customer",
+      "text": "V redu. Bom obveščen, ko bo odobreno?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Da, poslali bomo e-pošto na naslov v sistemu."
+    },
+    {
+      "speaker": "customer",
+      "text": "To je maria.lopez@gmail.com."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Slovenian sl-SI Scripts.docx",
+    "conversation_index": 3,
+    "total_turns": 10
+  }
+}

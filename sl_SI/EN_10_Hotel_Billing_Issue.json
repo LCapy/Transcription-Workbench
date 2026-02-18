@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel Billing Issue",
+  "language": "EN",
+  "file_language": "sl_SI",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Pozdravljeni, imam vprašanje glede zaračunanega zneska za moj nedavni hotelski obisk."
+    },
+    {
+      "speaker": "agent",
+      "text": "Z veseljem pomagam. Mi lahko poveste številko rezervacije?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Da, RES-90231."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hvala. Vidim strošek iz 10. aprila v višini 180 €."
+    },
+    {
+      "speaker": "customer",
+      "text": "To se zdi višje, kot sem pričakoval."
+    },
+    {
+      "speaker": "agent",
+      "text": "Znesek vključuje eno noč plus mini bar."
+    },
+    {
+      "speaker": "customer",
+      "text": "Mini bara nisem uporabil."
+    },
+    {
+      "speaker": "agent",
+      "text": "Razumem. Ta strošek lahko odstranimo in izvedemo delno vračilo."
+    },
+    {
+      "speaker": "customer",
+      "text": "Koliko bo vrnjeno?"
+    },
+    {
+      "speaker": "agent",
+      "text": "30 € bo vrnjenih na vašo kartico."
+    },
+    {
+      "speaker": "customer",
+      "text": "V redu, hvala."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Slovenian sl-SI Scripts.docx",
+    "conversation_index": 10,
+    "total_turns": 11
+  }
+}

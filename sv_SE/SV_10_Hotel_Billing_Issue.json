@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel Billing Issue",
+  "language": "SV",
+  "file_language": "sv_SE",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hej, jag har en fråga om en debitering från min senaste hotellvistelse."
+    },
+    {
+      "speaker": "agent",
+      "text": "Självklart, jag hjälper gärna till. Kan jag få ditt bokningsnummer?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, det är RES-90231."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tack. Jag ser en debitering från 10 april på 180 kr."
+    },
+    {
+      "speaker": "customer",
+      "text": "Det verkar högre än jag förväntade mig."
+    },
+    {
+      "speaker": "agent",
+      "text": "Debiteringen inkluderar en natt samt en minibaravgift."
+    },
+    {
+      "speaker": "customer",
+      "text": "Jag använde inte minibaren."
+    },
+    {
+      "speaker": "agent",
+      "text": "Förstått. Jag kan ta bort avgiften och utfärda en delvis återbetalning."
+    },
+    {
+      "speaker": "customer",
+      "text": "Hur mycket återbetalas?"
+    },
+    {
+      "speaker": "agent",
+      "text": "30 kr återbetalas till ditt kort."
+    },
+    {
+      "speaker": "customer",
+      "text": "Okej, tack."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Swedish Scripts.docx",
+    "conversation_index": 10,
+    "total_turns": 11
+  }
+}

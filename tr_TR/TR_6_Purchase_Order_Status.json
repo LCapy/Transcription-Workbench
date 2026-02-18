@@ -1,0 +1,68 @@
+{
+  "scenario": "Purchase Order Status",
+  "language": "TR",
+  "file_language": "tr_TR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Merhaba, geçen hafta verdiğimiz çamaşır makinesi siparişinin durumunu öğrenmek istiyorum."
+    },
+    {
+      "speaker": "agent",
+      "text": "Elbette, yardımcı olabilirim. Sipariş numaranız var mı?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Evet, 78421."
+    },
+    {
+      "speaker": "agent",
+      "text": "Teşekkürler, kontrol ediyorum."
+    },
+    {
+      "speaker": "agent",
+      "text": "Sipariş onaylanmış ve dün öğleden sonra gönderilmiş."
+    },
+    {
+      "speaker": "customer",
+      "text": "Güzel. Ne zaman ulaşır?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Tahmini teslim tarihi bu Cuma, 10 Aralık."
+    },
+    {
+      "speaker": "customer",
+      "text": "Kargo onayı alacak mıyız?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Evet, bugün içinde takip bilgileriyle bir e-posta alacaksınız. Bitirmeden önce, ödeme yönteminizi doğrulayabilir miyim?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Evet, Visa kartla ödedim. Numara 4111 2222 3344 6677."
+    },
+    {
+      "speaker": "agent",
+      "text": "Teşekkürler, güvenlik nedeniyle numarayı tekrar etmeyeceğim fakat ödemeniz başarıyla işlenmiş."
+    },
+    {
+      "speaker": "customer",
+      "text": "Tamamdır."
+    },
+    {
+      "speaker": "agent",
+      "text": "Onay e-postası alex@gmail.com adresine gönderilecek. Başka bir konuda yardımcı olabilir miyim?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Hayır, teşekkür ederim."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Turkish Scripts.docx",
+    "conversation_index": 6,
+    "total_turns": 14
+  }
+}

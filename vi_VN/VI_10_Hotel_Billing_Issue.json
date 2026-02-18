@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel Billing Issue",
+  "language": "VI",
+  "file_language": "vi_VN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Chào bạn, tôi có câu hỏi về một khoản phí trong lần ở khách sạn gần đây."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tôi sẵn sàng giúp. Cho tôi mã đặt phòng?"
+    },
+    {
+      "speaker": "customer",
+      "text": "RES-90231."
+    },
+    {
+      "speaker": "agent",
+      "text": "Cảm ơn. Tôi thấy khoản phí ₫180 ngày 10 tháng 4."
+    },
+    {
+      "speaker": "customer",
+      "text": "Nghe cao hơn tôi nghĩ."
+    },
+    {
+      "speaker": "agent",
+      "text": "Khoản này gồm một đêm phòng và phí minibar."
+    },
+    {
+      "speaker": "customer",
+      "text": "Tôi không dùng minibar."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tôi hiểu. Tôi sẽ xóa phí minibar và hoàn lại một phần tiền."
+    },
+    {
+      "speaker": "customer",
+      "text": "Hoàn bao nhiêu?"
+    },
+    {
+      "speaker": "agent",
+      "text": "₫30 sẽ được hoàn vào thẻ của bạn."
+    },
+    {
+      "speaker": "customer",
+      "text": "Được rồi, cảm ơn."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Vietnamese Scripts.docx",
+    "conversation_index": 10,
+    "total_turns": 11
+  }
+}

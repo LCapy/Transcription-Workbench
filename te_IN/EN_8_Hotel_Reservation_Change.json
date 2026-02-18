@@ -1,0 +1,60 @@
+{
+  "scenario": "Hotel Reservation Change",
+  "language": "EN",
+  "file_language": "te_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "హాయ్, నా హోటల్ రిజర్వేషన్ తేదీలను మార్చుకోవాలి."
+    },
+    {
+      "speaker": "agent",
+      "text": "తప్పకుండా. మీ రిజర్వేషన్ నంబర్ చెప్పగలరా?"
+    },
+    {
+      "speaker": "customer",
+      "text": "అవును, HA-56219."
+    },
+    {
+      "speaker": "agent",
+      "text": "ధన్యవాదాలు. లభ్యత చెక్ చేస్తున్నాను."
+    },
+    {
+      "speaker": "agent",
+      "text": "మీరు ఏ కొత్త తేదీలు కావాలనుకుంటున్నారు?"
+    },
+    {
+      "speaker": "customer",
+      "text": "ఏప్రిల్ 10–12 నుండి ఏప్రిల్ 12–14కు మార్చాలనుకుంటున్నాను."
+    },
+    {
+      "speaker": "agent",
+      "text": "ఆ తేదీలు అందుబాటులో ఉన్నాయి."
+    },
+    {
+      "speaker": "customer",
+      "text": "బాగుంది."
+    },
+    {
+      "speaker": "agent",
+      "text": "నేను రిజర్వేషన్ అప్డేట్ చేశాను మరియు కన్ఫర్మేషన్ ఈమెయిల్ పంపాను."
+    },
+    {
+      "speaker": "customer",
+      "text": "ధర అదే ఉంటుందా?"
+    },
+    {
+      "speaker": "agent",
+      "text": "అవును, ధర మార్చబడదు."
+    },
+    {
+      "speaker": "customer",
+      "text": "చాలా ధన్యవాదాలు."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Telugu te-IN Scripts.docx",
+    "conversation_index": 8,
+    "total_turns": 12
+  }
+}

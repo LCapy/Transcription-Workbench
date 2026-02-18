@@ -1,0 +1,60 @@
+{
+  "scenario": "Billing Overcharge",
+  "language": "SV",
+  "file_language": "sv_SE",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hej, jag ringer eftersom jag tror att jag har blivit debiterad två gånger för min månadsprenumeration."
+    },
+    {
+      "speaker": "agent",
+      "text": "Det var tråkigt att höra. Jag kan hjälpa dig att titta på det. Kan jag få e-postadressen som är kopplad till kontot?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, den är alex.morgan@gmail.com."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tack. Jag hämtar upp ditt konto nu. Det tar bara ett ögonblick."
+    },
+    {
+      "speaker": "agent",
+      "text": "Jag ser två debiteringar på 54,50 kr från igår. En av dem verkar vara en dubblett."
+    },
+    {
+      "speaker": "customer",
+      "text": "Okej, det var det jag trodde."
+    },
+    {
+      "speaker": "agent",
+      "text": "Jag skickar in en återbetalning för den extra debiteringen. Du behöver inte göra något mer."
+    },
+    {
+      "speaker": "customer",
+      "text": "Hur lång tid tar återbetalningen vanligtvis?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Återbetalningar visas normalt inom fem till sju arbetsdagar."
+    },
+    {
+      "speaker": "customer",
+      "text": "Okej, tack för att du kollade."
+    },
+    {
+      "speaker": "agent",
+      "text": "Självklart. Är det något mer jag kan hjälpa dig med idag?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Nej, det var allt."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Swedish Scripts.docx",
+    "conversation_index": 1,
+    "total_turns": 12
+  }
+}

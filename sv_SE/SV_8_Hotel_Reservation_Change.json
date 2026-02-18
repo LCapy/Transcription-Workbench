@@ -1,0 +1,60 @@
+{
+  "scenario": "Hotel Reservation Change",
+  "language": "SV",
+  "file_language": "sv_SE",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hej, jag behöver ändra datumen på min hotellbokning."
+    },
+    {
+      "speaker": "agent",
+      "text": "Självklart. Kan jag få bokningsnumret?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, det är HA-56219."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tack. Jag kontrollerar tillgängligheten."
+    },
+    {
+      "speaker": "agent",
+      "text": "Vilka nya datum önskar du?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Jag vill flytta den från 10–12 april till 12–14 april."
+    },
+    {
+      "speaker": "agent",
+      "text": "De datumen är tillgängliga."
+    },
+    {
+      "speaker": "customer",
+      "text": "Toppen."
+    },
+    {
+      "speaker": "agent",
+      "text": "Jag har uppdaterat bokningen och skickat en bekräftelse via e-post."
+    },
+    {
+      "speaker": "customer",
+      "text": "Förblir priset detsamma?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ja, det är ingen prisändring."
+    },
+    {
+      "speaker": "customer",
+      "text": "Tack så mycket."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Swedish Scripts.docx",
+    "conversation_index": 8,
+    "total_turns": 12
+  }
+}

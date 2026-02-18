@@ -1,0 +1,60 @@
+{
+  "scenario": "Hotel Reservation Change",
+  "language": "TH",
+  "file_language": "th_TH",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "สวัสดีค่ะ ฉันต้องการเปลี่ยนวันเข้าพักของการจองโรงแรมค่ะ"
+    },
+    {
+      "speaker": "agent",
+      "text": "ได้ค่ะ ขอหมายเลขการจองค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "HA-56219 ค่ะ"
+    },
+    {
+      "speaker": "agent",
+      "text": "ขอบคุณค่ะ ขอเช็คห้องว่าง"
+    },
+    {
+      "speaker": "agent",
+      "text": "คุณต้องการเปลี่ยนไปวันไหนคะ?"
+    },
+    {
+      "speaker": "customer",
+      "text": "จาก 10–12 เมษายน ไปเป็น 12–14 เมษายนค่ะ"
+    },
+    {
+      "speaker": "agent",
+      "text": "วันที่นั้นมีห้องว่างค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "ดีเลยค่ะ"
+    },
+    {
+      "speaker": "agent",
+      "text": "ฉันอัปเดตการจองและส่งอีเมลยืนยันให้แล้วค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "ราคาเหมือนเดิมไหมคะ?"
+    },
+    {
+      "speaker": "agent",
+      "text": "ใช่ค่ะ ไม่เปลี่ยนแปลง"
+    },
+    {
+      "speaker": "customer",
+      "text": "ขอบคุณมากค่ะ"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Thai Scripts.docx",
+    "conversation_index": 8,
+    "total_turns": 12
+  }
+}

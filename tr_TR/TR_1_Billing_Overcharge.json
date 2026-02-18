@@ -1,0 +1,60 @@
+{
+  "scenario": "Billing Overcharge",
+  "language": "TR",
+  "file_language": "tr_TR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Merhaba, aylık aboneliğim için iki kez ücretlendirilmiş olabileceğim için arıyorum."
+    },
+    {
+      "speaker": "agent",
+      "text": "Bunun için çok özür dilerim. Sizin için kontrol edebilirim. Hesabınızdaki e-posta adresini alabilir miyim?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Evet, alex.morgan@gmail.com."
+    },
+    {
+      "speaker": "agent",
+      "text": "Teşekkür ederim. Hesabınızı açıyorum, bir saniye lütfen."
+    },
+    {
+      "speaker": "agent",
+      "text": "Dün için iki adet ₺54.50 tutarında ücret görüyorum. Bunlardan biri mükerrer görünüyor."
+    },
+    {
+      "speaker": "customer",
+      "text": "Tamam, ben de öyle düşünmüştüm."
+    },
+    {
+      "speaker": "agent",
+      "text": "Fazladan alınan ücreti iade edeceğim. Ekstra bir işlem yapmanıza gerek yok."
+    },
+    {
+      "speaker": "customer",
+      "text": "İade genelde ne kadar sürüyor?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Genellikle 5–7 iş günü içinde hesabınıza yansır."
+    },
+    {
+      "speaker": "customer",
+      "text": "Tamam, kontrol ettiğiniz için teşekkürler."
+    },
+    {
+      "speaker": "agent",
+      "text": "Rica ederim. Başka yardımcı olabileceğim bir konu var mı?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Hayır, hepsi bu kadar."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Turkish Scripts.docx",
+    "conversation_index": 1,
+    "total_turns": 12
+  }
+}

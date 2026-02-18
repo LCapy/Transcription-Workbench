@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel Billing Issue",
+  "language": "TH",
+  "file_language": "th_TH",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "สวัสดีค่ะ ฉันมีคำถามเกี่ยวกับค่าบริการจากการเข้าพักโรงแรมล่าสุดค่ะ"
+    },
+    {
+      "speaker": "agent",
+      "text": "ด้วยความยินดีค่ะ ขอหมายเลขการจองค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "RES-90231 ค่ะ"
+    },
+    {
+      "speaker": "agent",
+      "text": "ขอบคุณค่ะ ฉันเห็นว่ามีการเรียกเก็บ ฿180 เมื่อวันที่ 10 เมษายนค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "ดูเหมือนจะสูงกว่าที่คาดค่ะ"
+    },
+    {
+      "speaker": "agent",
+      "text": "มีค่าที่พักหนึ่งคืนและค่าใช้บริการมินิบาร์รวมอยู่ค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "ฉันไม่ได้ใช้มินิบาร์เลยนะคะ"
+    },
+    {
+      "speaker": "agent",
+      "text": "เข้าใจค่ะ ฉันสามารถลบค่ามินิบาร์ออก และคืนเงินบางส่วนให้ได้ค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "จะคืนให้เท่าไหร่คะ?"
+    },
+    {
+      "speaker": "agent",
+      "text": "฿30 จะถูกคืนเข้าบัตรค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "ขอบคุณค่ะ"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Thai Scripts.docx",
+    "conversation_index": 10,
+    "total_turns": 11
+  }
+}

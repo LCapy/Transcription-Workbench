@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel New Reservation Booking",
+  "language": "EN",
+  "file_language": "sr_RS",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Zdravo, želela bih da napravim hotelsku rezervaciju za sledeći mesec."
+    },
+    {
+      "speaker": "agent",
+      "text": "Naravno, mogu da pomognem. Vaše puno ime, molim?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Emma Johnson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hvala, Emma. Koje datume tražite?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Od 12. do 15. maja, sa odjavom 15."
+    },
+    {
+      "speaker": "agent",
+      "text": "To bi bile tri noći. Imam standardnu sobu po ceni od 140 дин. po noći."
+    },
+    {
+      "speaker": "customer",
+      "text": "Da li ta cena uključuje poreze i takse?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Porezi nisu uključeni. Sa porezima, ukupan iznos je 462 дин."
+    },
+    {
+      "speaker": "customer",
+      "text": "U redu. Da li treba sada da platim?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Potreban je broj kreditne kartice da zadržimo rezervaciju, ali se plaćanje vrši prilikom prijave."
+    },
+    {
+      "speaker": "customer",
+      "text": "U redu. Mogu dati karticu: Mastercard, broj 9999 8888 3333 1111."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Serbian sr-RS Scripts.docx",
+    "conversation_index": 9,
+    "total_turns": 11
+  }
+}

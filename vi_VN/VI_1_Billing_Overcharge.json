@@ -1,0 +1,60 @@
+{
+  "scenario": "Billing Overcharge",
+  "language": "VI",
+  "file_language": "vi_VN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Chào bạn, tôi gọi vì tôi nghĩ tôi đã bị tính phí hai lần cho gói đăng ký hằng tháng."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tôi rất xin lỗi về việc này. Tôi sẽ hỗ trợ kiểm tra ngay. Bạn cho tôi xin email trên tài khoản được không?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Vâng, là alex.morgan@gmail.com."
+    },
+    {
+      "speaker": "agent",
+      "text": "Cảm ơn bạn. Tôi đang mở tài khoản — vui lòng chờ một chút."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tôi thấy có hai khoản phí ₫54.50 vào ngày hôm qua. Có vẻ một khoản là trùng lặp."
+    },
+    {
+      "speaker": "customer",
+      "text": "Vâng, tôi cũng nghĩ vậy."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tôi sẽ gửi yêu cầu hoàn tiền cho khoản phí trùng. Bạn không cần làm gì thêm."
+    },
+    {
+      "speaker": "customer",
+      "text": "Thường thì hoàn tiền mất bao lâu?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thường mất khoảng 5–7 ngày làm việc."
+    },
+    {
+      "speaker": "customer",
+      "text": "Được rồi, cảm ơn bạn đã kiểm tra."
+    },
+    {
+      "speaker": "agent",
+      "text": "Rất sẵn lòng. Bạn còn cần hỗ trợ gì thêm không?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Không, vậy là hết rồi."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Vietnamese Scripts.docx",
+    "conversation_index": 1,
+    "total_turns": 12
+  }
+}
