@@ -1,0 +1,56 @@
+{
+  "scenario": "Bank Charge Dispute – fi",
+  "language": "FI",
+  "file_language": "fi_FI",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hei, soitan tililläni olevasta veloituksesta, jota en tunnista."
+    },
+    {
+      "speaker": "agent",
+      "text": "Voin auttaa. Voisitko kertoa veloituksen päivämäärän ja summan?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Se on 12. maaliskuuta, summa 45,99 €."
+    },
+    {
+      "speaker": "agent",
+      "text": "Kiitos. Näen tämän tapahtuman."
+    },
+    {
+      "speaker": "customer",
+      "text": "En muista tehneeni kyseistä ostosta."
+    },
+    {
+      "speaker": "agent",
+      "text": "Ymmärretty. Voin avata riita-asian puolestasi."
+    },
+    {
+      "speaker": "customer",
+      "text": "Kyllä, kiitos."
+    },
+    {
+      "speaker": "agent",
+      "text": "Riita-asia on lähetetty. Tutkimme asian ja pidämme sinut ajan tasalla sähköpostitse."
+    },
+    {
+      "speaker": "customer",
+      "text": "Kuinka kauan tutkimus kestää?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Yleensä jopa 10 arkipäivää."
+    },
+    {
+      "speaker": "customer",
+      "text": "Hyvä, kiitos avusta."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Finnish Scripts.docx",
+    "conversation_index": 2,
+    "total_turns": 11
+  }
+}

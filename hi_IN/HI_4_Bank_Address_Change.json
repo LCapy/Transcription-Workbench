@@ -1,0 +1,52 @@
+{
+  "scenario": "Bank Address Change",
+  "language": "HI",
+  "file_language": "hi_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "नमस्ते, मुझे अपने बैंक अकाउंट पर मेलिंग पता अपडेट करना है।"
+    },
+    {
+      "speaker": "agent",
+      "text": "बिल्कुल, मैं मदद कर सकता/सकती हूँ। पहले कृपया अपना पूरा नाम बताइए।"
+    },
+    {
+      "speaker": "customer",
+      "text": "Daniel Peterson।"
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद, Daniel। नया पता क्या है?"
+    },
+    {
+      "speaker": "customer",
+      "text": "782 Green Street, Seattle, Washington, 98101।"
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है, मैं इसे अपडेट कर रहा/रही हूँ।"
+    },
+    {
+      "speaker": "agent",
+      "text": "पता सफलतापूर्वक अपडेट हो गया है।"
+    },
+    {
+      "speaker": "customer",
+      "text": "क्या इससे मेरे बैंक स्टेटमेंट प्रभावित होंगे?"
+    },
+    {
+      "speaker": "agent",
+      "text": "आगे से आपके स्टेटमेंट नए पते पर भेजे जाएँगे।"
+    },
+    {
+      "speaker": "customer",
+      "text": "अच्छा, धन्यवाद।"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Hindi Scripts.docx",
+    "conversation_index": 4,
+    "total_turns": 10
+  }
+}

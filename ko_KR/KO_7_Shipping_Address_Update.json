@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Address Update",
+  "language": "KO",
+  "file_language": "ko_KR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "안녕하세요, 오늘 오전에 주문한 상품의 배송 주소를 변경하고 싶어요."
+    },
+    {
+      "speaker": "agent",
+      "text": "물론 도와드릴게요. 주문이 이미 발송되었나요?"
+    },
+    {
+      "speaker": "customer",
+      "text": "아니요, 아직요."
+    },
+    {
+      "speaker": "agent",
+      "text": "좋습니다. 새 주소를 알려주세요."
+    },
+    {
+      "speaker": "customer",
+      "text": "245 Market Street, San Jose, California 입니다."
+    },
+    {
+      "speaker": "agent",
+      "text": "감사합니다. 주소 수정이 완료되었습니다."
+    },
+    {
+      "speaker": "customer",
+      "text": "배송이 지연되지는 않나요?"
+    },
+    {
+      "speaker": "agent",
+      "text": "아니요, 배송 일정은 그대로입니다."
+    },
+    {
+      "speaker": "customer",
+      "text": "완벽하네요. 감사합니다."
+    },
+    {
+      "speaker": "agent",
+      "text": "언제든지요."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Korean Scripts.docx",
+    "conversation_index": 7,
+    "total_turns": 10
+  }
+}

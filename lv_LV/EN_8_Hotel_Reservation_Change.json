@@ -1,0 +1,60 @@
+{
+  "scenario": "Hotel Reservation Change",
+  "language": "EN",
+  "file_language": "lv_LV",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Labdien, man ir jāmaina mana viesnīcas rezervācijas datumi."
+    },
+    {
+      "speaker": "agent",
+      "text": "Protams. Vai varu saņemt jūsu rezervācijas numuru?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Jā, tas ir HA-56219."
+    },
+    {
+      "speaker": "agent",
+      "text": "Paldies. Ļaujiet man pārbaudīt pieejamību."
+    },
+    {
+      "speaker": "agent",
+      "text": "Kādi jaunie datumi jūs interesē?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Es gribētu pārcelt no 10.–12. aprīļa uz 12.–14. aprīli."
+    },
+    {
+      "speaker": "agent",
+      "text": "Šie datumi ir pieejami."
+    },
+    {
+      "speaker": "customer",
+      "text": "Lieliski."
+    },
+    {
+      "speaker": "agent",
+      "text": "Es atjaunināju rezervāciju un nosūtīju apstiprinājuma e-pastu."
+    },
+    {
+      "speaker": "customer",
+      "text": "Vai cena paliks tāda pati?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Jā, cena nemainās."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ļoti jums paldies."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Latvian lv-LV Scripts.docx",
+    "conversation_index": 8,
+    "total_turns": 12
+  }
+}

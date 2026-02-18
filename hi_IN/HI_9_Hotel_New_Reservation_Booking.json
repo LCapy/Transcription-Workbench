@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel New Reservation Booking",
+  "language": "HI",
+  "file_language": "hi_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "नमस्ते, मैं अगले महीने के लिए होटल बुक करना चाहता/चाहती हूँ।"
+    },
+    {
+      "speaker": "agent",
+      "text": "ज़रूर। आपका पूरा नाम?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Emma Johnson।"
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद, Emma। आप कौन-सी तारीखों में रुकना चाहते/चाहती हैं?"
+    },
+    {
+      "speaker": "customer",
+      "text": "12 मई से 15 मई तक, 15 को चेक आउट।"
+    },
+    {
+      "speaker": "agent",
+      "text": "कुल तीन रातें। हमारे पास एक स्टैंडर्ड रूम है जिसकी कीमत ₹140 प्रति रात है।"
+    },
+    {
+      "speaker": "customer",
+      "text": "क्या इसमें टैक्स और शुल्क शामिल हैं?"
+    },
+    {
+      "speaker": "agent",
+      "text": "नहीं। टैक्स जोड़कर कुल राशि ₹462 होती है।"
+    },
+    {
+      "speaker": "customer",
+      "text": "क्या मुझे अभी भुगतान करना होगा?"
+    },
+    {
+      "speaker": "agent",
+      "text": "नहीं, हमें सिर्फ बुकिंग होल्ड करने के लिए क्रेडिट कार्ड चाहिए। भुगतान चेक-इन के समय लिया जाएगा।"
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है। मेरा Mastercard नंबर है — 9999 8888 3333 1111।"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Hindi Scripts.docx",
+    "conversation_index": 9,
+    "total_turns": 11
+  }
+}

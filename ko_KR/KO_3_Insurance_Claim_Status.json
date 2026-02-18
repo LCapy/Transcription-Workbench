@@ -1,0 +1,52 @@
+{
+  "scenario": "Insurance Claim Status",
+  "language": "KO",
+  "file_language": "ko_KR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "안녕하세요, 지난주에 제출한 보험 청구 건 상태를 확인하고 싶습니다."
+    },
+    {
+      "speaker": "agent",
+      "text": "도와드릴게요. 청구 번호를 알려주실 수 있을까요?"
+    },
+    {
+      "speaker": "customer",
+      "text": "네, CLM-458921 입니다."
+    },
+    {
+      "speaker": "agent",
+      "text": "감사합니다. 잠시만 기다려 주세요."
+    },
+    {
+      "speaker": "agent",
+      "text": "청구는 4월 3일에 제출되었고, 현재 검토 중입니다."
+    },
+    {
+      "speaker": "customer",
+      "text": "언제쯤 승인될까요?"
+    },
+    {
+      "speaker": "agent",
+      "text": "검토는 보통 영업일 기준 5~7일 정도 걸립니다."
+    },
+    {
+      "speaker": "customer",
+      "text": "승인되면 알림을 받을 수 있나요?"
+    },
+    {
+      "speaker": "agent",
+      "text": "네, 등록된 이메일로 안내드릴 예정입니다."
+    },
+    {
+      "speaker": "customer",
+      "text": "이메일은 maria.lopez@gmail.com 입니다."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Korean Scripts.docx",
+    "conversation_index": 3,
+    "total_turns": 10
+  }
+}

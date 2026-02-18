@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Delivery Delay",
+  "language": "MR",
+  "file_language": "mr_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "नमस्कार, माझा पॅकेज अजून आलेला नाही म्हणून मी फोन करत आहे."
+    },
+    {
+      "speaker": "agent",
+      "text": "याबद्दल आम्ही दिलगीर आहोत. कृपया ट्रॅकिंग नंबर सांगाल का?"
+    },
+    {
+      "speaker": "customer",
+      "text": "हो, TRK-55134 आहे."
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद. मी स्थिती तपासतो/तपासते."
+    },
+    {
+      "speaker": "agent",
+      "text": "हवामानामुळे पॅकेज उशीर झाला असून आता उद्या डिलिव्हरीसाठी नियोजित आहे."
+    },
+    {
+      "speaker": "customer",
+      "text": "ते सोमवारला यायला हवे होते."
+    },
+    {
+      "speaker": "agent",
+      "text": "तुमची अडचण समजते. नवीन डिलिव्हरी तारीख 18 एप्रिल आहे."
+    },
+    {
+      "speaker": "customer",
+      "text": "मला ईमेलद्वारे अपडेट मिळेल का?"
+    },
+    {
+      "speaker": "agent",
+      "text": "हो, आम्ही john.john@gmail.com वर पाठवू."
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक आहे, धन्यवाद."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Marathi Scripts.docx",
+    "conversation_index": 5,
+    "total_turns": 10
+  }
+}

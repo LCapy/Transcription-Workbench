@@ -1,0 +1,56 @@
+{
+  "scenario": "Bank Charge Dispute",
+  "language": "EN",
+  "file_language": "lv_LV",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Labdien, zvanu par maksājumu manā kontā, ko nepazīstu."
+    },
+    {
+      "speaker": "agent",
+      "text": "Es varu palīdzēt ar to. Vai varat pateikt maksājuma datumu un summu?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Tas ir no 12. marta, summā 45,99 €."
+    },
+    {
+      "speaker": "agent",
+      "text": "Paldies. Es redzu šo darījumu."
+    },
+    {
+      "speaker": "customer",
+      "text": "Neatceros, ka būtu veikusi šādu pirkumu."
+    },
+    {
+      "speaker": "agent",
+      "text": "Saprotu. Es varu iesniegt strīdu jūsu vietā."
+    },
+    {
+      "speaker": "customer",
+      "text": "Jā, lūdzu."
+    },
+    {
+      "speaker": "agent",
+      "text": "Strīds ir iesniegts. Mēs veiksim izmeklēšanu un informēsim jūs pa e-pastu."
+    },
+    {
+      "speaker": "customer",
+      "text": "Cik ilgi ilgst izmeklēšana?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Parasti tas aizņem līdz 10 darba dienām."
+    },
+    {
+      "speaker": "customer",
+      "text": "Labi, paldies par palīdzību."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Latvian lv-LV Scripts.docx",
+    "conversation_index": 2,
+    "total_turns": 11
+  }
+}

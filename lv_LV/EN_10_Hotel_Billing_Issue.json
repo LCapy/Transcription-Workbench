@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel Billing Issue",
+  "language": "EN",
+  "file_language": "lv_LV",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Labdien, man ir jautājums par maksājumu saistībā ar manu neseno uzturēšanos viesnīcā."
+    },
+    {
+      "speaker": "agent",
+      "text": "Ar prieku palīdzēšu. Vai varat sniegt rezervācijas numuru?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Jā, tas ir RES-90231."
+    },
+    {
+      "speaker": "agent",
+      "text": "Paldies. Es redzu maksājumu no 10. aprīļa par 180 €."
+    },
+    {
+      "speaker": "customer",
+      "text": "Tas šķiet lielāks, nekā es gaidīju."
+    },
+    {
+      "speaker": "agent",
+      "text": "Šī summa ietver vienu nakti un minibāra maksu."
+    },
+    {
+      "speaker": "customer",
+      "text": "Es minibāru neizmantoju."
+    },
+    {
+      "speaker": "agent",
+      "text": "Saprotu. Es varu noņemt šo maksu un veikt daļēju atmaksu."
+    },
+    {
+      "speaker": "customer",
+      "text": "Cik tiks atmaksāts?"
+    },
+    {
+      "speaker": "agent",
+      "text": "30 € tiks atmaksāti uz jūsu karti."
+    },
+    {
+      "speaker": "customer",
+      "text": "Labi, paldies."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Latvian lv-LV Scripts.docx",
+    "conversation_index": 10,
+    "total_turns": 11
+  }
+}

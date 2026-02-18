@@ -1,0 +1,56 @@
+{
+  "scenario": "ホテル請求に関する問い合わせ",
+  "language": "JP",
+  "file_language": "ja_JP",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "こんにちは。最近のホテル宿泊に関する請求について質問があります。"
+    },
+    {
+      "speaker": "agent",
+      "text": "承知しました。予約番号を教えていただけますか？"
+    },
+    {
+      "speaker": "customer",
+      "text": "はい、RES-90231 です。"
+    },
+    {
+      "speaker": "agent",
+      "text": "ありがとうございます。4月10日付で ¥180 の請求が確認できます。"
+    },
+    {
+      "speaker": "customer",
+      "text": "予想より高いように思います。"
+    },
+    {
+      "speaker": "agent",
+      "text": "その請求には1泊分とミニバー料金が含まれています。"
+    },
+    {
+      "speaker": "customer",
+      "text": "ミニバーは利用していません。"
+    },
+    {
+      "speaker": "agent",
+      "text": "承知しました。その料金を削除し、一部返金を行います。"
+    },
+    {
+      "speaker": "customer",
+      "text": "返金額はいくらになりますか？"
+    },
+    {
+      "speaker": "agent",
+      "text": "¥30 がカードへ返金されます。"
+    },
+    {
+      "speaker": "customer",
+      "text": "わかりました。ありがとうございます。"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Japanese Scripts.docx",
+    "conversation_index": 10,
+    "total_turns": 11
+  }
+}

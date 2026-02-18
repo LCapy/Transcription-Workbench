@@ -1,0 +1,52 @@
+{
+  "scenario": "Insurance Claim Status",
+  "language": "MR",
+  "file_language": "mr_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "नमस्कार, मी मागील आठवड्यात सादर केलेल्या विमा दाव्याची स्थिती तपासण्यासाठी फोन करत आहे."
+    },
+    {
+      "speaker": "agent",
+      "text": "नक्कीच. कृपया तुमचा दावा क्रमांक सांगा."
+    },
+    {
+      "speaker": "customer",
+      "text": "हो, CLM-458921 आहे."
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद. मी तपासतो/तपासते."
+    },
+    {
+      "speaker": "agent",
+      "text": "हा दावा 3 एप्रिल रोजी सादर झाला असून सध्या पुनरावलोकनात आहे."
+    },
+    {
+      "speaker": "customer",
+      "text": "तो कधी मंजूर होईल?"
+    },
+    {
+      "speaker": "agent",
+      "text": "पुनरावलोकनास साधारणपणे 5–7 कामकाजाचे दिवस लागतात."
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक आहे. मंजूर झाल्यावर मला कळवले जाईल का?"
+    },
+    {
+      "speaker": "agent",
+      "text": "हो, नोंदणीकृत ईमेलवर आम्ही सूचना पाठवू."
+    },
+    {
+      "speaker": "customer",
+      "text": "ईमेल आहे maria.lopez@gmail.com."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Marathi Scripts.docx",
+    "conversation_index": 3,
+    "total_turns": 10
+  }
+}

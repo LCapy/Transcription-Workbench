@@ -1,0 +1,68 @@
+{
+  "scenario": "Purchase Order Status",
+  "language": "MR",
+  "file_language": "mr_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "नमस्कार, मागील आठवड्यात ऑर्डर केलेल्या वॉशिंग मशीनच्या खरेदी ऑर्डरची स्थिती जाणून घ्यायची आहे."
+    },
+    {
+      "speaker": "agent",
+      "text": "नक्कीच. कृपया ऑर्डर क्रमांक द्या."
+    },
+    {
+      "speaker": "customer",
+      "text": "हो, 78421 आहे."
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद. मी तपासतो/तपासते."
+    },
+    {
+      "speaker": "agent",
+      "text": "ऑर्डर मंजूर झाली असून काल दुपारी पाठवली गेली आहे."
+    },
+    {
+      "speaker": "customer",
+      "text": "छान. ती कधी येईल?"
+    },
+    {
+      "speaker": "agent",
+      "text": "अंदाजे डिलिव्हरी तारीख शुक्रवार, 10 डिसेंबर आहे."
+    },
+    {
+      "speaker": "customer",
+      "text": "आम्हाला शिपिंग कन्फर्मेशन मिळेल का?"
+    },
+    {
+      "speaker": "agent",
+      "text": "हो, आज नंतर ट्रॅकिंग तपशीलांसह ईमेल येईल. संपवण्याआधी, कृपया पेमेंट पद्धत कन्फर्म कराल का?"
+    },
+    {
+      "speaker": "customer",
+      "text": "मी Visa कार्डने पेमेंट केले. नंबर 4111 2222 3344 6677 आहे."
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद. सुरक्षिततेच्या कारणास्तव मी नंबर पुन्हा सांगणार नाही, पण पेमेंट यशस्वीरित्या झाले आहे."
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक आहे."
+    },
+    {
+      "speaker": "agent",
+      "text": "कन्फर्मेशन ईमेल alex@gmail.com वर पाठवला जाईल. आणखी काही मदत हवी आहे का?"
+    },
+    {
+      "speaker": "customer",
+      "text": "नाही, धन्यवाद."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Marathi Scripts.docx",
+    "conversation_index": 6,
+    "total_turns": 14
+  }
+}

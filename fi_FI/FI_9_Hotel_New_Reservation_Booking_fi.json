@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel New Reservation Booking – fi",
+  "language": "FI",
+  "file_language": "fi_FI",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hei, haluaisin tehdä hotellivarauksen ensi kuuksi."
+    },
+    {
+      "speaker": "agent",
+      "text": "Toki. Voinko saada koko nimesi?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Kyllä, Emma Johnson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Kiitos, Emma. Mille päiville haluat majoittua?"
+    },
+    {
+      "speaker": "customer",
+      "text": "12.–15. toukokuuta, uloskirjautuminen 15. päivä."
+    },
+    {
+      "speaker": "agent",
+      "text": "Se olisi kolme yötä. Meillä on standard-huone hintaan 140 € per yö."
+    },
+    {
+      "speaker": "customer",
+      "text": "Sisältääkö hinta verot ja maksut?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Verot eivät sisälly. Verollinen kokonaishinta on 462 €."
+    },
+    {
+      "speaker": "customer",
+      "text": "Selvä. Pitääkö maksaa nyt?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Tarvitsemme luottokortin varauksen takaamiseen, mutta maksu veloitetaan sisäänkirjautumisen yhteydessä."
+    },
+    {
+      "speaker": "customer",
+      "text": "Hyvä. Korttini on Mastercard, numero 9999 8888 3333 1111."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Finnish Scripts.docx",
+    "conversation_index": 9,
+    "total_turns": 11
+  }
+}

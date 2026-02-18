@@ -1,0 +1,60 @@
+{
+  "scenario": "Hotel Reservation Change",
+  "language": "MR",
+  "file_language": "mr_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "नमस्कार, मला माझ्या हॉटेल रिझर्वेशनच्या तारखा बदलायच्या आहेत."
+    },
+    {
+      "speaker": "agent",
+      "text": "नक्कीच. कृपया रिझर्वेशन क्रमांक सांगा."
+    },
+    {
+      "speaker": "customer",
+      "text": "HA-56219."
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद. उपलब्धता तपासतो/तपासते."
+    },
+    {
+      "speaker": "agent",
+      "text": "तुम्हाला कोणत्या नवीन तारखा हव्या आहेत?"
+    },
+    {
+      "speaker": "customer",
+      "text": "10–12 एप्रिल ऐवजी 12–14 एप्रिल करा."
+    },
+    {
+      "speaker": "agent",
+      "text": "त्या तारखा उपलब्ध आहेत."
+    },
+    {
+      "speaker": "customer",
+      "text": "छान."
+    },
+    {
+      "speaker": "agent",
+      "text": "रिझर्वेशन अपडेट केले असून कन्फर्मेशन ईमेल पाठवला आहे."
+    },
+    {
+      "speaker": "customer",
+      "text": "किंमत तीच राहील का?"
+    },
+    {
+      "speaker": "agent",
+      "text": "हो, कोणताही बदल नाही."
+    },
+    {
+      "speaker": "customer",
+      "text": "धन्यवाद."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Marathi Scripts.docx",
+    "conversation_index": 8,
+    "total_turns": 12
+  }
+}

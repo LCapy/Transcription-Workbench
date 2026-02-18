@@ -1,0 +1,52 @@
+{
+  "scenario": "銀行住所変更",
+  "language": "JP",
+  "file_language": "ja_JP",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "こんにちは。銀行口座の郵送先住所を変更したいです。"
+    },
+    {
+      "speaker": "agent",
+      "text": "承知しました。まずフルネームを確認させてください。"
+    },
+    {
+      "speaker": "customer",
+      "text": "はい、Daniel Peterson です。"
+    },
+    {
+      "speaker": "agent",
+      "text": "ありがとうございます、Daniel。新しい住所を教えてください。"
+    },
+    {
+      "speaker": "customer",
+      "text": "782 Green Street, Seattle, Washington, 98101 です。"
+    },
+    {
+      "speaker": "agent",
+      "text": "承知しました。更新いたします。"
+    },
+    {
+      "speaker": "agent",
+      "text": "住所は正常に更新されました。"
+    },
+    {
+      "speaker": "customer",
+      "text": "明細書に影響はありますか？"
+    },
+    {
+      "speaker": "agent",
+      "text": "今後の明細書は新しい住所に送付されます。"
+    },
+    {
+      "speaker": "customer",
+      "text": "助かりました。ありがとうございます。"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Japanese Scripts.docx",
+    "conversation_index": 4,
+    "total_turns": 10
+  }
+}

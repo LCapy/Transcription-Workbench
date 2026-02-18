@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Delivery Delay – fi",
+  "language": "FI",
+  "file_language": "fi_FI",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hei, soitan koska pakettini ei ole vielä saapunut."
+    },
+    {
+      "speaker": "agent",
+      "text": "Olen pahoillani tästä. Voinko saada seurantanumeron?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Kyllä, se on TRK-55134."
+    },
+    {
+      "speaker": "agent",
+      "text": "Kiitos. Tarkistan tilanteen."
+    },
+    {
+      "speaker": "agent",
+      "text": "Paketti on viivästynyt sään vuoksi, ja sen arvioidaan saapuvan huomenna."
+    },
+    {
+      "speaker": "customer",
+      "text": "Sen piti saapua maanantaina."
+    },
+    {
+      "speaker": "agent",
+      "text": "Ymmärrän turhautumisen. Uusi toimituspäivä on 18. huhtikuuta."
+    },
+    {
+      "speaker": "customer",
+      "text": "Saanhan päivityksen sähköpostitse?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Kyllä, lähetämme päivitykset osoitteeseen john.john@gmail.com."
+    },
+    {
+      "speaker": "customer",
+      "text": "Hyvä, kiitos päivityksestä."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Finnish Scripts.docx",
+    "conversation_index": 5,
+    "total_turns": 10
+  }
+}

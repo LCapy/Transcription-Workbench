@@ -1,0 +1,60 @@
+{
+  "scenario": "ホテル予約変更",
+  "language": "JP",
+  "file_language": "ja_JP",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "こんにちは。ホテル予約の日程を変更したいです。"
+    },
+    {
+      "speaker": "agent",
+      "text": "承知しました。予約番号を教えてください。"
+    },
+    {
+      "speaker": "customer",
+      "text": "はい、HA-56219 です。"
+    },
+    {
+      "speaker": "agent",
+      "text": "ありがとうございます。空室を確認します。"
+    },
+    {
+      "speaker": "agent",
+      "text": "ご希望の新しい日程はいつでしょうか？"
+    },
+    {
+      "speaker": "customer",
+      "text": "4月10日〜12日を、4月12日〜14日に変更したいです。"
+    },
+    {
+      "speaker": "agent",
+      "text": "その日程でご用意可能です。"
+    },
+    {
+      "speaker": "customer",
+      "text": "よかったです。"
+    },
+    {
+      "speaker": "agent",
+      "text": "予約を更新し、確認メールをお送りしました。"
+    },
+    {
+      "speaker": "customer",
+      "text": "料金は変わりませんか？"
+    },
+    {
+      "speaker": "agent",
+      "text": "はい、料金の変更はありません。"
+    },
+    {
+      "speaker": "customer",
+      "text": "ありがとうございます。"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Japanese Scripts.docx",
+    "conversation_index": 8,
+    "total_turns": 12
+  }
+}

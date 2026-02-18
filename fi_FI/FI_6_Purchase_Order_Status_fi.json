@@ -1,0 +1,68 @@
+{
+  "scenario": "Purchase Order Status – fi",
+  "language": "FI",
+  "file_language": "fi_FI",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hei, soitan tarkistaakseni viime viikolla tekemämme pesukonetilauksen tilan."
+    },
+    {
+      "speaker": "agent",
+      "text": "Toki. Onko sinulla ostotilausnumero?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Kyllä, se on 78421."
+    },
+    {
+      "speaker": "agent",
+      "text": "Kiitos. Tarkistan sen."
+    },
+    {
+      "speaker": "agent",
+      "text": "Näen, että tilaus on hyväksytty ja lähetetty eilen iltapäivällä."
+    },
+    {
+      "speaker": "customer",
+      "text": "Hienoa kuulla. Tiedätkö, milloin se saapuu?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Arvioitu toimituspäivä on perjantaina 10. joulukuuta."
+    },
+    {
+      "speaker": "customer",
+      "text": "Saammeko toimitusvahvistuksen?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Kyllä, saat sähköpostin seurantatiedoilla myöhemmin tänään. Ennen kuin lopetamme, voitko vahvistaa maksutavan?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Maksoin Visa-kortilla. Numero on 4111 2222 3344 6677."
+    },
+    {
+      "speaker": "agent",
+      "text": "Kiitos. Turvallisuussyistä en toista numeroa, mutta voin vahvistaa, että maksu on onnistunut."
+    },
+    {
+      "speaker": "customer",
+      "text": "Selvä."
+    },
+    {
+      "speaker": "agent",
+      "text": "Vahvistus lähetetään osoitteeseen alex@gmail.com. Voinko auttaa vielä jossain?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ei, kiitos."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Finnish Scripts.docx",
+    "conversation_index": 6,
+    "total_turns": 14
+  }
+}

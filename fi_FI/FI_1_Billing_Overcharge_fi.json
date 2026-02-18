@@ -1,0 +1,60 @@
+{
+  "scenario": "Billing Overcharge – fi",
+  "language": "FI",
+  "file_language": "fi_FI",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hei, soitan koska luulen, että minulta on veloitettu kuukausitilaukseni kahdesti."
+    },
+    {
+      "speaker": "agent",
+      "text": "Olen pahoillani tästä. Voin auttaa selvittämään asian. Voinko saada tilillä olevan sähköpostiosoitteen?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Kyllä, se on alex.morgan@gmail.com."
+    },
+    {
+      "speaker": "agent",
+      "text": "Kiitos. Avaan tilisi, tämä kestää vain hetken."
+    },
+    {
+      "speaker": "agent",
+      "text": "Näen kaksi veloitusta, 54,50 €, jotka kirjattiin eilen. Toinen näyttää olevan kaksoisveloitus."
+    },
+    {
+      "speaker": "customer",
+      "text": "Okei, näin ajattelinkin."
+    },
+    {
+      "speaker": "agent",
+      "text": "Teen hyvityspyynnön ylimääräisestä veloituksesta. Sinun ei tarvitse tehdä mitään muuta."
+    },
+    {
+      "speaker": "customer",
+      "text": "Kuinka kauan hyvitys yleensä kestää?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Hyvityksen pitäisi näkyä 5–7 arkipäivän kuluessa."
+    },
+    {
+      "speaker": "customer",
+      "text": "Selvä, kiitos että tarkistit."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tottakai. Onko jotain muuta, missä voin auttaa tänään?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ei, siinä kaikki."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Finnish Scripts.docx",
+    "conversation_index": 1,
+    "total_turns": 12
+  }
+}

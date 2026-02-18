@@ -1,0 +1,68 @@
+{
+  "scenario": "Purchase Order Status",
+  "language": "HI",
+  "file_language": "hi_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "नमस्ते, मैं पिछले हफ्ते की गई वॉशिंग मशीन की खरीद ऑर्डर की स्थिति जानना चाहता/चाहती हूँ।"
+    },
+    {
+      "speaker": "agent",
+      "text": "ज़रूर। क्या आपके पास खरीद ऑर्डर नंबर है?"
+    },
+    {
+      "speaker": "customer",
+      "text": "हाँ, यह है — 78421।"
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद। मैं देखता/देखती हूँ।"
+    },
+    {
+      "speaker": "agent",
+      "text": "ऑर्डर मंज़ूर हो चुका है और कल दोपहर को भेज दिया गया था।"
+    },
+    {
+      "speaker": "customer",
+      "text": "अच्छा है। यह कब तक पहुँचेगा?"
+    },
+    {
+      "speaker": "agent",
+      "text": "अनुमानित डिलीवरी तिथि इस शुक्रवार, 10 दिसंबर है।"
+    },
+    {
+      "speaker": "customer",
+      "text": "क्या हमें शिपमेंट की पुष्टि प्राप्त होगी?"
+    },
+    {
+      "speaker": "agent",
+      "text": "हाँ, आपको आज बाद में ट्रैकिंग विवरणों के साथ ईमेल मिलेगा। समाप्त करने से पहले, कृपया भुगतान विधि की पुष्टि करें।"
+    },
+    {
+      "speaker": "customer",
+      "text": "मैंने Visa कार्ड से भुगतान किया है। नंबर है 4111 2222 3344 6677।"
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद। सुरक्षा कारणों से मैं कार्ड नंबर दोहराऊँगा/दुहराऊँगी नहीं, लेकिन भुगतान सफल रहा है।"
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है।"
+    },
+    {
+      "speaker": "agent",
+      "text": "पुष्टि ईमेल alex@gmail.com पर भेज दी जाएगी। क्या और कुछ चाहिए?"
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं, धन्यवाद।"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Hindi Scripts.docx",
+    "conversation_index": 6,
+    "total_turns": 14
+  }
+}

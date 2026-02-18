@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Delivery Delay",
+  "language": "ID",
+  "file_language": "ID_ID",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Halo, saya menelepon karena paket saya belum juga tiba."
+    },
+    {
+      "speaker": "agent",
+      "text": "Mohon maaf atas keterlambatannya. Boleh saya minta nomor pelacakannya?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ya, TRK-55134."
+    },
+    {
+      "speaker": "agent",
+      "text": "Terima kasih. Saya cek statusnya."
+    },
+    {
+      "speaker": "agent",
+      "text": "Paket tertunda karena cuaca dan kini dijadwalkan untuk dikirim besok."
+    },
+    {
+      "speaker": "customer",
+      "text": "Seharusnya tiba hari Senin."
+    },
+    {
+      "speaker": "agent",
+      "text": "Saya memahami kekecewaan Anda. Tanggal pengiriman terbaru adalah 18 April."
+    },
+    {
+      "speaker": "customer",
+      "text": "Apakah saya akan menerima pembaruan melalui email?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ya, kami akan mengirimkan pembaruan ke john.john@gmail.com."
+    },
+    {
+      "speaker": "customer",
+      "text": "Baik, terima kasih."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Bahasa id_ID Scripts.docx",
+    "conversation_index": 5,
+    "total_turns": 10
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "scenario": "Billing Overcharge",
+  "language": "EN",
+  "file_language": "lv_LV",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Labdien, zvanu, jo domāju, ka man par ikmēneša abonementu ir noņemta maksa divas reizes."
+    },
+    {
+      "speaker": "agent",
+      "text": "Atvainojiet par to. Es varu jums palīdzēt to pārbaudīt. Vai varu saņemt e-pasta adresi, kas pievienota jūsu kontam?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Jā, tā ir alex.morgan@gmail.com."
+    },
+    {
+      "speaker": "agent",
+      "text": "Paldies. Ļaujiet man atvērt jūsu kontu. Tas aizņems tikai mirkli."
+    },
+    {
+      "speaker": "agent",
+      "text": "Es redzu divus maksājumus 54,50 € apmērā, kas veikti vakar. Viens no tiem izskatās kā dublikāts."
+    },
+    {
+      "speaker": "customer",
+      "text": "Labi, tieši to arī domāju."
+    },
+    {
+      "speaker": "agent",
+      "text": "Es iesniegšu atmaksu par papildu maksājumu. Jums nav jāveic nekādas papildu darbības."
+    },
+    {
+      "speaker": "customer",
+      "text": "Cik ilgi parasti ilgst atmaksa?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Atmaksas parasti parādās piecu līdz septiņu darba dienu laikā."
+    },
+    {
+      "speaker": "customer",
+      "text": "Labi, paldies, ka pārbaudījāt."
+    },
+    {
+      "speaker": "agent",
+      "text": "Protams. Vai varu jums vēl ar kaut ko palīdzēt šodien?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Nē, tas ir viss."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Latvian lv-LV Scripts.docx",
+    "conversation_index": 1,
+    "total_turns": 12
+  }
+}
