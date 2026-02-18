@@ -1,0 +1,52 @@
+{
+  "scenario": "Insurance Claim Status",
+  "language": "EL",
+  "file_language": "el_GR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Γεια σας, καλώ για να ελέγξω την κατάσταση μιας αίτησης αποζημίωσης που υπέβαλα την προηγούμενη εβδομάδα."
+    },
+    {
+      "speaker": "agent",
+      "text": "Βεβαίως. Μπορώ να έχω τον αριθμό της αίτησής σας;"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ναι, είναι CLM-458921."
+    },
+    {
+      "speaker": "agent",
+      "text": "Ευχαριστώ. Δώστε μου ένα λεπτό."
+    },
+    {
+      "speaker": "agent",
+      "text": "Βλέπω ότι η αίτηση υποβλήθηκε στις 3 Απριλίου και βρίσκεται υπό επεξεργασία."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ξέρετε πότε θα εγκριθεί;"
+    },
+    {
+      "speaker": "agent",
+      "text": "Συνήθως χρειάζονται πέντε έως επτά εργάσιμες ημέρες."
+    },
+    {
+      "speaker": "customer",
+      "text": "Μάλιστα. Θα ειδοποιηθώ όταν εγκριθεί;"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ναι, θα στείλουμε email στη διεύθυνση που είναι καταχωρημένη."
+    },
+    {
+      "speaker": "customer",
+      "text": "Είναι το maria.lopez@gmail.com."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Greek Scripts.docx",
+    "conversation_index": 3,
+    "total_turns": 10
+  }
+}

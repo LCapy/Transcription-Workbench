@@ -1,0 +1,60 @@
+{
+  "scenario": "Billing Overcharge",
+  "language": "CS",
+  "file_language": "cs_CZ",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Dobrý den, volám, protože si myslím, že mi byl dvakrát naúčtován měsíční poplatek za předplatné."
+    },
+    {
+      "speaker": "agent",
+      "text": "Je mi to líto. Mohu to pro vás prověřit. Můžete mi sdělit e-mailovou adresu uvedenou u účtu?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ano, je to alex.morgan@gmail.com."
+    },
+    {
+      "speaker": "agent",
+      "text": "Děkuji. Načtu váš účet, potrvá to jen chvilku."
+    },
+    {
+      "speaker": "agent",
+      "text": "Vidím dvě platby ve výši 54,50 Kč zaúčtované včera. Jedna z nich se zdá být duplicitní."
+    },
+    {
+      "speaker": "customer",
+      "text": "Dobře, to jsem si myslel."
+    },
+    {
+      "speaker": "agent",
+      "text": "Podám žádost o vrácení přeplatku. Nemusíte podnikat žádné další kroky."
+    },
+    {
+      "speaker": "customer",
+      "text": "Jak dlouho obvykle vrácení trvá?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Vrácení peněz se obvykle projeví do pěti až sedmi pracovních dnů."
+    },
+    {
+      "speaker": "customer",
+      "text": "Dobře, děkuji za kontrolu."
+    },
+    {
+      "speaker": "agent",
+      "text": "Rádo se stalo. Mohu vám dnes ještě s něčím pomoci?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ne, to je vše."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Czech Scripts.docx",
+    "conversation_index": 1,
+    "total_turns": 12
+  }
+}

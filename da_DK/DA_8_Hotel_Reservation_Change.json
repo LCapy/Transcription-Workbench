@@ -1,0 +1,60 @@
+{
+  "scenario": "Hotel Reservation Change",
+  "language": "DA",
+  "file_language": "da_DK",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hej, jeg har brug for at ændre datoerne på min hotelreservation."
+    },
+    {
+      "speaker": "agent",
+      "text": "Selvfølgelig. Må jeg få dit reservationsnummer?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, det er HA-56219."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tak. Jeg tjekker tilgængeligheden."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hvilke nye datoer ønsker du?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Jeg vil gerne ændre den fra 10.–12. april til 12.–14. april."
+    },
+    {
+      "speaker": "agent",
+      "text": "De datoer er tilgængelige."
+    },
+    {
+      "speaker": "customer",
+      "text": "Fantastisk."
+    },
+    {
+      "speaker": "agent",
+      "text": "Jeg har opdateret reservationen og sendt en bekræftelsesmail."
+    },
+    {
+      "speaker": "customer",
+      "text": "Forbliver prisen den samme?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ja, der er ingen prisændring."
+    },
+    {
+      "speaker": "customer",
+      "text": "Mange tak."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Danish Scripts.docx",
+    "conversation_index": 8,
+    "total_turns": 12
+  }
+}

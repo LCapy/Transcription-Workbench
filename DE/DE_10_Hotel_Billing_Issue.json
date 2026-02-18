@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel Billing Issue",
+  "language": "DE",
+  "file_language": "DE",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hallo, ich habe eine Frage zu einer Abbuchung von meinem letzten Hotelaufenthalt."
+    },
+    {
+      "speaker": "agent",
+      "text": "Gerne helfe ich Ihnen weiter. Können Sie mir Ihre Reservierungsnummer nennen?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, sie lautet RES-90231."
+    },
+    {
+      "speaker": "agent",
+      "text": "Vielen Dank. Ich sehe eine Abbuchung vom 10. April über 180 €."
+    },
+    {
+      "speaker": "customer",
+      "text": "Das erscheint mir höher als erwartet."
+    },
+    {
+      "speaker": "agent",
+      "text": "Die Abbuchung umfasst eine Übernachtung sowie eine Minibar-Gebühr."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ich habe die Minibar nicht genutzt."
+    },
+    {
+      "speaker": "agent",
+      "text": "Verstanden. Ich kann diese Gebühr entfernen und eine teilweise Rückerstattung veranlassen."
+    },
+    {
+      "speaker": "customer",
+      "text": "Wie hoch wird die Rückerstattung sein?"
+    },
+    {
+      "speaker": "agent",
+      "text": "30 € werden auf Ihre Karte zurückerstattet."
+    },
+    {
+      "speaker": "customer",
+      "text": "Okay, danke."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco DE Scripts.docx",
+    "conversation_index": 10,
+    "total_turns": 11
+  }
+}

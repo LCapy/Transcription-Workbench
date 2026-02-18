@@ -1,0 +1,68 @@
+{
+  "scenario": "Purchase Order Status – AR",
+  "language": "SA",
+  "file_language": "AR_SA",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "مرحباً، أود معرفة حالة طلب شراء لغسالة قمنا بطلبها الأسبوع الماضي."
+    },
+    {
+      "speaker": "agent",
+      "text": "بالتأكيد. هل لديك رقم الطلب؟"
+    },
+    {
+      "speaker": "customer",
+      "text": "نعم، 78421."
+    },
+    {
+      "speaker": "agent",
+      "text": "شكراً، سأتحقق الآن."
+    },
+    {
+      "speaker": "agent",
+      "text": "تم اعتماد الطلب وشحنه عصر يوم أمس."
+    },
+    {
+      "speaker": "customer",
+      "text": "ممتاز. متى سيصل؟"
+    },
+    {
+      "speaker": "agent",
+      "text": "من المتوقع أن يصل يوم الجمعة، 10 ديسمبر."
+    },
+    {
+      "speaker": "customer",
+      "text": "هل سنتلقى تأكيد الشحن؟"
+    },
+    {
+      "speaker": "agent",
+      "text": "نعم، ستصلك رسالة بالبريد الإلكتروني مع تفاصيل التتبع اليوم. قبل أن أنهي، هل يمكنني التأكد من طريقة الدفع؟"
+    },
+    {
+      "speaker": "customer",
+      "text": "نعم، دفعت ببطاقة Visa. رقمها 4111 2222 3344 6677."
+    },
+    {
+      "speaker": "agent",
+      "text": "شكراً. لأسباب أمنية لن أكرر الرقم، ولكن عملية الدفع ناجحة."
+    },
+    {
+      "speaker": "customer",
+      "text": "تمام."
+    },
+    {
+      "speaker": "agent",
+      "text": "سيتم إرسال التأكيد إلى alex@gmail.com. هل تحتاج أي مساعدة أخرى؟"
+    },
+    {
+      "speaker": "customer",
+      "text": "لا، شكراً."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco ar_SA Scripts.docx",
+    "conversation_index": 6,
+    "total_turns": 14
+  }
+}

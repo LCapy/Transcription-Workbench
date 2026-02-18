@@ -1,0 +1,60 @@
+{
+  "scenario": "Hotel Reservation Change",
+  "language": "DE",
+  "file_language": "DE",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hallo, ich muss die Daten meiner Hotelreservierung ändern."
+    },
+    {
+      "speaker": "agent",
+      "text": "Gerne. Darf ich Ihre Reservierungsnummer haben?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, sie lautet HA-56219."
+    },
+    {
+      "speaker": "agent",
+      "text": "Vielen Dank. Ich prüfe die Verfügbarkeit."
+    },
+    {
+      "speaker": "agent",
+      "text": "Welche neuen Daten wünschen Sie?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ich möchte sie vom 10.–12. April auf den 12.–14. April verschieben."
+    },
+    {
+      "speaker": "agent",
+      "text": "Diese Daten sind verfügbar."
+    },
+    {
+      "speaker": "customer",
+      "text": "Super."
+    },
+    {
+      "speaker": "agent",
+      "text": "Ich habe die Reservierung aktualisiert und eine Bestätigungs-E-Mail gesendet."
+    },
+    {
+      "speaker": "customer",
+      "text": "Bleibt der Preis gleich?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ja, es gibt keine Preisänderung."
+    },
+    {
+      "speaker": "customer",
+      "text": "Vielen Dank."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco DE Scripts.docx",
+    "conversation_index": 8,
+    "total_turns": 12
+  }
+}

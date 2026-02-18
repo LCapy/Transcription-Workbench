@@ -1,0 +1,56 @@
+{
+  "scenario": "Bank Charge Dispute",
+  "language": "DA",
+  "file_language": "da_DK",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hej, jeg ringer angående en opkrævning på min konto, som jeg ikke genkender."
+    },
+    {
+      "speaker": "agent",
+      "text": "Det kan jeg hjælpe med. Kan du oplyse datoen og beløbet for opkrævningen?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Det er fra den 12. marts på 45,99 kr.."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tak. Jeg kan se transaktionen her."
+    },
+    {
+      "speaker": "customer",
+      "text": "Jeg kan ikke huske at have foretaget dette køb."
+    },
+    {
+      "speaker": "agent",
+      "text": "Forstået. Jeg kan oprette en indsigelse for dig."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, gør venligst det."
+    },
+    {
+      "speaker": "agent",
+      "text": "Indsigelsen er oprettet. Vi undersøger sagen og holder dig opdateret via e-mail."
+    },
+    {
+      "speaker": "customer",
+      "text": "Hvor lang tid tager undersøgelsen?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Det tager normalt op til 10 arbejdsdage."
+    },
+    {
+      "speaker": "customer",
+      "text": "Okay, tak for hjælpen."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Danish Scripts.docx",
+    "conversation_index": 2,
+    "total_turns": 11
+  }
+}

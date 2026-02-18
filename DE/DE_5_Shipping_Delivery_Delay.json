@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Delivery Delay",
+  "language": "DE",
+  "file_language": "DE",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hallo, ich rufe an, weil mein Paket noch nicht angekommen ist."
+    },
+    {
+      "speaker": "agent",
+      "text": "Es tut mir leid. Darf ich die Sendungsnummer haben?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, sie lautet TRK-55134."
+    },
+    {
+      "speaker": "agent",
+      "text": "Vielen Dank. Ich überprüfe den Status."
+    },
+    {
+      "speaker": "agent",
+      "text": "Das Paket hat sich wetterbedingt verzögert und ist nun für die Zustellung morgen vorgesehen."
+    },
+    {
+      "speaker": "customer",
+      "text": "Es sollte am Montag ankommen."
+    },
+    {
+      "speaker": "agent",
+      "text": "Ich verstehe die Frustration. Das neue Lieferdatum ist der 18. April."
+    },
+    {
+      "speaker": "customer",
+      "text": "Erhalte ich ein Update per E-Mail?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ja, wir senden Updates an john.john@gmail.com."
+    },
+    {
+      "speaker": "customer",
+      "text": "Alles klar, danke für das Update."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco DE Scripts.docx",
+    "conversation_index": 5,
+    "total_turns": 10
+  }
+}

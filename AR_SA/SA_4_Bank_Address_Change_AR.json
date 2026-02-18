@@ -1,0 +1,52 @@
+{
+  "scenario": "Bank Address Change – AR",
+  "language": "SA",
+  "file_language": "AR_SA",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "مرحباً، أحتاج لتحديث عنوان البريد في حسابي البنكي."
+    },
+    {
+      "speaker": "agent",
+      "text": "بالتأكيد. هل أستطيع التأكد من اسمك الكامل؟"
+    },
+    {
+      "speaker": "customer",
+      "text": "نعم، Daniel Peterson."
+    },
+    {
+      "speaker": "agent",
+      "text": "شكراً Daniel. ما هو العنوان الجديد؟"
+    },
+    {
+      "speaker": "customer",
+      "text": "782 Green Street, Seattle, Washington, 98101."
+    },
+    {
+      "speaker": "agent",
+      "text": "تم التحديث الآن."
+    },
+    {
+      "speaker": "agent",
+      "text": "تم تعديل العنوان بنجاح."
+    },
+    {
+      "speaker": "customer",
+      "text": "هل سيؤثر هذا على بيانات الحساب؟"
+    },
+    {
+      "speaker": "agent",
+      "text": "البيانات القادمة سيتم إرسالها للعنوان الجديد."
+    },
+    {
+      "speaker": "customer",
+      "text": "ممتاز، شكراً."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco ar_SA Scripts.docx",
+    "conversation_index": 4,
+    "total_turns": 10
+  }
+}

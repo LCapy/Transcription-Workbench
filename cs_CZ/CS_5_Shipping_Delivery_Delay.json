@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Delivery Delay",
+  "language": "CS",
+  "file_language": "cs_CZ",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Dobrý den, volám, protože mi ještě nedorazil balík."
+    },
+    {
+      "speaker": "agent",
+      "text": "Omlouváme se za komplikace. Můžete mi sdělit sledovací číslo?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ano, je to TRK-55134."
+    },
+    {
+      "speaker": "agent",
+      "text": "Děkuji, ověřím stav."
+    },
+    {
+      "speaker": "agent",
+      "text": "Zásilka byla zpožděna kvůli počasí a nyní je naplánována na doručení zítra."
+    },
+    {
+      "speaker": "customer",
+      "text": "Měla dorazit v pondělí."
+    },
+    {
+      "speaker": "agent",
+      "text": "Chápu vaši frustraci. Nový termín doručení je 18. dubna."
+    },
+    {
+      "speaker": "customer",
+      "text": "Dostanu aktualizaci e-mailem?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ano, zašleme ji na john.john@gmail.com."
+    },
+    {
+      "speaker": "customer",
+      "text": "Dobře, děkuji."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Czech Scripts.docx",
+    "conversation_index": 5,
+    "total_turns": 10
+  }
+}

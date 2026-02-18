@@ -1,0 +1,60 @@
+{
+  "scenario": "Billing Overcharge",
+  "language": "DA",
+  "file_language": "da_DK",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hej, jeg ringer, fordi jeg tror, jeg er blevet opkrævet to gange for mit månedlige abonnement."
+    },
+    {
+      "speaker": "agent",
+      "text": "Det er jeg ked af at høre. Jeg kan hjælpe med at undersøge det. Må jeg få e-mailadressen på kontoen?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, det er alex.morgan@gmail.com."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tak. Jeg henter din konto frem. Det tager kun et øjeblik."
+    },
+    {
+      "speaker": "agent",
+      "text": "Jeg kan se to opkrævninger på 54,50 kr. fra i går. Den ene ser ud til at være en dublet."
+    },
+    {
+      "speaker": "customer",
+      "text": "Okay, det var også det, jeg troede."
+    },
+    {
+      "speaker": "agent",
+      "text": "Jeg opretter en tilbagebetaling for den ekstra opkrævning. Du behøver ikke foretage dig yderligere."
+    },
+    {
+      "speaker": "customer",
+      "text": "Hvor lang tid tager tilbagebetalingen normalt?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Tilbagebetalinger vises typisk inden for fem til syv arbejdsdage."
+    },
+    {
+      "speaker": "customer",
+      "text": "Okay, tak fordi du kiggede på det."
+    },
+    {
+      "speaker": "agent",
+      "text": "Selvfølgelig. Er der andet, jeg kan hjælpe dig med i dag?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Nej, det er alt."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Danish Scripts.docx",
+    "conversation_index": 1,
+    "total_turns": 12
+  }
+}

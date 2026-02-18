@@ -1,0 +1,60 @@
+{
+  "scenario": "Billing Overcharge – AR",
+  "language": "SA",
+  "file_language": "AR_SA",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "مرحباً، أتصل لأنني أعتقد أنه تم خصم قيمة الاشتراك الشهري مني مرتين."
+    },
+    {
+      "speaker": "agent",
+      "text": "أعتذر لك عن ذلك. أقدر مساعدتك في التحقق. هل أستطيع الحصول على البريد الإلكتروني المسجل في الحساب؟"
+    },
+    {
+      "speaker": "customer",
+      "text": "نعم، هو alex.morgan@gmail.com."
+    },
+    {
+      "speaker": "agent",
+      "text": "شكراً لك. سأفتح حسابك الآن، لحظة فقط."
+    },
+    {
+      "speaker": "agent",
+      "text": "يظهر لدي خصمان بقيمة 54.50 ر.س تم تسجيلهما أمس. ويبدو أن أحدهما مكرر."
+    },
+    {
+      "speaker": "customer",
+      "text": "نعم، هذا ما توقعته."
+    },
+    {
+      "speaker": "agent",
+      "text": "سأقدم طلب استرداد للمبلغ المكرر. لا تحتاج لعمل أي شيء إضافي."
+    },
+    {
+      "speaker": "customer",
+      "text": "عادةً كم يستغرق الاسترداد؟"
+    },
+    {
+      "speaker": "agent",
+      "text": "عادةً يظهر خلال 5 إلى 7 أيام عمل."
+    },
+    {
+      "speaker": "customer",
+      "text": "تمام، شكراً لك."
+    },
+    {
+      "speaker": "agent",
+      "text": "على الرحب والسعة. هل يمكنني مساعدتك في شيء آخر؟"
+    },
+    {
+      "speaker": "customer",
+      "text": "لا، شكراً."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco ar_SA Scripts.docx",
+    "conversation_index": 1,
+    "total_turns": 12
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel Billing Issue",
+  "language": "DA",
+  "file_language": "da_DK",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hej, jeg har et spørgsmål vedrørende en opkrævning fra mit seneste hotelophold."
+    },
+    {
+      "speaker": "agent",
+      "text": "Det vil jeg gerne hjælpe med. Kan du oplyse dit reservationsnummer?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, det er RES-90231."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tak. Jeg kan se en opkrævning fra den 10. april på 180 kr.."
+    },
+    {
+      "speaker": "customer",
+      "text": "Det virker højere, end jeg forventede."
+    },
+    {
+      "speaker": "agent",
+      "text": "Opkrævningen inkluderer én overnatning samt et minibar-gebyr."
+    },
+    {
+      "speaker": "customer",
+      "text": "Jeg brugte ikke minibaren."
+    },
+    {
+      "speaker": "agent",
+      "text": "Forstået. Jeg kan fjerne gebyret og udstede en delvis tilbagebetaling."
+    },
+    {
+      "speaker": "customer",
+      "text": "Hvor meget bliver refunderet?"
+    },
+    {
+      "speaker": "agent",
+      "text": "30 kr. vil blive refunderet til dit kort."
+    },
+    {
+      "speaker": "customer",
+      "text": "Okay, tak."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Danish Scripts.docx",
+    "conversation_index": 10,
+    "total_turns": 11
+  }
+}

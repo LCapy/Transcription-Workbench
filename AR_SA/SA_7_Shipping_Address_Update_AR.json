@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Address Update – AR",
+  "language": "SA",
+  "file_language": "AR_SA",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "مرحباً، أود تغيير عنوان الشحن لطلب قمت به اليوم."
+    },
+    {
+      "speaker": "agent",
+      "text": "بالتأكيد. هل تم شحن الطلب؟"
+    },
+    {
+      "speaker": "customer",
+      "text": "لا، لم يُشحن بعد."
+    },
+    {
+      "speaker": "agent",
+      "text": "جميل، ما هو العنوان الجديد؟"
+    },
+    {
+      "speaker": "customer",
+      "text": "245 Market Street, San Jose, California."
+    },
+    {
+      "speaker": "agent",
+      "text": "شكراً، تم تحديث العنوان."
+    },
+    {
+      "speaker": "customer",
+      "text": "هل سيتأخر التسليم؟"
+    },
+    {
+      "speaker": "agent",
+      "text": "لا، سيبقى الموعد كما هو."
+    },
+    {
+      "speaker": "customer",
+      "text": "ممتاز، شكراً."
+    },
+    {
+      "speaker": "agent",
+      "text": "على الرحب والسعة."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco ar_SA Scripts.docx",
+    "conversation_index": 7,
+    "total_turns": 10
+  }
+}

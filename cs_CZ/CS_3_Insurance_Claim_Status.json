@@ -1,0 +1,52 @@
+{
+  "scenario": "Insurance Claim Status",
+  "language": "CS",
+  "file_language": "cs_CZ",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Dobrý den, volám, abych zjistil stav pojistné události, kterou jsem nahlásil minulý týden."
+    },
+    {
+      "speaker": "agent",
+      "text": "Rád pomohu. Můžete mi sdělit číslo pojistné události?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ano, je to CLM-458921."
+    },
+    {
+      "speaker": "agent",
+      "text": "Děkuji, hned to ověřím."
+    },
+    {
+      "speaker": "agent",
+      "text": "Vidím, že událost byla nahlášena 3. dubna a je momentálně v posuzování."
+    },
+    {
+      "speaker": "customer",
+      "text": "Víte, kdy bude schválena?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Posouzení obvykle trvá pět až sedm pracovních dnů."
+    },
+    {
+      "speaker": "customer",
+      "text": "Dobře. Budu informován, jakmile bude schválena?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ano, zašleme e-mail na adresu uvedenou v systému."
+    },
+    {
+      "speaker": "customer",
+      "text": "To je maria.lopez@gmail.com."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Czech Scripts.docx",
+    "conversation_index": 3,
+    "total_turns": 10
+  }
+}

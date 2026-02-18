@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel New Reservation Booking",
+  "language": "EL",
+  "file_language": "el_GR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Γεια σας, θα ήθελα να κάνω μια κράτηση ξενοδοχείου για τον επόμενο μήνα."
+    },
+    {
+      "speaker": "agent",
+      "text": "Φυσικά. Μπορώ να έχω το πλήρες όνομά σας;"
+    },
+    {
+      "speaker": "customer",
+      "text": "Emma Johnson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Ευχαριστώ, Emma. Ποιες είναι οι ημερομηνίες της διαμονής σας;"
+    },
+    {
+      "speaker": "customer",
+      "text": "Από 12 Μαΐου έως 15 Μαΐου, με αναχώρηση στις 15."
+    },
+    {
+      "speaker": "agent",
+      "text": "Είναι τρεις διανυκτερεύσεις. Έχουμε ένα standard δωμάτιο για €140 τη βραδιά."
+    },
+    {
+      "speaker": "customer",
+      "text": "Περιλαμβάνονται φόροι και τέλη;"
+    },
+    {
+      "speaker": "agent",
+      "text": "Όχι. Με φόρους, το συνολικό ποσό είναι €462."
+    },
+    {
+      "speaker": "customer",
+      "text": "Πρέπει να πληρώσω τώρα;"
+    },
+    {
+      "speaker": "agent",
+      "text": "Όχι, χρειαζόμαστε μόνο μια πιστωτική κάρτα για κράτηση. Η χρέωση γίνεται κατά το check-in."
+    },
+    {
+      "speaker": "customer",
+      "text": "Εντάξει. Μπορώ να σας δώσω τον αριθμό της Mastercard μου, 9999 8888 3333 1111."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Greek Scripts.docx",
+    "conversation_index": 9,
+    "total_turns": 11
+  }
+}

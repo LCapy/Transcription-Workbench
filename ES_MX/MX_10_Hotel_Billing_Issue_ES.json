@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel Billing Issue – ES",
+  "language": "MX",
+  "file_language": "ES_MX",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hola, tengo una pregunta sobre un cargo de mi reciente estancia en el hotel."
+    },
+    {
+      "speaker": "agent",
+      "text": "Con gusto le ayudo. ¿Puede proporcionarme su número de reservación?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Sí, es RES-90231."
+    },
+    {
+      "speaker": "agent",
+      "text": "Gracias. Veo un cargo del 10 de abril por 180 pesos."
+    },
+    {
+      "speaker": "customer",
+      "text": "Parece más alto de lo esperado."
+    },
+    {
+      "speaker": "agent",
+      "text": "El cargo incluye una noche más un cargo por minibar."
+    },
+    {
+      "speaker": "customer",
+      "text": "No utilicé el minibar."
+    },
+    {
+      "speaker": "agent",
+      "text": "Entendido. Puedo eliminar ese cargo y emitir un reembolso parcial."
+    },
+    {
+      "speaker": "customer",
+      "text": "¿Cuánto se reembolsará?"
+    },
+    {
+      "speaker": "agent",
+      "text": "30 pesos serán reembolsados a su tarjeta."
+    },
+    {
+      "speaker": "customer",
+      "text": "De acuerdo, gracias."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco es_MX Scripts.docx",
+    "conversation_index": 10,
+    "total_turns": 11
+  }
+}

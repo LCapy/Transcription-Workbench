@@ -1,0 +1,56 @@
+{
+  "scenario": "Bank Charge Dispute – AR",
+  "language": "SA",
+  "file_language": "AR_SA",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "مرحباً، أتصل بخصوص عملية خصم لا أعرفها على حسابي."
+    },
+    {
+      "speaker": "agent",
+      "text": "أقدر مساعدتك. هل يمكن أن تخبرني بتاريخ العملية وقيمتها؟"
+    },
+    {
+      "speaker": "customer",
+      "text": "بتاريخ 12 مارس، بقيمة 45.99 ر.س."
+    },
+    {
+      "speaker": "agent",
+      "text": "شكراً. أرى العملية الآن."
+    },
+    {
+      "speaker": "customer",
+      "text": "لا أتذكر أنني قمت بهذه العملية."
+    },
+    {
+      "speaker": "agent",
+      "text": "مفهوم. أقدر فتح طلب اعتراض لك."
+    },
+    {
+      "speaker": "customer",
+      "text": "نعم، تفضل."
+    },
+    {
+      "speaker": "agent",
+      "text": "تم تقديم الاعتراض. سنجري التحقيق ونتواصل معك عبر البريد الإلكتروني."
+    },
+    {
+      "speaker": "customer",
+      "text": "كم يستغرق التحقيق؟"
+    },
+    {
+      "speaker": "agent",
+      "text": "عادةً يصل إلى 10 أيام عمل."
+    },
+    {
+      "speaker": "customer",
+      "text": "تمام، شكراً لك."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco ar_SA Scripts.docx",
+    "conversation_index": 2,
+    "total_turns": 11
+  }
+}
