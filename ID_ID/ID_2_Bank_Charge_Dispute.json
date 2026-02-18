@@ -1,0 +1,56 @@
+{
+  "scenario": "Bank Charge Dispute",
+  "language": "ID",
+  "file_language": "ID_ID",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Halo, saya menelepon mengenai tagihan di akun saya yang tidak saya kenali."
+    },
+    {
+      "speaker": "agent",
+      "text": "Saya bisa membantu. Bisa Anda sebutkan tanggal dan jumlah tagihannya?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Tanggal 12 Maret, sebesar Rp45.99."
+    },
+    {
+      "speaker": "agent",
+      "text": "Terima kasih. Saya melihat transaksi tersebut."
+    },
+    {
+      "speaker": "customer",
+      "text": "Saya tidak ingat melakukan pembelian itu."
+    },
+    {
+      "speaker": "agent",
+      "text": "Saya mengerti. Saya bisa mengajukan sengketa untuk Anda."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ya, silakan."
+    },
+    {
+      "speaker": "agent",
+      "text": "Sengketa telah diajukan. Kami akan melakukan investigasi dan memberi kabar melalui email."
+    },
+    {
+      "speaker": "customer",
+      "text": "Berapa lama proses investigasinya?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Biasanya hingga 10 hari kerja."
+    },
+    {
+      "speaker": "customer",
+      "text": "Baik, terima kasih atas bantuannya."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Bahasa id_ID Scripts.docx",
+    "conversation_index": 2,
+    "total_turns": 11
+  }
+}

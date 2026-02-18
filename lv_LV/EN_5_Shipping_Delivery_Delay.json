@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Delivery Delay",
+  "language": "EN",
+  "file_language": "lv_LV",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Labdien, zvanu, jo mana paka vēl nav pienākusi."
+    },
+    {
+      "speaker": "agent",
+      "text": "Atvainojiet par to. Vai varu saņemt izsekošanas numuru?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Jā, tas ir TRK-55134."
+    },
+    {
+      "speaker": "agent",
+      "text": "Paldies. Ļaujiet man pārbaudīt statusu."
+    },
+    {
+      "speaker": "agent",
+      "text": "Paka kavējās slikto laikapstākļu dēļ, un piegāde ir pārcelta uz rītdienu."
+    },
+    {
+      "speaker": "customer",
+      "text": "Tai vajadzēja atnākt pirmdien."
+    },
+    {
+      "speaker": "agent",
+      "text": "Saprotu jūsu neapmierinātību. Jaunais piegādes datums ir 18. aprīlis."
+    },
+    {
+      "speaker": "customer",
+      "text": "Vai saņemšu atjauninājumu e-pastā?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Jā, mēs sūtīsim atjauninājumus uz john.john@gmail.com."
+    },
+    {
+      "speaker": "customer",
+      "text": "Labi, paldies par informāciju."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Latvian lv-LV Scripts.docx",
+    "conversation_index": 5,
+    "total_turns": 10
+  }
+}

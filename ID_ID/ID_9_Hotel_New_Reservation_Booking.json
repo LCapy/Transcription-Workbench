@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel New Reservation Booking",
+  "language": "ID",
+  "file_language": "ID_ID",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Halo, saya ingin memesan hotel untuk bulan depan."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tentu. Boleh saya minta nama lengkap Anda?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Emma Johnson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Terima kasih, Emma. Tanggal menginap yang diinginkan?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Dari 12 Mei hingga 15 Mei, check-out tanggal 15."
+    },
+    {
+      "speaker": "agent",
+      "text": "Itu berarti tiga malam. Kami memiliki kamar standar dengan harga Rp140 per malam."
+    },
+    {
+      "speaker": "customer",
+      "text": "Apakah harga tersebut sudah termasuk pajak dan biaya?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Belum. Total dengan pajak menjadi Rp462."
+    },
+    {
+      "speaker": "customer",
+      "text": "Apakah saya harus membayar sekarang?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Tidak, kami hanya memerlukan kartu kredit untuk menahan reservasi. Pembayaran dilakukan saat check-in."
+    },
+    {
+      "speaker": "customer",
+      "text": "Baik. Nomor kartu Mastercard saya 9999 8888 3333 1111."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Bahasa id_ID Scripts.docx",
+    "conversation_index": 9,
+    "total_turns": 11
+  }
+}

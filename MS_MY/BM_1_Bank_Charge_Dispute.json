@@ -1,0 +1,56 @@
+{
+  "scenario": "Bank Charge Dispute",
+  "language": "BM",
+  "file_language": "MS_MY",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Helo, saya telefon tentang satu caj dalam akaun saya yang saya tidak kenali."
+    },
+    {
+      "speaker": "agent",
+      "text": "Saya boleh bantu dengan itu. Boleh beritahu saya tarikh dan jumlah caj tersebut?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ia pada 12 Mac dengan jumlah RM45.99."
+    },
+    {
+      "speaker": "agent",
+      "text": "Terima kasih. Saya nampak transaksinya di sini."
+    },
+    {
+      "speaker": "customer",
+      "text": "Saya tidak ingat membuat pembelian itu."
+    },
+    {
+      "speaker": "agent",
+      "text": "Baik. Saya boleh buka laporan pertikaian untuk anda."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ya, tolong buat."
+    },
+    {
+      "speaker": "agent",
+      "text": "Pertikaian telah dihantar. Kami akan siasat dan maklumkan perkembangan melalui e-mel."
+    },
+    {
+      "speaker": "customer",
+      "text": "Berapa lama siasatan biasanya mengambil masa?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Biasanya sehingga 10 hari bekerja."
+    },
+    {
+      "speaker": "customer",
+      "text": "Baik, terima kasih atas bantuan."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Bahasa ms-MY Scripts.docx",
+    "conversation_index": 1,
+    "total_turns": 11
+  }
+}

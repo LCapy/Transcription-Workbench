@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Address Update",
+  "language": "ID",
+  "file_language": "ID_ID",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Halo, saya perlu mengubah alamat pengiriman untuk pesanan yang saya buat hari ini."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tentu. Apakah pesanan sudah dikirim?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Belum."
+    },
+    {
+      "speaker": "agent",
+      "text": "Baik. Silakan berikan alamat baru."
+    },
+    {
+      "speaker": "customer",
+      "text": "245 Market Street, San Jose, California."
+    },
+    {
+      "speaker": "agent",
+      "text": "Terima kasih. Alamat telah berhasil diperbarui."
+    },
+    {
+      "speaker": "customer",
+      "text": "Apakah ini akan menunda pengiriman?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Tidak, tanggal pengiriman tetap sama."
+    },
+    {
+      "speaker": "customer",
+      "text": "Sempurna, terima kasih."
+    },
+    {
+      "speaker": "agent",
+      "text": "Sama-sama."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Bahasa id_ID Scripts.docx",
+    "conversation_index": 7,
+    "total_turns": 10
+  }
+}

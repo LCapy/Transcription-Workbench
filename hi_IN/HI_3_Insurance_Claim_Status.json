@@ -1,0 +1,52 @@
+{
+  "scenario": "Insurance Claim Status",
+  "language": "HI",
+  "file_language": "hi_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "नमस्ते, मैं पिछले हफ्ते जमा किए गए अपने बीमा क्लेम की स्थिति जानना चाहता/चाहती हूँ।"
+    },
+    {
+      "speaker": "agent",
+      "text": "ज़रूर। कृपया क्लेम नंबर बताइए।"
+    },
+    {
+      "speaker": "customer",
+      "text": "हाँ, यह है — CLM-458921।"
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद। मैं इसे देखता/देखती हूँ।"
+    },
+    {
+      "speaker": "agent",
+      "text": "आपका क्लेम 3 अप्रैल को जमा किया गया था और यह अभी समीक्षा में है।"
+    },
+    {
+      "speaker": "customer",
+      "text": "क्या पता है यह कब तक मंज़ूर होगा?"
+    },
+    {
+      "speaker": "agent",
+      "text": "आमतौर पर पाँच से सात कार्यदिवस लगते हैं।"
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है। मंज़ूर होने पर क्या मुझे सूचित किया जाएगा?"
+    },
+    {
+      "speaker": "agent",
+      "text": "हाँ, हम आपके पंजीकृत ईमेल पर जानकारी भेज देंगे।"
+    },
+    {
+      "speaker": "customer",
+      "text": "वह है — maria.lopez@gmail.com।"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Hindi Scripts.docx",
+    "conversation_index": 3,
+    "total_turns": 10
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel New Reservation Booking",
+  "language": "SV",
+  "file_language": "sv_SE",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hej, jag vill göra en hotellbokning för nästa månad."
+    },
+    {
+      "speaker": "agent",
+      "text": "Självklart. Kan jag få ditt fullständiga namn?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, Emma Johnson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tack, Emma. Vilka datum vill du bo?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Från 12 till 15 maj, utcheckning den 15:e."
+    },
+    {
+      "speaker": "agent",
+      "text": "Det blir tre nätter. Jag har ett standardrum för 140 kr per natt."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ingår skatter och avgifter i priset?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Skatter ingår inte. Med skatter blir totalpriset 462 kr."
+    },
+    {
+      "speaker": "customer",
+      "text": "Okej. Behöver jag betala nu?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Vi behöver ett kreditkort för att hålla bokningen, men betalningen sker vid incheckning."
+    },
+    {
+      "speaker": "customer",
+      "text": "Okej. Här är mitt kort — Mastercard, nummer 9999 8888 3333 1111."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Swedish Scripts.docx",
+    "conversation_index": 9,
+    "total_turns": 11
+  }
+}

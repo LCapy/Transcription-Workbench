@@ -1,0 +1,11 @@
+{
+  "scenario": "Hotel Reservation Change – FR",
+  "language": "CA",
+  "file_language": "FR_CA",
+  "conversation": [],
+  "metadata": {
+    "source_file": "Cisco fr_CA Scripts.docx",
+    "conversation_index": 8,
+    "total_turns": 0
+  }
+}

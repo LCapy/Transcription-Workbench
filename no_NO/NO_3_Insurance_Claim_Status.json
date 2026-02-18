@@ -1,0 +1,52 @@
+{
+  "scenario": "Insurance Claim Status",
+  "language": "NO",
+  "file_language": "no_NO",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hei, jeg ringer for å sjekke statusen på et forsikringskrav jeg sendte inn forrige uke."
+    },
+    {
+      "speaker": "agent",
+      "text": "Det kan jeg hjelpe deg med. Kan jeg få kravnummeret ditt?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, det er CLM-458921."
+    },
+    {
+      "speaker": "agent",
+      "text": "Takk. Jeg sjekker det nå."
+    },
+    {
+      "speaker": "agent",
+      "text": "Jeg ser at kravet ble sendt inn 3. april og for øyeblikket er til vurdering."
+    },
+    {
+      "speaker": "customer",
+      "text": "Vet du når det blir godkjent?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Vurderingen tar vanligvis fem til sju virkedager."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok. Blir jeg varslet når det skjer?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ja, vi sender en e-post til adressen vi har registrert."
+    },
+    {
+      "speaker": "customer",
+      "text": "Det er maria.lopez@gmail.com."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Norwegian Scripts.docx",
+    "conversation_index": 3,
+    "total_turns": 10
+  }
+}

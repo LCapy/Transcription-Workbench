@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Delivery Delay",
+  "language": "SV",
+  "file_language": "sv_SE",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hej, jag ringer eftersom mitt paket ännu inte har kommit."
+    },
+    {
+      "speaker": "agent",
+      "text": "Det var tråkigt att höra. Kan jag få spårningsnumret?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, det är TRK-55134."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tack. Jag kontrollerar statusen."
+    },
+    {
+      "speaker": "agent",
+      "text": "Paketet har blivit försenat på grund av vädret och är nu planerat att levereras i morgon."
+    },
+    {
+      "speaker": "customer",
+      "text": "Det skulle ha kommit i måndags."
+    },
+    {
+      "speaker": "agent",
+      "text": "Jag förstår frustrationen. Det nya leveransdatumet är 18 april."
+    },
+    {
+      "speaker": "customer",
+      "text": "Kommer jag få uppdateringar via e-post?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ja, vi skickar uppdateringar till john.john@gmail.com."
+    },
+    {
+      "speaker": "customer",
+      "text": "Okej, tack för uppdateringen."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Swedish Scripts.docx",
+    "conversation_index": 5,
+    "total_turns": 10
+  }
+}

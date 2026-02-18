@@ -1,0 +1,52 @@
+{
+  "scenario": "Bank Address Change",
+  "language": "BM",
+  "file_language": "MS_MY",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Helo, saya perlu mengemas kini alamat surat-menyurat dalam akaun bank saya."
+    },
+    {
+      "speaker": "agent",
+      "text": "Saya boleh bantu. Boleh sahkan nama penuh anda?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Daniel Peterson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Terima kasih, Daniel. Apa alamat baru anda?"
+    },
+    {
+      "speaker": "customer",
+      "text": "782 Green Street, Seattle, Washington, 98101."
+    },
+    {
+      "speaker": "agent",
+      "text": "Baik, saya sedang kemas kini sekarang."
+    },
+    {
+      "speaker": "agent",
+      "text": "Alamat berjaya dikemas kini."
+    },
+    {
+      "speaker": "customer",
+      "text": "Adakah ini akan menjejaskan penyata akaun saya?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Penyata akan dihantar ke alamat baharu mulai sekarang."
+    },
+    {
+      "speaker": "customer",
+      "text": "Bagus, terima kasih."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Bahasa ms-MY Scripts.docx",
+    "conversation_index": 3,
+    "total_turns": 10
+  }
+}

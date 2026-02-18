@@ -1,0 +1,56 @@
+{
+  "scenario": "Shipping Address Update",
+  "language": "EN",
+  "file_language": "sr_RS",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Zdravo, treba da promenim adresu isporuke za porudžbinu koju sam danas poslala."
+    },
+    {
+      "speaker": "agent",
+      "text": "Mogu da pomognem. Da li je porudžbina već poslata?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ne, nije još."
+    },
+    {
+      "speaker": "agent",
+      "text": "Odlično. Molim vas, navedite novu adresu."
+    },
+    {
+      "speaker": "customer",
+      "text": "245 Market Street, San Jose, California."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hvala, ažuriraću odmah."
+    },
+    {
+      "speaker": "agent",
+      "text": "Adresa je uspešno ažurirana."
+    },
+    {
+      "speaker": "customer",
+      "text": "Da li će to odložiti isporuku?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ne, datum isporuke ostaje isti."
+    },
+    {
+      "speaker": "customer",
+      "text": "Savršeno, hvala."
+    },
+    {
+      "speaker": "agent",
+      "text": "Nema na čemu."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Serbian sr-RS Scripts.docx",
+    "conversation_index": 7,
+    "total_turns": 11
+  }
+}

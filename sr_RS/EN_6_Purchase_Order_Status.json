@@ -1,0 +1,68 @@
+{
+  "scenario": "Purchase Order Status",
+  "language": "EN",
+  "file_language": "sr_RS",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Zdravo, zovem da proverim status porudžbine za novu veš mašinu koju smo naručili prošle nedelje."
+    },
+    {
+      "speaker": "agent",
+      "text": "Naravno. Imate li broj porudžbine?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Da, 78421."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hvala, proveravam."
+    },
+    {
+      "speaker": "agent",
+      "text": "Porudžbina je odobrena i poslata juče popodne."
+    },
+    {
+      "speaker": "customer",
+      "text": "To je dobra vest. Kada stiže?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Procena isporuke je ovog petka, 10. decembra."
+    },
+    {
+      "speaker": "customer",
+      "text": "Da li ćemo dobiti potvrdu o slanju?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Da, trebalo bi da danas dobijete mejl sa detaljima praćenja. Pre nego što završimo, možete li potvrditi način plaćanja?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Naravno, platio sam Visa karticom. Broj je 4111 2222 3344 6677."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hvala. Iz bezbednosnih razloga neću ponavljati broj, ali mogu potvrditi da je uplata uspešno obrađena."
+    },
+    {
+      "speaker": "customer",
+      "text": "U redu."
+    },
+    {
+      "speaker": "agent",
+      "text": "Potvrda će biti poslata na alex@gmail.com. Mogu li još nešto da učinim za vas?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ne, to je sve. Hvala."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Serbian sr-RS Scripts.docx",
+    "conversation_index": 6,
+    "total_turns": 14
+  }
+}

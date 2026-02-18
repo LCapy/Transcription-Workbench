@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Delivery Delay",
+  "language": "TR",
+  "file_language": "tr_TR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Merhaba, paketim hâlâ gelmediği için arıyorum."
+    },
+    {
+      "speaker": "agent",
+      "text": "Bunun için özür dilerim. Takip numarasını alabilir miyim?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Evet, TRK-55134."
+    },
+    {
+      "speaker": "agent",
+      "text": "Teşekkür ederim, hemen bakıyorum."
+    },
+    {
+      "speaker": "agent",
+      "text": "Paket hava koşulları nedeniyle gecikmiş ve yarın teslim edilmesi planlanıyor."
+    },
+    {
+      "speaker": "customer",
+      "text": "Pazartesi gelmesi gerekiyordu."
+    },
+    {
+      "speaker": "agent",
+      "text": "Haklısınız, bu durum sizin için sinir bozucu olabilir. Yeni teslim tarihi 18 Nisan."
+    },
+    {
+      "speaker": "customer",
+      "text": "E-posta ile bilgilendirme alacak mıyım?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Evet, john.john@gmail.com adresine güncellemeler gönderilecek."
+    },
+    {
+      "speaker": "customer",
+      "text": "Tamam, teşekkürler."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Turkish Scripts.docx",
+    "conversation_index": 5,
+    "total_turns": 10
+  }
+}

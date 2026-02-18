@@ -1,0 +1,56 @@
+{
+  "scenario": "Bank Charge Dispute",
+  "language": "EN",
+  "file_language": "sr_RS",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Zdravo, zovem zbog naplate na mom računu koju ne prepoznajem."
+    },
+    {
+      "speaker": "agent",
+      "text": "Mogu da pomognem. Možete li mi reći datum i iznos naplate?"
+    },
+    {
+      "speaker": "customer",
+      "text": "To je od 12. marta, na iznos od 45.99 дин."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hvala. Vidim transakciju ovde."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ne sećam se da sam obavila tu kupovinu."
+    },
+    {
+      "speaker": "agent",
+      "text": "Razumem. Mogu da otvorim prigovor za vas."
+    },
+    {
+      "speaker": "customer",
+      "text": "Da, molim vas."
+    },
+    {
+      "speaker": "agent",
+      "text": "Prigovor je podnet. Istražićemo i obaveštavati vas mejlom."
+    },
+    {
+      "speaker": "customer",
+      "text": "Koliko traje istraga?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Obično do 10 radnih dana."
+    },
+    {
+      "speaker": "customer",
+      "text": "U redu, hvala na pomoći."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Serbian sr-RS Scripts.docx",
+    "conversation_index": 2,
+    "total_turns": 11
+  }
+}

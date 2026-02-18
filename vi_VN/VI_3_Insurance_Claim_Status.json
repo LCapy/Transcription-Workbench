@@ -1,0 +1,52 @@
+{
+  "scenario": "Insurance Claim Status",
+  "language": "VI",
+  "file_language": "vi_VN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Chào bạn, tôi muốn kiểm tra trạng thái yêu cầu bảo hiểm tôi gửi tuần trước."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tôi hỗ trợ được. Bạn cho tôi xin số yêu cầu?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Số là CLM-458921."
+    },
+    {
+      "speaker": "agent",
+      "text": "Cảm ơn bạn. Tôi đang kiểm tra."
+    },
+    {
+      "speaker": "agent",
+      "text": "Yêu cầu được gửi ngày 3 tháng 4 và hiện đang được xem xét."
+    },
+    {
+      "speaker": "customer",
+      "text": "Khi nào thì được duyệt?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thường mất 5–7 ngày làm việc để xem xét."
+    },
+    {
+      "speaker": "customer",
+      "text": "Vậy khi được duyệt, tôi sẽ được thông báo chứ?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Vâng, chúng tôi sẽ gửi email đến địa chỉ bạn đã đăng ký."
+    },
+    {
+      "speaker": "customer",
+      "text": "Địa chỉ là maria.lopez@gmail.com."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Vietnamese Scripts.docx",
+    "conversation_index": 3,
+    "total_turns": 10
+  }
+}

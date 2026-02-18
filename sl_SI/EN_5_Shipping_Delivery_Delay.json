@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Delivery Delay",
+  "language": "EN",
+  "file_language": "sl_SI",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Pozdravljeni, kličem, ker moj paket še ni prispel."
+    },
+    {
+      "speaker": "agent",
+      "text": "Oprostite za to. Mi lahko daste številko za sledenje?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Da, to je TRK-55134."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hvala. Naj preverim status."
+    },
+    {
+      "speaker": "agent",
+      "text": "Paket je bil zaradi vremenskih razmer zadržan in je zdaj predviden za dostavo jutri."
+    },
+    {
+      "speaker": "customer",
+      "text": "Moral bi prispeti v ponedeljek."
+    },
+    {
+      "speaker": "agent",
+      "text": "Razumem vaše razočaranje. Nov datum dostave je 18. april."
+    },
+    {
+      "speaker": "customer",
+      "text": "Bom prejel posodobitev po e-pošti?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Da, posodobitve bomo poslali na john.john@gmail.com."
+    },
+    {
+      "speaker": "customer",
+      "text": "Prav, hvala za informacijo."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Slovenian sl-SI Scripts.docx",
+    "conversation_index": 5,
+    "total_turns": 10
+  }
+}

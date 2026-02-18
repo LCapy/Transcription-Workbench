@@ -1,0 +1,56 @@
+{
+  "scenario": "Shipping Address Update",
+  "language": "SV",
+  "file_language": "sv_SE",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hej, jag behöver ändra leveransadressen för en beställning jag gjorde tidigare idag."
+    },
+    {
+      "speaker": "agent",
+      "text": "Det kan jag hjälpa dig med. Har beställningen redan skickats?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Nej, inte än."
+    },
+    {
+      "speaker": "agent",
+      "text": "Perfekt. Vad är den nya adressen?"
+    },
+    {
+      "speaker": "customer",
+      "text": "245 Market Street, San Jose, California."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tack. Jag uppdaterar det."
+    },
+    {
+      "speaker": "agent",
+      "text": "Adressen har uppdaterats."
+    },
+    {
+      "speaker": "customer",
+      "text": "Kommer detta att försena leveransen?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Nej, leveransdatumet förblir detsamma."
+    },
+    {
+      "speaker": "customer",
+      "text": "Perfekt. Tack för hjälpen."
+    },
+    {
+      "speaker": "agent",
+      "text": "Varsågod."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Swedish Scripts.docx",
+    "conversation_index": 7,
+    "total_turns": 11
+  }
+}

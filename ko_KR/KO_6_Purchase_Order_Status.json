@@ -1,0 +1,68 @@
+{
+  "scenario": "Purchase Order Status",
+  "language": "KO",
+  "file_language": "ko_KR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "안녕하세요, 지난주에 주문한 세탁기 구매 주문 상태를 확인하고 싶습니다."
+    },
+    {
+      "speaker": "agent",
+      "text": "도와드릴게요. 구매 주문 번호가 있으신가요?"
+    },
+    {
+      "speaker": "customer",
+      "text": "네, 78421 입니다."
+    },
+    {
+      "speaker": "agent",
+      "text": "감사합니다. 확인해보겠습니다."
+    },
+    {
+      "speaker": "agent",
+      "text": "주문이 승인되었고, 어제 오후에 발송되었습니다."
+    },
+    {
+      "speaker": "customer",
+      "text": "잘됐네요. 언제 도착할까요?"
+    },
+    {
+      "speaker": "agent",
+      "text": "예상 배송일은 12월 10일 금요일입니다."
+    },
+    {
+      "speaker": "customer",
+      "text": "배송 확인 이메일도 받을 수 있나요?"
+    },
+    {
+      "speaker": "agent",
+      "text": "네, 오늘 중으로 배송 정보가 포함된 이메일이 발송될 예정입니다. 마무리하기 전에 결제 방법을 확인해도 될까요?"
+    },
+    {
+      "speaker": "customer",
+      "text": "저는 Visa 카드로 결제했어요. 카드 번호는 4111 2222 3344 6677 입니다."
+    },
+    {
+      "speaker": "agent",
+      "text": "감사합니다. 보안상 번호는 반복하지 않겠지만, 결제는 정상적으로 처리되었습니다."
+    },
+    {
+      "speaker": "customer",
+      "text": "알겠습니다."
+    },
+    {
+      "speaker": "agent",
+      "text": "확인 이메일은 alex@gmail.com 으로 보내드릴게요. 더 도와드릴 것이 있을까요?"
+    },
+    {
+      "speaker": "customer",
+      "text": "아니요, 감사합니다."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Korean Scripts.docx",
+    "conversation_index": 6,
+    "total_turns": 14
+  }
+}

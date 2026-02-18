@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Address Update",
+  "language": "BM",
+  "file_language": "MS_MY",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hai, saya perlu menukar alamat penghantaran untuk pesanan yang saya buat pagi tadi."
+    },
+    {
+      "speaker": "agent",
+      "text": "Baik. Pesanan itu sudah dihantar?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Belum."
+    },
+    {
+      "speaker": "agent",
+      "text": "Bagus. Sila beri alamat baharu."
+    },
+    {
+      "speaker": "customer",
+      "text": "245 Market Street, San Jose, California."
+    },
+    {
+      "speaker": "agent",
+      "text": "Terima kasih. Alamat telah dikemas kini."
+    },
+    {
+      "speaker": "customer",
+      "text": "Adakah ini akan melambatkan penghantaran?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Tidak, tarikh penghantaran masih sama."
+    },
+    {
+      "speaker": "customer",
+      "text": "Baik, terima kasih."
+    },
+    {
+      "speaker": "agent",
+      "text": "Sama-sama."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Bahasa ms-MY Scripts.docx",
+    "conversation_index": 6,
+    "total_turns": 10
+  }
+}

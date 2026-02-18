@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel New Reservation Booking",
+  "language": "NO",
+  "file_language": "no_NO",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hei, jeg vil gjerne bestille et hotellrom for neste måned."
+    },
+    {
+      "speaker": "agent",
+      "text": "Det kan jeg hjelpe deg med. Kan jeg få ditt fulle navn?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, Emma Johnson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Takk, Emma. Hvilke datoer ønsker du å bo?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Fra 12. til 15. mai, utsjekk den 15."
+    },
+    {
+      "speaker": "agent",
+      "text": "Det blir tre netter. Jeg har et standardrom til 140 kr per natt."
+    },
+    {
+      "speaker": "customer",
+      "text": "Er skatter og avgifter inkludert?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Skatter er ikke inkludert. Med skatter blir totalen 462 kr."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok. Må jeg betale nå?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Vi trenger bare et kredittkort for å holde reservasjonen. Betaling skjer ved innsjekk."
+    },
+    {
+      "speaker": "customer",
+      "text": "Greit. Her er kortnummeret mitt — Mastercard 9999 8888 3333 1111."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Norwegian Scripts.docx",
+    "conversation_index": 9,
+    "total_turns": 11
+  }
+}

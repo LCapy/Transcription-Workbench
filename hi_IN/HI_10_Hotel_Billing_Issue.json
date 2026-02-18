@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel Billing Issue",
+  "language": "HI",
+  "file_language": "hi_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "नमस्ते, मेरे हाल के होटल प्रवास की बिलिंग को लेकर एक सवाल है।"
+    },
+    {
+      "speaker": "agent",
+      "text": "ज़रूर। कृपया आरक्षण नंबर बताइए।"
+    },
+    {
+      "speaker": "customer",
+      "text": "RES-90231।"
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद। यहाँ 10 अप्रैल की एक ₹180 की चार्ज दिखाई दे रही है।"
+    },
+    {
+      "speaker": "customer",
+      "text": "यह मेरी उम्मीद से ज्यादा लग रहा है।"
+    },
+    {
+      "speaker": "agent",
+      "text": "इसमें एक रात का चार्ज और मिनीबार शुल्क शामिल है।"
+    },
+    {
+      "speaker": "customer",
+      "text": "लेकिन मैंने मिनीबार का उपयोग नहीं किया।"
+    },
+    {
+      "speaker": "agent",
+      "text": "समझ गया/गई। मैं मिनीबार शुल्क हटा सकता/सकती हूँ और आंशिक रिफंड जारी कर सकता/सकती हूँ।"
+    },
+    {
+      "speaker": "customer",
+      "text": "कितना रिफंड मिलेगा?"
+    },
+    {
+      "speaker": "agent",
+      "text": "₹30 आपके कार्ड में वापस कर दिए जाएँगे।"
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है, धन्यवाद।"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Hindi Scripts.docx",
+    "conversation_index": 10,
+    "total_turns": 11
+  }
+}

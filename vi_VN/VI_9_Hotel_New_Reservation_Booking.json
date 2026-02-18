@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel New Reservation Booking",
+  "language": "VI",
+  "file_language": "vi_VN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Chào bạn, tôi muốn đặt phòng khách sạn cho tháng sau."
+    },
+    {
+      "speaker": "agent",
+      "text": "Được ạ. Cho tôi xin họ tên đầy đủ?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Emma Johnson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Cảm ơn Emma. Bạn muốn ở từ ngày nào?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Từ 12 đến 15 tháng 5, trả phòng ngày 15."
+    },
+    {
+      "speaker": "agent",
+      "text": "Vậy là ba đêm. Chúng tôi có phòng tiêu chuẩn giá ₫140 mỗi đêm."
+    },
+    {
+      "speaker": "customer",
+      "text": "Giá đó đã bao gồm thuế chưa?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Chưa. Tổng cộng sau thuế là ₫462."
+    },
+    {
+      "speaker": "customer",
+      "text": "Tôi có cần thanh toán trước không?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Không, chỉ cần thẻ để giữ phòng. Thanh toán thực hiện khi check-in."
+    },
+    {
+      "speaker": "customer",
+      "text": "Được. Thẻ Mastercard của tôi là 9999 8888 3333 1111."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Vietnamese Scripts.docx",
+    "conversation_index": 9,
+    "total_turns": 11
+  }
+}

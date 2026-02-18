@@ -1,0 +1,56 @@
+{
+  "scenario": "Bank Charge Dispute",
+  "language": "HI",
+  "file_language": "hi_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "नमस्ते, मेरे खाते में एक ऐसा शुल्क दिख रहा है जिसे मैं पहचान नहीं पा रहा/रही हूँ।"
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं आपकी मदद कर सकता/सकती हूँ। कृपया बताएँ कि यह शुल्क कब और कितना है?"
+    },
+    {
+      "speaker": "customer",
+      "text": "यह 12 मार्च का है और राशि ₹45.99 है।"
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद। मुझे यह ट्रांज़ैक्शन दिखाई दे रहा है।"
+    },
+    {
+      "speaker": "customer",
+      "text": "मुझे याद नहीं कि मैंने कोई ऐसा ख़रीदारी की हो।"
+    },
+    {
+      "speaker": "agent",
+      "text": "समझ गया/गई। मैं आपके लिए एक विवाद (dispute) दर्ज कर देता/देती हूँ।"
+    },
+    {
+      "speaker": "customer",
+      "text": "हाँ, कृपया कर दें।"
+    },
+    {
+      "speaker": "agent",
+      "text": "विवाद दर्ज कर दिया गया है। हम इसकी जाँच करेंगे और आपको ईमेल के माध्यम से अपडेट देते रहेंगे।"
+    },
+    {
+      "speaker": "customer",
+      "text": "जांच में कितना समय लगता है?"
+    },
+    {
+      "speaker": "agent",
+      "text": "लगभग 10 कार्यदिवस।"
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है, धन्यवाद।"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Hindi Scripts.docx",
+    "conversation_index": 2,
+    "total_turns": 11
+  }
+}

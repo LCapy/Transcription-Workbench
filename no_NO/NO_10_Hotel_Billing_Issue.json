@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel Billing Issue",
+  "language": "NO",
+  "file_language": "no_NO",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hei, jeg har et spørsmål om en belastning fra mitt nylige hotellopphold."
+    },
+    {
+      "speaker": "agent",
+      "text": "Det hjelper jeg gjerne med. Har du reservasjonsnummeret?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, RES-90231."
+    },
+    {
+      "speaker": "agent",
+      "text": "Takk. Jeg ser en belastning fra 10. april på 180 kr."
+    },
+    {
+      "speaker": "customer",
+      "text": "Det virker høyere enn jeg forventet."
+    },
+    {
+      "speaker": "agent",
+      "text": "Beløpet inkluderer én natt samt et minibargebyr."
+    },
+    {
+      "speaker": "customer",
+      "text": "Jeg brukte ikke minibaren."
+    },
+    {
+      "speaker": "agent",
+      "text": "Forstått. Jeg kan fjerne gebyret og utstede en delvis refusjon."
+    },
+    {
+      "speaker": "customer",
+      "text": "Hvor mye blir refundert?"
+    },
+    {
+      "speaker": "agent",
+      "text": "30 kr blir refundert til kortet ditt."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, takk."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Norwegian Scripts.docx",
+    "conversation_index": 10,
+    "total_turns": 11
+  }
+}

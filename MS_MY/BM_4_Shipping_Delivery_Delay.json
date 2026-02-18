@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Delivery Delay",
+  "language": "BM",
+  "file_language": "MS_MY",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hai, saya telefon sebab bungkusan saya masih belum sampai."
+    },
+    {
+      "speaker": "agent",
+      "text": "Maaf tentang itu. Boleh saya dapatkan nombor penjejakan?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ya, TRK-55134."
+    },
+    {
+      "speaker": "agent",
+      "text": "Terima kasih. Saya semak status sekarang."
+    },
+    {
+      "speaker": "agent",
+      "text": "Bungkusan ditangguhkan kerana cuaca dan kini dijadualkan untuk dihantar esok."
+    },
+    {
+      "speaker": "customer",
+      "text": "Sepatutnya sampai hari Isnin."
+    },
+    {
+      "speaker": "agent",
+      "text": "Saya faham situasi itu. Tarikh penghantaran baru ialah 18 April."
+    },
+    {
+      "speaker": "customer",
+      "text": "Adakah saya akan menerima kemas kini melalui e-mel?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ya, kami akan hantar ke john.john@gmail.com."
+    },
+    {
+      "speaker": "customer",
+      "text": "Baik, terima kasih."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Bahasa ms-MY Scripts.docx",
+    "conversation_index": 4,
+    "total_turns": 10
+  }
+}

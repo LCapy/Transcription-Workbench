@@ -1,0 +1,52 @@
+{
+  "scenario": "Insurance Claim Status",
+  "language": "TH",
+  "file_language": "th_TH",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "สวัสดีค่ะ ฉันโทรมาตรวจสอบสถานะการเคลมประกันที่ส่งไปเมื่อสัปดาห์ที่แล้วค่ะ"
+    },
+    {
+      "speaker": "agent",
+      "text": "ได้ค่ะ ขอเลขที่เคลมด้วยค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "เลขที่ CLM-458921 ค่ะ"
+    },
+    {
+      "speaker": "agent",
+      "text": "ขอบคุณค่ะ ขออนุญาตตรวจสอบ"
+    },
+    {
+      "speaker": "agent",
+      "text": "ฉันเห็นว่าคุณส่งเคลมเมื่อวันที่ 3 เมษายน และตอนนี้อยู่ระหว่างการตรวจสอบค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "ทราบไหมว่าจะอนุมัติเมื่อไหร่?"
+    },
+    {
+      "speaker": "agent",
+      "text": "ปกติจะใช้เวลาประมาณ 5–7 วันทำการค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "แล้วฉันจะได้รับการแจ้งเตือนไหม?"
+    },
+    {
+      "speaker": "agent",
+      "text": "จะส่งอีเมลไปยังอีเมลที่มีในระบบค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "อีเมลคือ maria.lopez@gmail.com ค่ะ"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Thai Scripts.docx",
+    "conversation_index": 3,
+    "total_turns": 10
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "scenario": "Bank Charge Dispute",
+  "language": "VI",
+  "file_language": "vi_VN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Xin chào, tôi gọi về một khoản phí trên tài khoản mà tôi không nhận ra."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tôi có thể hỗ trợ. Bạn cho tôi biết ngày và số tiền của khoản phí đó được không?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ngày 12 tháng 3, số tiền ₫45.99."
+    },
+    {
+      "speaker": "agent",
+      "text": "Cảm ơn bạn. Tôi thấy giao dịch đó rồi."
+    },
+    {
+      "speaker": "customer",
+      "text": "Tôi không nhớ đã thực hiện giao dịch này."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tôi hiểu. Tôi có thể tạo yêu cầu tra soát cho bạn."
+    },
+    {
+      "speaker": "customer",
+      "text": "Vâng, làm giúp tôi nhé."
+    },
+    {
+      "speaker": "agent",
+      "text": "Yêu cầu đã được tạo. Chúng tôi sẽ điều tra và gửi cập nhật qua email."
+    },
+    {
+      "speaker": "customer",
+      "text": "Việc điều tra mất bao lâu?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thường tối đa 10 ngày làm việc."
+    },
+    {
+      "speaker": "customer",
+      "text": "Được rồi, cảm ơn."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Vietnamese Scripts.docx",
+    "conversation_index": 2,
+    "total_turns": 11
+  }
+}

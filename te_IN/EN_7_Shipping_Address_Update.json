@@ -1,0 +1,56 @@
+{
+  "scenario": "Shipping Address Update",
+  "language": "EN",
+  "file_language": "te_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "హాయ్, నేను ఈరోజు చేసిన ఆర్డర్‌కు సంబంధించిన షిప్పింగ్ అడ్రస్ మార్చుకోవాలి."
+    },
+    {
+      "speaker": "agent",
+      "text": "నేను సహాయం చేయగలను. ఆర్డర్ ఇప్పటికే షిప్ అయిందా?"
+    },
+    {
+      "speaker": "customer",
+      "text": "లేదు, ఇంకా షిప్ కాలేదు."
+    },
+    {
+      "speaker": "agent",
+      "text": "అద్భుతం. దయచేసి కొత్త అడ్రస్ ఇవ్వండి."
+    },
+    {
+      "speaker": "customer",
+      "text": "అది 245 Market Street, San Jose, California."
+    },
+    {
+      "speaker": "agent",
+      "text": "ధన్యవాదాలు. ఇప్పుడే అప్డేట్ చేస్తున్నాను."
+    },
+    {
+      "speaker": "agent",
+      "text": "అడ్రస్ విజయవంతంగా అప్డేట్ చేయబడింది."
+    },
+    {
+      "speaker": "customer",
+      "text": "డెలివరీ ఆలస్యమవుతుందా?"
+    },
+    {
+      "speaker": "agent",
+      "text": "లేదు, డెలివరీ తేదీ అదే ఉంటుంది."
+    },
+    {
+      "speaker": "customer",
+      "text": "బాగుంది. ధన్యవాదాలు."
+    },
+    {
+      "speaker": "agent",
+      "text": "మీకు స్వాగతం."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Telugu te-IN Scripts.docx",
+    "conversation_index": 7,
+    "total_turns": 11
+  }
+}

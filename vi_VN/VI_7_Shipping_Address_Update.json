@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Address Update",
+  "language": "VI",
+  "file_language": "vi_VN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Chào bạn, tôi cần đổi địa chỉ giao hàng cho đơn tôi đặt lúc sáng."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tôi hỗ trợ được. Đơn hàng đã được gửi đi chưa?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Chưa, vẫn chưa gửi."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tốt. Vậy bạn cho tôi xin địa chỉ mới."
+    },
+    {
+      "speaker": "customer",
+      "text": "245 Market Street, San Jose, California."
+    },
+    {
+      "speaker": "agent",
+      "text": "Được ạ. Tôi đã cập nhật thành công."
+    },
+    {
+      "speaker": "customer",
+      "text": "Việc này có làm chậm giao hàng không?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Không, ngày giao vẫn giữ nguyên."
+    },
+    {
+      "speaker": "customer",
+      "text": "Tuyệt, cảm ơn bạn."
+    },
+    {
+      "speaker": "agent",
+      "text": "Rất sẵn lòng."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Vietnamese Scripts.docx",
+    "conversation_index": 7,
+    "total_turns": 10
+  }
+}

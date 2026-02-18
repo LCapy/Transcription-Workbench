@@ -1,0 +1,56 @@
+{
+  "scenario": "Shipping Address Update",
+  "language": "EN",
+  "file_language": "sl_SI",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Pozdravljeni, potrebujem spremeniti naslov za dostavo za naročilo, oddano danes."
+    },
+    {
+      "speaker": "agent",
+      "text": "Lahko pomagam. Ali je bilo naročilo že odposlano?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ne, še ni bilo."
+    },
+    {
+      "speaker": "agent",
+      "text": "Super. Prosimo za novi naslov."
+    },
+    {
+      "speaker": "customer",
+      "text": "245 Market Street, San Jose, California."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hvala. Posodabljam."
+    },
+    {
+      "speaker": "agent",
+      "text": "Naslov je bil uspešno posodobljen."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ali bo to povzročilo zamudo?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ne, datum dostave ostaja enak."
+    },
+    {
+      "speaker": "customer",
+      "text": "Odlično. Hvala za pomoč."
+    },
+    {
+      "speaker": "agent",
+      "text": "Ni za kaj."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Slovenian sl-SI Scripts.docx",
+    "conversation_index": 7,
+    "total_turns": 11
+  }
+}

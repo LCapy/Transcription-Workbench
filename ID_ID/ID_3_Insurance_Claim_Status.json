@@ -1,0 +1,52 @@
+{
+  "scenario": "Insurance Claim Status",
+  "language": "ID",
+  "file_language": "ID_ID",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Halo, saya ingin mengecek status klaim asuransi yang saya ajukan minggu lalu."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tentu. Boleh saya minta nomor klaim Anda?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ya, CLM-458921."
+    },
+    {
+      "speaker": "agent",
+      "text": "Terima kasih. Saya sedang mengeceknya."
+    },
+    {
+      "speaker": "agent",
+      "text": "Klaim Anda diajukan pada tanggal 3 April dan saat ini sedang dalam proses peninjauan."
+    },
+    {
+      "speaker": "customer",
+      "text": "Kira-kira kapan akan disetujui?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Proses peninjauan biasanya memakan waktu 5–7 hari kerja."
+    },
+    {
+      "speaker": "customer",
+      "text": "Baik. Apakah saya akan diberi tahu setelah disetujui?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ya, kami akan mengirimkan email ke alamat yang terdaftar."
+    },
+    {
+      "speaker": "customer",
+      "text": "Emailnya maria.lopez@gmail.com."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Bahasa id_ID Scripts.docx",
+    "conversation_index": 3,
+    "total_turns": 10
+  }
+}

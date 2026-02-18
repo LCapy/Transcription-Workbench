@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel New Reservation Booking",
+  "language": "MR",
+  "file_language": "mr_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "नमस्कार, मला पुढील महिन्यासाठी हॉटेल बुकिंग करायचे आहे."
+    },
+    {
+      "speaker": "agent",
+      "text": "नक्कीच. कृपया तुमचे पूर्ण नाव सांगा."
+    },
+    {
+      "speaker": "customer",
+      "text": "Emma Johnson."
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद, Emma. तुम्हाला कोणत्या तारखांना राहायचे आहे?"
+    },
+    {
+      "speaker": "customer",
+      "text": "12 मे ते 15 मे, 15 रोजी चेकआउट."
+    },
+    {
+      "speaker": "agent",
+      "text": "एकूण तीन रात्री. आमच्याकडे स्टँडर्ड रूम ₹140 प्रति रात्री उपलब्ध आहे."
+    },
+    {
+      "speaker": "customer",
+      "text": "या किमतीत कर आणि शुल्क समाविष्ट आहेत का?"
+    },
+    {
+      "speaker": "agent",
+      "text": "नाही. करांसह एकूण रक्कम ₹462 आहे."
+    },
+    {
+      "speaker": "customer",
+      "text": "मला आत्ताच पैसे भरावे लागतील का?"
+    },
+    {
+      "speaker": "agent",
+      "text": "नाही, फक्त रिझर्वेशन होल्डसाठी क्रेडिट कार्ड लागेल. पेमेंट चेक-इन वेळी होईल."
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक आहे. माझा Mastercard नंबर 9999 8888 3333 1111 आहे."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Marathi Scripts.docx",
+    "conversation_index": 9,
+    "total_turns": 11
+  }
+}

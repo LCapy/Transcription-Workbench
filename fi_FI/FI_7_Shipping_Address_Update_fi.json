@@ -1,0 +1,56 @@
+{
+  "scenario": "Shipping Address Update – fi",
+  "language": "FI",
+  "file_language": "fi_FI",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hei, minun täytyy muuttaa aiemmin tänään tekemäni tilauksen toimitusosoitetta."
+    },
+    {
+      "speaker": "agent",
+      "text": "Voin auttaa. Onko tilausta jo lähetetty?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ei, sitä ei ole vielä lähetetty."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hyvä. Anna uusi osoite."
+    },
+    {
+      "speaker": "customer",
+      "text": "245 Market Street, San Jose, California."
+    },
+    {
+      "speaker": "agent",
+      "text": "Kiitos. Päivitän sen nyt."
+    },
+    {
+      "speaker": "agent",
+      "text": "Osoite on päivitetty onnistuneesti."
+    },
+    {
+      "speaker": "customer",
+      "text": "Viivästyttääkö tämä toimitusta?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ei, toimituspäivä pysyy samana."
+    },
+    {
+      "speaker": "customer",
+      "text": "Erinomaista, kiitos avusta."
+    },
+    {
+      "speaker": "agent",
+      "text": "Ole hyvä."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Finnish Scripts.docx",
+    "conversation_index": 7,
+    "total_turns": 11
+  }
+}

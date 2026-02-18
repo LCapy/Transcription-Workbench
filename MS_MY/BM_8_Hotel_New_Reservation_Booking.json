@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel New Reservation Booking",
+  "language": "BM",
+  "file_language": "MS_MY",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hai, saya mahu membuat tempahan hotel untuk bulan depan."
+    },
+    {
+      "speaker": "agent",
+      "text": "Baik, boleh saya tahu nama penuh anda?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Emma Johnson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Terima kasih, Emma. Anda mahu menginap dari tarikh apa?"
+    },
+    {
+      "speaker": "customer",
+      "text": "12 hingga 15 Mei, daftar keluar pada 15 Mei."
+    },
+    {
+      "speaker": "agent",
+      "text": "Itu tiga malam. Kami ada bilik standard pada harga RM140 satu malam."
+    },
+    {
+      "speaker": "customer",
+      "text": "Harga itu termasuk cukai dan caj lain?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Tidak termasuk. Dengan cukai jumlahnya menjadi RM462."
+    },
+    {
+      "speaker": "customer",
+      "text": "Okay. Perlu bayar sekarang?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Tidak perlu. Kami perlukan kad kredit untuk tahan tempahan. Bayaran dibuat semasa daftar masuk."
+    },
+    {
+      "speaker": "customer",
+      "text": "Baik. Kad Mastercard nombor 9999 8888 3333 1111."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Bahasa ms-MY Scripts.docx",
+    "conversation_index": 8,
+    "total_turns": 11
+  }
+}

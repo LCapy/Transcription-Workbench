@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel Billing Issue",
+  "language": "KO",
+  "file_language": "ko_KR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "안녕하세요, 최근 호텔 이용 요금에 대해 질문이 있습니다."
+    },
+    {
+      "speaker": "agent",
+      "text": "네, 도와드릴게요. 예약 번호를 알려주세요."
+    },
+    {
+      "speaker": "customer",
+      "text": "RES-90231 입니다."
+    },
+    {
+      "speaker": "agent",
+      "text": "감사합니다. 4월 10일에 ₩180가 청구된 내역이 있습니다."
+    },
+    {
+      "speaker": "customer",
+      "text": "예상보다 금액이 높은 것 같아요."
+    },
+    {
+      "speaker": "agent",
+      "text": "1박 숙박료와 미니바 이용료가 포함된 금액입니다."
+    },
+    {
+      "speaker": "customer",
+      "text": "저는 미니바를 사용하지 않았어요."
+    },
+    {
+      "speaker": "agent",
+      "text": "그렇다면 미니바 요금은 제거해드리고, 일부 환불 처리해드릴게요."
+    },
+    {
+      "speaker": "customer",
+      "text": "얼마가 환불되나요?"
+    },
+    {
+      "speaker": "agent",
+      "text": "₩30가 카드로 환불됩니다."
+    },
+    {
+      "speaker": "customer",
+      "text": "좋아요, 감사합니다."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Korean Scripts.docx",
+    "conversation_index": 10,
+    "total_turns": 11
+  }
+}
