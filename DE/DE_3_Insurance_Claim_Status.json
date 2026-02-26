@@ -1,0 +1,52 @@
+{
+  "scenario": "Insurance Claim Status",
+  "language": "DE",
+  "file_language": "DE",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hallo, ich rufe an, um den Status eines Versicherungsanspruchs zu überprüfen, den ich letzte Woche eingereicht habe."
+    },
+    {
+      "speaker": "agent",
+      "text": "Dabei kann ich Ihnen helfen. Darf ich bitte Ihre Schadennummer haben?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, sie lautet CLM-458921."
+    },
+    {
+      "speaker": "agent",
+      "text": "Vielen Dank. Ich rufe den Vorgang auf."
+    },
+    {
+      "speaker": "agent",
+      "text": "Ich sehe, dass der Anspruch am 3. April eingereicht wurde und sich derzeit in Prüfung befindet."
+    },
+    {
+      "speaker": "customer",
+      "text": "Wissen Sie, wann er genehmigt wird?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Die Prüfung dauert in der Regel fünf bis sieben Werktage."
+    },
+    {
+      "speaker": "customer",
+      "text": "Okay. Werde ich benachrichtigt, sobald er genehmigt ist?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ja, wir senden eine E-Mail an die hinterlegte Adresse."
+    },
+    {
+      "speaker": "customer",
+      "text": "Das ist maria.lopez@gmail.com."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco DE Scripts.docx",
+    "conversation_index": 3,
+    "total_turns": 10
+  }
+}

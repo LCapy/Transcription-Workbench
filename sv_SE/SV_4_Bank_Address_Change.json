@@ -1,0 +1,52 @@
+{
+  "scenario": "Bank Address Change",
+  "language": "SV",
+  "file_language": "sv_SE",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hej, jag behöver uppdatera min postadress på mitt bankkonto."
+    },
+    {
+      "speaker": "agent",
+      "text": "Jag kan hjälpa dig med det. Kan du verifiera ditt fullständiga namn?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Självklart. Det är Daniel Peterson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tack, Daniel. Vad är den nya adressen?"
+    },
+    {
+      "speaker": "customer",
+      "text": "782 Green Street, Seattle, Washington, 98101."
+    },
+    {
+      "speaker": "agent",
+      "text": "Jag förstår. Jag uppdaterar det nu."
+    },
+    {
+      "speaker": "agent",
+      "text": "Adressen har uppdaterats."
+    },
+    {
+      "speaker": "customer",
+      "text": "Kommer detta påverka mina kontoutdrag?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Dina framtida kontoutdrag skickas till den nya adressen."
+    },
+    {
+      "speaker": "customer",
+      "text": "Bra, tack för hjälpen."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Swedish Scripts.docx",
+    "conversation_index": 4,
+    "total_turns": 10
+  }
+}

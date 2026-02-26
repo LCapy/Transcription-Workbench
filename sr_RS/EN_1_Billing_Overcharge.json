@@ -1,0 +1,60 @@
+{
+  "scenario": "Billing Overcharge",
+  "language": "EN",
+  "file_language": "sr_RS",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Zdravo, zovem zato što mislim da mi je mesečna pretplata naplaćena dva puta."
+    },
+    {
+      "speaker": "agent",
+      "text": "Žao mi je zbog toga. Mogu da vam pomognem da proverimo. Mogu li dobiti imejl adresu na nalogu?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Da, to je alex.morgan@gmail.com."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hvala. Samo trenutak da otvorim vaš nalog."
+    },
+    {
+      "speaker": "agent",
+      "text": "Vidim dve naplate od 54.50 дин. zabeležene juče. Jedna izgleda kao duplikat."
+    },
+    {
+      "speaker": "customer",
+      "text": "U redu, i ja sam to mislila."
+    },
+    {
+      "speaker": "agent",
+      "text": "Poslaću zahtev za povraćaj novca za dodatnu naplatu. Ne morate ništa dalje da radite."
+    },
+    {
+      "speaker": "customer",
+      "text": "Koliko obično traje povraćaj?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Povraćaji obično budu vidljivi u roku od pet do sedam radnih dana."
+    },
+    {
+      "speaker": "customer",
+      "text": "U redu, hvala što ste proverili."
+    },
+    {
+      "speaker": "agent",
+      "text": "Naravno. Mogu li vam još nečim pomoći danas?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ne, to je sve."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Serbian sr-RS Scripts.docx",
+    "conversation_index": 1,
+    "total_turns": 12
+  }
+}

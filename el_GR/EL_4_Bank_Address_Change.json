@@ -1,0 +1,52 @@
+{
+  "scenario": "Bank Address Change",
+  "language": "EL",
+  "file_language": "el_GR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Γεια σας, θέλω να ενημερώσω τη διεύθυνση αλληλογραφίας στον τραπεζικό μου λογαριασμό."
+    },
+    {
+      "speaker": "agent",
+      "text": "Μπορώ να βοηθήσω. Μπορείτε να επιβεβαιώσετε το πλήρες όνομά σας;"
+    },
+    {
+      "speaker": "customer",
+      "text": "Daniel Peterson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Ευχαριστώ, Daniel. Ποια είναι η νέα διεύθυνση;"
+    },
+    {
+      "speaker": "customer",
+      "text": "782 Green Street, Seattle, Washington, 98101."
+    },
+    {
+      "speaker": "agent",
+      "text": "Το ενημερώνω τώρα."
+    },
+    {
+      "speaker": "agent",
+      "text": "Η διεύθυνση ενημερώθηκε επιτυχώς."
+    },
+    {
+      "speaker": "customer",
+      "text": "Θα επηρεάσει αυτό τις μηνιαίες καταστάσεις μου;"
+    },
+    {
+      "speaker": "agent",
+      "text": "Οι μελλοντικές καταστάσεις θα αποστέλλονται στη νέα διεύθυνση."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ωραία, ευχαριστώ."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Greek Scripts.docx",
+    "conversation_index": 4,
+    "total_turns": 10
+  }
+}

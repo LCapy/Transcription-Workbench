@@ -1,0 +1,56 @@
+{
+  "scenario": "Shipping Address Update",
+  "language": "DE",
+  "file_language": "DE",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hallo, ich muss die Lieferadresse für eine Bestellung ändern, die ich heute früher aufgegeben habe."
+    },
+    {
+      "speaker": "agent",
+      "text": "Dabei kann ich Ihnen helfen. Wurde die Bestellung bereits versandt?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Nein, sie wurde noch nicht versandt."
+    },
+    {
+      "speaker": "agent",
+      "text": "Sehr gut. Bitte geben Sie die neue Adresse an."
+    },
+    {
+      "speaker": "customer",
+      "text": "Es ist 245 Market Street, San Jose, Kalifornien."
+    },
+    {
+      "speaker": "agent",
+      "text": "Vielen Dank. Ich aktualisiere das für Sie."
+    },
+    {
+      "speaker": "agent",
+      "text": "Die Adresse wurde erfolgreich aktualisiert."
+    },
+    {
+      "speaker": "customer",
+      "text": "Wird sich das auf die Lieferung verzögern?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Nein, das Lieferdatum bleibt unverändert."
+    },
+    {
+      "speaker": "customer",
+      "text": "Perfekt. Danke für Ihre Hilfe."
+    },
+    {
+      "speaker": "agent",
+      "text": "Gern geschehen."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco DE Scripts.docx",
+    "conversation_index": 7,
+    "total_turns": 11
+  }
+}

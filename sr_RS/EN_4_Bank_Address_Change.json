@@ -1,0 +1,52 @@
+{
+  "scenario": "Bank Address Change",
+  "language": "EN",
+  "file_language": "sr_RS",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Zdravo, treba da ažuriram svoju poštansku adresu na bankovnom računu."
+    },
+    {
+      "speaker": "agent",
+      "text": "Mogu da pomognem. Možete li prvo potvrditi vaše puno ime?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Naravno. Daniel Peterson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hvala, Daniel. Koja je nova adresa?"
+    },
+    {
+      "speaker": "customer",
+      "text": "782 Green Street, Seattle, Washington, 98101."
+    },
+    {
+      "speaker": "agent",
+      "text": "Razumem, ažuriram sada."
+    },
+    {
+      "speaker": "agent",
+      "text": "Adresa je uspešno ažurirana."
+    },
+    {
+      "speaker": "customer",
+      "text": "Da li će to uticati na moje izvode?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Vaši budući izvodi biće slati na novu adresu."
+    },
+    {
+      "speaker": "customer",
+      "text": "Odlično, hvala."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Serbian sr-RS Scripts.docx",
+    "conversation_index": 4,
+    "total_turns": 10
+  }
+}

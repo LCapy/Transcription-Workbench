@@ -1,0 +1,11 @@
+{
+  "scenario": "Purchase Order Status – FR",
+  "language": "CA",
+  "file_language": "FR_CA",
+  "conversation": [],
+  "metadata": {
+    "source_file": "Cisco fr_CA Scripts.docx",
+    "conversation_index": 6,
+    "total_turns": 0
+  }
+}

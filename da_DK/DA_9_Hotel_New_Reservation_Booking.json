@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel New Reservation Booking",
+  "language": "DA",
+  "file_language": "da_DK",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hej, jeg vil gerne foretage en hotelreservation for næste måned."
+    },
+    {
+      "speaker": "agent",
+      "text": "Selvfølgelig, det kan jeg hjælpe med. Må jeg få dit fulde navn?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, det er Emma Johnson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tak, Emma. Hvilke datoer ønsker du at bo her?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Fra den 12. til den 15. maj, med afrejse den 15."
+    },
+    {
+      "speaker": "agent",
+      "text": "Det er tre nætter. Jeg har et standardværelse til 140 kr. pr. nat."
+    },
+    {
+      "speaker": "customer",
+      "text": "Er prisen inklusive skatter og gebyrer?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Skatter er ikke inkluderet. Med skatter bliver den samlede pris 462 kr.."
+    },
+    {
+      "speaker": "customer",
+      "text": "Okay. Skal jeg betale nu?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Vi kræver et kreditkort for at reservere, men betalingen sker ved check-in."
+    },
+    {
+      "speaker": "customer",
+      "text": "Fint. Jeg kan give mit kort nu. Det er et Mastercard, nummer 9999 8888 3333 1111."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Danish Scripts.docx",
+    "conversation_index": 9,
+    "total_turns": 11
+  }
+}

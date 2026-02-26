@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel Billing Issue",
+  "language": "MR",
+  "file_language": "mr_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "नमस्कार, माझ्या अलीकडील हॉटेल मुक्कामाच्या बिलिंगबाबत मला प्रश्न आहे."
+    },
+    {
+      "speaker": "agent",
+      "text": "नक्कीच, मी मदत करतो/करते. कृपया रिझर्वेशन क्रमांक सांगा."
+    },
+    {
+      "speaker": "customer",
+      "text": "RES-90231."
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद. 10 एप्रिल रोजी ₹180 चे शुल्क दिसत आहे."
+    },
+    {
+      "speaker": "customer",
+      "text": "ही रक्कम अपेक्षेपेक्षा जास्त वाटते."
+    },
+    {
+      "speaker": "agent",
+      "text": "यात एका रात्रीचा मुक्काम आणि मिनीबार शुल्क समाविष्ट आहे."
+    },
+    {
+      "speaker": "customer",
+      "text": "पण मी मिनीबार वापरला नाही."
+    },
+    {
+      "speaker": "agent",
+      "text": "समजले. मी मिनीबार शुल्क काढून टाकतो/टाकते आणि अंशतः रिफंड देतो/देते."
+    },
+    {
+      "speaker": "customer",
+      "text": "किती रक्कम परत मिळेल?"
+    },
+    {
+      "speaker": "agent",
+      "text": "₹30 तुमच्या कार्डवर परत केले जातील."
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक आहे, धन्यवाद."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Marathi Scripts.docx",
+    "conversation_index": 10,
+    "total_turns": 11
+  }
+}

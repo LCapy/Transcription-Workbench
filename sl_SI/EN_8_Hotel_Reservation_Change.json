@@ -1,0 +1,60 @@
+{
+  "scenario": "Hotel Reservation Change",
+  "language": "EN",
+  "file_language": "sl_SI",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Pozdravljeni, potrebujem spremeniti datume hotelske rezervacije."
+    },
+    {
+      "speaker": "agent",
+      "text": "Seveda. Mi lahko poveste številko rezervacije?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Da, HA-56219."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hvala. Preverjam razpoložljivost."
+    },
+    {
+      "speaker": "agent",
+      "text": "Katere nove datume želite?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Premakniti bi želela iz 10.–12. aprila na 12.–14. april."
+    },
+    {
+      "speaker": "agent",
+      "text": "Ti datumi so na voljo."
+    },
+    {
+      "speaker": "customer",
+      "text": "Odlično."
+    },
+    {
+      "speaker": "agent",
+      "text": "Rezervacijo sem posodobil in poslal potrditveni e-mail."
+    },
+    {
+      "speaker": "customer",
+      "text": "Bo cena ostala enaka?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Da, cena ostaja nespremenjena."
+    },
+    {
+      "speaker": "customer",
+      "text": "Najlepša hvala."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Slovenian sl-SI Scripts.docx",
+    "conversation_index": 8,
+    "total_turns": 12
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "scenario": "Billing Overcharge",
+  "language": "NO",
+  "file_language": "no_NO",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hei, jeg ringer fordi jeg tror jeg ble belastet to ganger for mitt månedlige abonnement."
+    },
+    {
+      "speaker": "agent",
+      "text": "Det var leit å høre. Jeg kan hjelpe deg med å undersøke det. Kan jeg få e-postadressen som er knyttet til kontoen?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, den er alex.morgan@gmail.com."
+    },
+    {
+      "speaker": "agent",
+      "text": "Takk. Jeg henter opp kontoen din nå, det tar bare et øyeblikk."
+    },
+    {
+      "speaker": "agent",
+      "text": "Jeg ser to belastninger på kr 54,50 fra i går. Den ene ser ut til å være en duplikat."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, det var det jeg mistenkte."
+    },
+    {
+      "speaker": "agent",
+      "text": "Jeg sender inn en refusjon for den ekstra belastningen. Du trenger ikke gjøre noe mer."
+    },
+    {
+      "speaker": "customer",
+      "text": "Hvor lang tid tar refusjonen vanligvis?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Refusjoner vises som regel innen fem til sju virkedager."
+    },
+    {
+      "speaker": "customer",
+      "text": "Greit, takk for at du sjekket."
+    },
+    {
+      "speaker": "agent",
+      "text": "Selvfølgelig. Er det noe annet jeg kan hjelpe deg med i dag?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Nei, det var alt."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Norwegian Scripts.docx",
+    "conversation_index": 1,
+    "total_turns": 12
+  }
+}

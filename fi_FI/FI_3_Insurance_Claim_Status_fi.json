@@ -1,0 +1,52 @@
+{
+  "scenario": "Insurance Claim Status – fi",
+  "language": "FI",
+  "file_language": "fi_FI",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hei, soitan tarkistaakseni vakuutuskorvaushakemuksen tilan, jonka jätin viime viikolla."
+    },
+    {
+      "speaker": "agent",
+      "text": "Voin auttaa. Voinko saada hakemusnumeron?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Kyllä, se on CLM-458921."
+    },
+    {
+      "speaker": "agent",
+      "text": "Kiitos. Tarkistan sen."
+    },
+    {
+      "speaker": "agent",
+      "text": "Näen, että hakemus on jätetty 3. huhtikuuta ja se on parhaillaan käsittelyssä."
+    },
+    {
+      "speaker": "customer",
+      "text": "Tiedätkö, milloin se hyväksytään?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Käsittely kestää yleensä 5–7 arkipäivää."
+    },
+    {
+      "speaker": "customer",
+      "text": "Selvä. Ilmoitetaanko minulle, kun se hyväksytään?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Kyllä, lähetämme sähköpostin rekisteröityyn osoitteeseen."
+    },
+    {
+      "speaker": "customer",
+      "text": "Se on maria.lopez@gmail.com."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Finnish Scripts.docx",
+    "conversation_index": 3,
+    "total_turns": 10
+  }
+}

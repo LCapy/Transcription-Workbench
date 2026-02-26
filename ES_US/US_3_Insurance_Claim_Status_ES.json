@@ -1,0 +1,52 @@
+{
+  "scenario": "Insurance Claim Status – ES",
+  "language": "US",
+  "file_language": "ES_US",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hola, llamo para verificar el estado de una reclamación de seguro que presenté la semana pasada."
+    },
+    {
+      "speaker": "agent",
+      "text": "Puedo ayudarle con eso. ¿Puede proporcionarme su número de reclamación, por favor?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Sí, es CLM-458921."
+    },
+    {
+      "speaker": "agent",
+      "text": "Gracias. Permítame consultarlo."
+    },
+    {
+      "speaker": "agent",
+      "text": "Veo que la reclamación se presentó el 3 de abril y actualmente está en revisión."
+    },
+    {
+      "speaker": "customer",
+      "text": "¿Sabe cuándo será aprobada?"
+    },
+    {
+      "speaker": "agent",
+      "text": "La revisión normalmente tarda de cinco a siete días hábiles."
+    },
+    {
+      "speaker": "customer",
+      "text": "De acuerdo. ¿Se me notificará una vez que sea aprobada?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Sí, enviaremos un correo electrónico a la dirección registrada."
+    },
+    {
+      "speaker": "customer",
+      "text": "Es maria.lopez@gmail.com."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco es_US Scripts.docx",
+    "conversation_index": 3,
+    "total_turns": 10
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "scenario": "Shipping Address Update",
+  "language": "EN",
+  "file_language": "lv_LV",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Labdien, man ir jāmaina piegādes adrese pasūtījumam, ko veicu šodien."
+    },
+    {
+      "speaker": "agent",
+      "text": "Es varu palīdzēt. Vai pasūtījums jau ir nosūtīts?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Nē, vēl nav."
+    },
+    {
+      "speaker": "agent",
+      "text": "Lieliski. Lūdzu, norādiet jauno adresi."
+    },
+    {
+      "speaker": "customer",
+      "text": "245 Market Street, San Jose, California."
+    },
+    {
+      "speaker": "agent",
+      "text": "Paldies. Es to tagad atjaunināšu."
+    },
+    {
+      "speaker": "agent",
+      "text": "Adrese ir veiksmīgi atjaunināta."
+    },
+    {
+      "speaker": "customer",
+      "text": "Vai tas aizkavēs piegādi?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Nē, piegādes datums paliek nemainīgs."
+    },
+    {
+      "speaker": "customer",
+      "text": "Lieliski. Paldies par palīdzību."
+    },
+    {
+      "speaker": "agent",
+      "text": "Nav par ko."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Latvian lv-LV Scripts.docx",
+    "conversation_index": 7,
+    "total_turns": 11
+  }
+}

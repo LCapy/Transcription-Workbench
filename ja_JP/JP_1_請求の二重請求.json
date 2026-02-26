@@ -1,0 +1,60 @@
+{
+  "scenario": "請求の二重請求",
+  "language": "JP",
+  "file_language": "ja_JP",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "こんにちは。月額サブスクリプションが二重に請求されていると思い、お電話しました。"
+    },
+    {
+      "speaker": "agent",
+      "text": "申し訳ございません。確認いたします。アカウントに登録されているメールアドレスを教えていただけますか？"
+    },
+    {
+      "speaker": "customer",
+      "text": "はい、alex.morgan@gmail.com です。"
+    },
+    {
+      "speaker": "agent",
+      "text": "ありがとうございます。アカウントを確認いたします。少々お待ちください。"
+    },
+    {
+      "speaker": "agent",
+      "text": "昨日付で ¥54.50 の請求が2件確認できます。うち1件は重複しているようです。"
+    },
+    {
+      "speaker": "customer",
+      "text": "やはりそうでしたか。"
+    },
+    {
+      "speaker": "agent",
+      "text": "追加分の請求について返金手続きを行います。お客様での追加対応は不要です。"
+    },
+    {
+      "speaker": "customer",
+      "text": "返金には通常どのくらいかかりますか？"
+    },
+    {
+      "speaker": "agent",
+      "text": "通常、返金は5〜7営業日以内に反映されます。"
+    },
+    {
+      "speaker": "customer",
+      "text": "わかりました。確認ありがとうございます。"
+    },
+    {
+      "speaker": "agent",
+      "text": "こちらこそ。ほかに本日お手伝いできることはございますか？"
+    },
+    {
+      "speaker": "customer",
+      "text": "いいえ、以上です。"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Japanese Scripts.docx",
+    "conversation_index": 1,
+    "total_turns": 12
+  }
+}

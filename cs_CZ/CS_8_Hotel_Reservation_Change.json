@@ -1,0 +1,60 @@
+{
+  "scenario": "Hotel Reservation Change",
+  "language": "CS",
+  "file_language": "cs_CZ",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Dobrý den, potřebuji změnit termíny své hotelové rezervace."
+    },
+    {
+      "speaker": "agent",
+      "text": "Samozřejmě. Můžete mi sdělit číslo rezervace?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ano, je to HA-56219."
+    },
+    {
+      "speaker": "agent",
+      "text": "Děkuji, ověřím dostupnost."
+    },
+    {
+      "speaker": "agent",
+      "text": "Jaké nové termíny si přejete?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Rád bych změnil z 10.–12. dubna na 12.–14. dubna."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tyto termíny jsou k dispozici."
+    },
+    {
+      "speaker": "customer",
+      "text": "Skvělé."
+    },
+    {
+      "speaker": "agent",
+      "text": "Rezervaci jsem aktualizoval a odeslal potvrzovací e-mail."
+    },
+    {
+      "speaker": "customer",
+      "text": "Zůstane cena stejná?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ano, cena se nemění."
+    },
+    {
+      "speaker": "customer",
+      "text": "Moc děkuji."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Czech Scripts.docx",
+    "conversation_index": 8,
+    "total_turns": 12
+  }
+}

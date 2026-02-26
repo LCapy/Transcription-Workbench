@@ -1,0 +1,52 @@
+{
+  "scenario": "Bank Address Change",
+  "language": "TH",
+  "file_language": "th_TH",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "สวัสดีค่ะ ฉันต้องการเปลี่ยนที่อยู่จัดส่งเอกสารในบัญชีธนาคารค่ะ"
+    },
+    {
+      "speaker": "agent",
+      "text": "ได้ค่ะ ขอชื่อ–นามสกุลเต็มของคุณก่อนค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "Daniel Peterson ครับ/ค่ะ"
+    },
+    {
+      "speaker": "agent",
+      "text": "ขอบคุณค่ะ แล้วที่อยู่ใหม่คืออะไรคะ?"
+    },
+    {
+      "speaker": "customer",
+      "text": "782 Green Street, Seattle, Washington, 98101"
+    },
+    {
+      "speaker": "agent",
+      "text": "รับทราบค่ะ ฉันกำลังอัปเดตให้"
+    },
+    {
+      "speaker": "agent",
+      "text": "อัปเดตที่อยู่เรียบร้อยแล้วค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "แล้วจะกระทบกับใบแจ้งยอดไหมครับ/คะ?"
+    },
+    {
+      "speaker": "agent",
+      "text": "ใบแจ้งยอดถัดไปจะถูกส่งไปที่อยู่ใหม่ค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "ดีเลย ขอบคุณครับ/ค่ะ"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Thai Scripts.docx",
+    "conversation_index": 4,
+    "total_turns": 10
+  }
+}

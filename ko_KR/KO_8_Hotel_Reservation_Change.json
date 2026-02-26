@@ -1,0 +1,60 @@
+{
+  "scenario": "Hotel Reservation Change",
+  "language": "KO",
+  "file_language": "ko_KR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "안녕하세요, 제 호텔 예약 날짜를 변경하고 싶어요."
+    },
+    {
+      "speaker": "agent",
+      "text": "가능합니다. 예약 번호를 알려주세요."
+    },
+    {
+      "speaker": "customer",
+      "text": "네, HA-56219 입니다."
+    },
+    {
+      "speaker": "agent",
+      "text": "감사합니다. 객실 가능 여부 확인할게요."
+    },
+    {
+      "speaker": "agent",
+      "text": "어떤 날짜로 변경하고 싶으세요?"
+    },
+    {
+      "speaker": "customer",
+      "text": "4월 10~12일에서 4월 12~14일로 바꾸고 싶어요."
+    },
+    {
+      "speaker": "agent",
+      "text": "해당 날짜는 예약 가능합니다."
+    },
+    {
+      "speaker": "customer",
+      "text": "좋네요."
+    },
+    {
+      "speaker": "agent",
+      "text": "예약 변경 완료되었고, 확인 이메일도 발송했습니다."
+    },
+    {
+      "speaker": "customer",
+      "text": "가격은 동일한가요?"
+    },
+    {
+      "speaker": "agent",
+      "text": "네, 변경 없습니다."
+    },
+    {
+      "speaker": "customer",
+      "text": "감사합니다."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Korean Scripts.docx",
+    "conversation_index": 8,
+    "total_turns": 12
+  }
+}

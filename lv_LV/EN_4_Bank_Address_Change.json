@@ -1,0 +1,52 @@
+{
+  "scenario": "Bank Address Change",
+  "language": "EN",
+  "file_language": "lv_LV",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Labdien, man ir jāatjaunina pasta adrese manā bankas kontā."
+    },
+    {
+      "speaker": "agent",
+      "text": "Es varu palīdzēt. Vai varat apstiprināt savu pilno vārdu?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Protams. Tas ir Daniel Peterson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Paldies, Daniel. Kāda ir jaunā adrese?"
+    },
+    {
+      "speaker": "customer",
+      "text": "782 Green Street, Seattle, Washington, 98101."
+    },
+    {
+      "speaker": "agent",
+      "text": "Sapratu. Es to tūlīt atjaunināšu."
+    },
+    {
+      "speaker": "agent",
+      "text": "Adrese ir veiksmīgi atjaunināta."
+    },
+    {
+      "speaker": "customer",
+      "text": "Vai tas ietekmēs manus izrakstus?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Jūsu turpmākie izraksti tiks nosūtīti uz jauno adresi."
+    },
+    {
+      "speaker": "customer",
+      "text": "Lieliski, paldies par palīdzību."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Latvian lv-LV Scripts.docx",
+    "conversation_index": 4,
+    "total_turns": 10
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "scenario": "Bank Charge Dispute",
+  "language": "TH",
+  "file_language": "th_TH",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "สวัสดีค่ะ ฉันโทรมาเรื่องรายการเรียกเก็บเงินบนบัญชีที่ฉันไม่รู้จักค่ะ"
+    },
+    {
+      "speaker": "agent",
+      "text": "ได้ค่ะ ฉันช่วยตรวจสอบได้ รบกวนแจ้งวันที่และจำนวนเงินของรายการนั้นหน่อยค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "วันที่ 12 มีนาคม จำนวน ฿45.99 ค่ะ"
+    },
+    {
+      "speaker": "agent",
+      "text": "ขอบคุณค่ะ ฉันเห็นรายการแล้วค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "ฉันไม่จำได้เลยว่าทำธุรกรรมนั้น"
+    },
+    {
+      "speaker": "agent",
+      "text": "เข้าใจค่ะ ฉันสามารถเปิดคำร้องโต้แย้งให้คุณได้"
+    },
+    {
+      "speaker": "customer",
+      "text": "ใช่ค่ะ กรุณาดำเนินการเลย"
+    },
+    {
+      "speaker": "agent",
+      "text": "ฉันได้ส่งคำร้องแล้วค่ะ เราจะตรวจสอบและแจ้งความคืบหน้าผ่านอีเมลให้ทราบ"
+    },
+    {
+      "speaker": "customer",
+      "text": "ใช้เวลาตรวจสอบนานแค่ไหน?"
+    },
+    {
+      "speaker": "agent",
+      "text": "ประมาณ 10 วันทำการค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "โอเค ขอบคุณมากค่ะ"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Thai Scripts.docx",
+    "conversation_index": 2,
+    "total_turns": 11
+  }
+}

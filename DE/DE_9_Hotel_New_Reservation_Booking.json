@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel New Reservation Booking",
+  "language": "DE",
+  "file_language": "DE",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hallo, ich möchte eine Hotelreservierung für nächsten Monat vornehmen."
+    },
+    {
+      "speaker": "agent",
+      "text": "Gerne, dabei kann ich helfen. Darf ich bitte Ihren vollständigen Namen haben?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, es ist Emma Johnson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Vielen Dank, Emma. Für welche Daten möchten Sie bleiben?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Vom 12. Mai bis zum 15. Mai, Abreise am 15."
+    },
+    {
+      "speaker": "agent",
+      "text": "Das wären drei Nächte. Ich habe ein Standardzimmer für einhundertvierzig Euro pro Nacht verfügbar."
+    },
+    {
+      "speaker": "customer",
+      "text": "Sind in diesem Preis Steuern und Gebühren enthalten?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Steuern sind nicht enthalten. Mit Steuern beträgt der Gesamtbetrag vierhundertzweiundsechzig Euro."
+    },
+    {
+      "speaker": "customer",
+      "text": "Okay. Muss ich jetzt bezahlen?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Wir benötigen eine Kreditkarte zur Sicherung der Reservierung, die Zahlung erfolgt jedoch beim Check-in."
+    },
+    {
+      "speaker": "customer",
+      "text": "Gut. Ich kann Ihnen jetzt meine Kartendaten geben. Es ist eine Mastercard, Nummer 9999 8888 3333 1111."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco DE Scripts.docx",
+    "conversation_index": 9,
+    "total_turns": 11
+  }
+}

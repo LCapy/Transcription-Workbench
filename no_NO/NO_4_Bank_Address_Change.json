@@ -1,0 +1,52 @@
+{
+  "scenario": "Bank Address Change",
+  "language": "NO",
+  "file_language": "no_NO",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hei, jeg trenger å oppdatere postadressen på bankkontoen min."
+    },
+    {
+      "speaker": "agent",
+      "text": "Det kan jeg hjelpe deg med. Kan du bekrefte fullt navn?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja. Det er Daniel Peterson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Takk, Daniel. Hva er den nye adressen?"
+    },
+    {
+      "speaker": "customer",
+      "text": "782 Green Street, Seattle, Washington, 98101."
+    },
+    {
+      "speaker": "agent",
+      "text": "Greit, jeg oppdaterer det nå."
+    },
+    {
+      "speaker": "agent",
+      "text": "Adressen er oppdatert."
+    },
+    {
+      "speaker": "customer",
+      "text": "Vil dette påvirke kontoutskriftene mine?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Fremtidige utskrifter vil bli sendt til den nye adressen."
+    },
+    {
+      "speaker": "customer",
+      "text": "Flott, takk for hjelpen."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Norwegian Scripts.docx",
+    "conversation_index": 4,
+    "total_turns": 10
+  }
+}

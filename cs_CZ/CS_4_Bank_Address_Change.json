@@ -1,0 +1,52 @@
+{
+  "scenario": "Bank Address Change",
+  "language": "CS",
+  "file_language": "cs_CZ",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Dobrý den, potřebuji aktualizovat korespondenční adresu u svého bankovního účtu."
+    },
+    {
+      "speaker": "agent",
+      "text": "Mohu pomoci. Nejprve prosím ověřte své celé jméno."
+    },
+    {
+      "speaker": "customer",
+      "text": "Daniel Peterson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Děkuji, Danieli. Jaká je nová adresa?"
+    },
+    {
+      "speaker": "customer",
+      "text": "782 Green Street, Seattle, Washington, 98101."
+    },
+    {
+      "speaker": "agent",
+      "text": "Rozumím, aktualizuji ji."
+    },
+    {
+      "speaker": "agent",
+      "text": "Adresa byla úspěšně aktualizována."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ovlivní to mé výpisy?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Budoucí výpisy budou zasílány na novou adresu."
+    },
+    {
+      "speaker": "customer",
+      "text": "Skvělé, děkuji."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Czech Scripts.docx",
+    "conversation_index": 4,
+    "total_turns": 10
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel Billing Issue",
+  "language": "ID",
+  "file_language": "ID_ID",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Halo, saya punya pertanyaan mengenai tagihan dari kunjungan hotel saya yang terakhir."
+    },
+    {
+      "speaker": "agent",
+      "text": "Dengan senang hati saya bantu. Boleh saya minta nomor reservasinya?"
+    },
+    {
+      "speaker": "customer",
+      "text": "RES-90231."
+    },
+    {
+      "speaker": "agent",
+      "text": "Terima kasih. Saya melihat tagihan sebesar Rp180 tertanggal 10 April."
+    },
+    {
+      "speaker": "customer",
+      "text": "Jumlahnya tampak lebih tinggi dari yang saya harapkan."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tagihan tersebut mencakup satu malam menginap dan biaya minibar."
+    },
+    {
+      "speaker": "customer",
+      "text": "Saya tidak menggunakan minibar."
+    },
+    {
+      "speaker": "agent",
+      "text": "Saya mengerti. Saya akan menghapus biaya minibar dan memproses pengembalian dana sebagian."
+    },
+    {
+      "speaker": "customer",
+      "text": "Berapa jumlah yang akan dikembalikan?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Rp30 akan dikembalikan ke kartu Anda."
+    },
+    {
+      "speaker": "customer",
+      "text": "Baik, terima kasih."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Bahasa id_ID Scripts.docx",
+    "conversation_index": 10,
+    "total_turns": 11
+  }
+}

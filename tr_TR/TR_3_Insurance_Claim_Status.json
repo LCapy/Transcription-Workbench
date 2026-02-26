@@ -1,0 +1,52 @@
+{
+  "scenario": "Insurance Claim Status",
+  "language": "TR",
+  "file_language": "tr_TR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Merhaba, geçen hafta yaptığım sigorta talebinin durumunu öğrenmek istiyorum."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tabii ki, yardımcı olabilirim. Talep numaranızı alabilir miyim?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Evet, CLM-458921."
+    },
+    {
+      "speaker": "agent",
+      "text": "Teşekkür ederim. Hemen kontrol ediyorum."
+    },
+    {
+      "speaker": "agent",
+      "text": "Talebiniz 3 Nisan’da iletilmiş ve şu anda incelemede görünüyor."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ne zaman onaylanır?"
+    },
+    {
+      "speaker": "agent",
+      "text": "İnceleme genellikle 5–7 iş günü sürüyor."
+    },
+    {
+      "speaker": "customer",
+      "text": "Tamam. Onaylanınca bana bilgi verilecek mi?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Evet, sistemdeki e-posta adresinize bilgilendirme göndereceğiz."
+    },
+    {
+      "speaker": "customer",
+      "text": "O adres: maria.lopez@gmail.com."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Turkish Scripts.docx",
+    "conversation_index": 3,
+    "total_turns": 10
+  }
+}

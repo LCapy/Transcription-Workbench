@@ -1,0 +1,52 @@
+{
+  "scenario": "Insurance Claim Status",
+  "language": "EN",
+  "file_language": "lv_LV",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Labdien, zvanu, lai pārbaudītu apdrošināšanas prasības statusu, ko iesniedzu pagājušajā nedēļā."
+    },
+    {
+      "speaker": "agent",
+      "text": "Es varu palīdzēt. Vai varu saņemt jūsu prasības numuru?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Jā, tas ir CLM-458921."
+    },
+    {
+      "speaker": "agent",
+      "text": "Paldies. Ļaujiet man to pārbaudīt."
+    },
+    {
+      "speaker": "agent",
+      "text": "Redzu, ka prasība tika iesniegta 3. aprīlī un pašlaik tiek izskatīta."
+    },
+    {
+      "speaker": "customer",
+      "text": "Vai zināt, kad tā tiks apstiprināta?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Izskatīšana parasti ilgst piecas līdz septiņas darba dienas."
+    },
+    {
+      "speaker": "customer",
+      "text": "Labi. Vai mani informēs, kad tā būs apstiprināta?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Jā, mēs nosūtīsim e-pastu uz sistēmā norādīto adresi."
+    },
+    {
+      "speaker": "customer",
+      "text": "Tā ir maria.lopez@gmail.com."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Latvian lv-LV Scripts.docx",
+    "conversation_index": 3,
+    "total_turns": 10
+  }
+}

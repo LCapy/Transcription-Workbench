@@ -1,0 +1,56 @@
+{
+  "scenario": "Bank Charge Dispute – ES",
+  "language": "ES",
+  "file_language": "ES_ES",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hola, llamo por un cargo en mi cuenta que no reconozco."
+    },
+    {
+      "speaker": "agent",
+      "text": "Puedo ayudarle con eso. ¿Puede indicarme la fecha y el importe del cargo?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Es del 12 de marzo por 45,99 €."
+    },
+    {
+      "speaker": "agent",
+      "text": "Gracias. Veo la transacción aquí."
+    },
+    {
+      "speaker": "customer",
+      "text": "No recuerdo haber realizado esa compra."
+    },
+    {
+      "speaker": "agent",
+      "text": "Entendido. Puedo abrir una reclamación para usted."
+    },
+    {
+      "speaker": "customer",
+      "text": "Sí, por favor."
+    },
+    {
+      "speaker": "agent",
+      "text": "La reclamación ha sido enviada. Investigaremos el caso y le mantendremos informado por correo electrónico."
+    },
+    {
+      "speaker": "customer",
+      "text": "¿Cuánto tiempo dura la investigación?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Normalmente tarda hasta 10 días laborables."
+    },
+    {
+      "speaker": "customer",
+      "text": "De acuerdo, gracias por su ayuda."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco es_ES Scripts.docx",
+    "conversation_index": 2,
+    "total_turns": 11
+  }
+}

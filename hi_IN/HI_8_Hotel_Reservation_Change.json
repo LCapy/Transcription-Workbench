@@ -1,0 +1,60 @@
+{
+  "scenario": "Hotel Reservation Change",
+  "language": "HI",
+  "file_language": "hi_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "नमस्ते, मुझे अपने होटल आरक्षण की तारीखें बदलनी हैं।"
+    },
+    {
+      "speaker": "agent",
+      "text": "ज़रूर। कृपया आरक्षण संख्या दें।"
+    },
+    {
+      "speaker": "customer",
+      "text": "HA-56219।"
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद। उपलब्धता देखता/देखती हूँ।"
+    },
+    {
+      "speaker": "agent",
+      "text": "आप कौन-सी नई तारीखें चाहते/चाहती हैं?"
+    },
+    {
+      "speaker": "customer",
+      "text": "10–12 अप्रैल से बदलकर 12–14 अप्रैल कर दीजिए।"
+    },
+    {
+      "speaker": "agent",
+      "text": "ये तारीखें उपलब्ध हैं।"
+    },
+    {
+      "speaker": "customer",
+      "text": "अच्छा।"
+    },
+    {
+      "speaker": "agent",
+      "text": "आरक्षण अपडेट कर दिया गया है और पुष्टि ईमेल भेज दी गई है।"
+    },
+    {
+      "speaker": "customer",
+      "text": "क्या कीमत वही रहेगी?"
+    },
+    {
+      "speaker": "agent",
+      "text": "हाँ, कीमत में कोई बदलाव नहीं है।"
+    },
+    {
+      "speaker": "customer",
+      "text": "धन्यवाद।"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Hindi Scripts.docx",
+    "conversation_index": 8,
+    "total_turns": 12
+  }
+}

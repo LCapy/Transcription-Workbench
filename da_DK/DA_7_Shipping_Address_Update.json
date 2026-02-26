@@ -1,0 +1,56 @@
+{
+  "scenario": "Shipping Address Update",
+  "language": "DA",
+  "file_language": "da_DK",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hej, jeg har brug for at ændre leveringsadressen for en ordre, jeg afgav tidligere i dag."
+    },
+    {
+      "speaker": "agent",
+      "text": "Det kan jeg hjælpe med. Er ordren allerede afsendt?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Nej, den er ikke afsendt endnu."
+    },
+    {
+      "speaker": "agent",
+      "text": "Perfekt. Oplys venligst den nye adresse."
+    },
+    {
+      "speaker": "customer",
+      "text": "245 Market Street, San Jose, Californien."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tak. Jeg opdaterer det nu."
+    },
+    {
+      "speaker": "agent",
+      "text": "Adressen er blevet opdateret korrekt."
+    },
+    {
+      "speaker": "customer",
+      "text": "Vil det forsinke leveringen?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Nej, leveringsdatoen forbliver den samme."
+    },
+    {
+      "speaker": "customer",
+      "text": "Perfekt. Tak for hjælpen."
+    },
+    {
+      "speaker": "agent",
+      "text": "Selv tak."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Danish Scripts.docx",
+    "conversation_index": 7,
+    "total_turns": 11
+  }
+}

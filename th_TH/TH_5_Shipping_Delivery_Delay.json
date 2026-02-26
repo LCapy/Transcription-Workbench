@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Delivery Delay",
+  "language": "TH",
+  "file_language": "th_TH",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "สวัสดีค่ะ พอดีว่าพัสดุของฉันยังมาไม่ถึงค่ะ"
+    },
+    {
+      "speaker": "agent",
+      "text": "ต้องขออภัยจริงๆ ค่ะ ขอหมายเลขติดตามพัสดุหน่อยค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "TRK-55134 ค่ะ"
+    },
+    {
+      "speaker": "agent",
+      "text": "ขอบคุณค่ะ ขอเช็คสถานะให้"
+    },
+    {
+      "speaker": "agent",
+      "text": "พัสดุล่าช้าเนื่องจากสภาพอากาศ และมีกำหนดจัดส่งใหม่เป็นพรุ่งนี้ค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "แต่เดิมต้องมาวันจันทร์นะคะ"
+    },
+    {
+      "speaker": "agent",
+      "text": "เข้าใจค่ะ ขอโทษในความไม่สะดวก วันที่จัดส่งใหม่คือ 18 เมษายนค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "ฉันจะได้รับอีเมลอัปเดตไหมคะ?"
+    },
+    {
+      "speaker": "agent",
+      "text": "ได้ค่ะ จะส่งไปที่ john.john@gmail.com"
+    },
+    {
+      "speaker": "customer",
+      "text": "ขอบคุณค่ะ"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Thai Scripts.docx",
+    "conversation_index": 5,
+    "total_turns": 10
+  }
+}

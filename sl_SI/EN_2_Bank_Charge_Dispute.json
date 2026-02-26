@@ -1,0 +1,56 @@
+{
+  "scenario": "Bank Charge Dispute",
+  "language": "EN",
+  "file_language": "sl_SI",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Pozdravljeni, kličem glede obremenitve na mojem računu, ki je ne prepoznam."
+    },
+    {
+      "speaker": "agent",
+      "text": "S tem vam lahko pomagam. Mi lahko poveste datum in znesek obremenitve?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Je iz 12. marca, v znesku 45,99 €."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hvala. Tukaj vidim transakcijo."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ne spomnim se, da bi opravila ta nakup."
+    },
+    {
+      "speaker": "agent",
+      "text": "Razumem. Za vas lahko odprem spor."
+    },
+    {
+      "speaker": "customer",
+      "text": "Da, prosim."
+    },
+    {
+      "speaker": "agent",
+      "text": "Spor je bil oddan. Preiskali bomo in vas sproti obveščali po e-pošti."
+    },
+    {
+      "speaker": "customer",
+      "text": "Kako dolgo traja preiskava?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Običajno traja do 10 delovnih dni."
+    },
+    {
+      "speaker": "customer",
+      "text": "Prav, hvala za pomoč."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Slovenian sl-SI Scripts.docx",
+    "conversation_index": 2,
+    "total_turns": 11
+  }
+}

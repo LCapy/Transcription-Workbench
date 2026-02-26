@@ -1,0 +1,56 @@
+{
+  "scenario": "Bank Charge Dispute",
+  "language": "SV",
+  "file_language": "sv_SE",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hej, jag ringer angående en debitering på mitt konto som jag inte känner igen."
+    },
+    {
+      "speaker": "agent",
+      "text": "Jag kan hjälpa dig med det. Kan du säga vilket datum och vilket belopp det gäller?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Det är från 12 mars och beloppet är 45,99 kr."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tack. Jag ser transaktionen här."
+    },
+    {
+      "speaker": "customer",
+      "text": "Jag minns inte att jag gjort det köpet."
+    },
+    {
+      "speaker": "agent",
+      "text": "Förstått. Jag kan öppna en reklamation för dig."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, gör det."
+    },
+    {
+      "speaker": "agent",
+      "text": "Reklamationen har skickats in. Vi utreder och håller dig uppdaterad via e-post."
+    },
+    {
+      "speaker": "customer",
+      "text": "Hur lång tid tar utredningen?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Den tar vanligtvis upp till 10 arbetsdagar."
+    },
+    {
+      "speaker": "customer",
+      "text": "Okej, tack för hjälpen."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Swedish Scripts.docx",
+    "conversation_index": 2,
+    "total_turns": 11
+  }
+}

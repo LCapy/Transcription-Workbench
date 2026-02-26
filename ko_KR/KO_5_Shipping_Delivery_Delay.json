@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Delivery Delay",
+  "language": "KO",
+  "file_language": "ko_KR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "안녕하세요, 제 택배가 아직 도착하지 않아서 연락드렸습니다."
+    },
+    {
+      "speaker": "agent",
+      "text": "불편을 드려 죄송합니다. 운송장 번호를 알려주실 수 있을까요?"
+    },
+    {
+      "speaker": "customer",
+      "text": "네, TRK-55134 입니다."
+    },
+    {
+      "speaker": "agent",
+      "text": "감사합니다. 상태 확인해볼게요."
+    },
+    {
+      "speaker": "agent",
+      "text": "날씨 문제로 인해 지연되었고, 내일 배송 예정입니다."
+    },
+    {
+      "speaker": "customer",
+      "text": "월요일에 도착했어야 했는데요."
+    },
+    {
+      "speaker": "agent",
+      "text": "불편하셨을 것 같아요. 새로운 배송일은 4월 18일입니다."
+    },
+    {
+      "speaker": "customer",
+      "text": "이메일로 업데이트 받을 수 있나요?"
+    },
+    {
+      "speaker": "agent",
+      "text": "네, john.john@gmail.com 으로 발송됩니다."
+    },
+    {
+      "speaker": "customer",
+      "text": "알겠습니다, 감사합니다."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Korean Scripts.docx",
+    "conversation_index": 5,
+    "total_turns": 10
+  }
+}

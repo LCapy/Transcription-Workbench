@@ -1,0 +1,52 @@
+{
+  "scenario": "Bank Address Change",
+  "language": "VI",
+  "file_language": "vi_VN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Chào bạn, tôi cần cập nhật địa chỉ nhận thư trên tài khoản ngân hàng."
+    },
+    {
+      "speaker": "agent",
+      "text": "Được ạ. Trước hết, cho tôi xin họ tên đầy đủ của bạn."
+    },
+    {
+      "speaker": "customer",
+      "text": "Daniel Peterson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Cảm ơn Daniel. Địa chỉ mới của bạn là gì?"
+    },
+    {
+      "speaker": "customer",
+      "text": "782 Green Street, Seattle, Washington, 98101."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tôi đang cập nhật… xong rồi."
+    },
+    {
+      "speaker": "agent",
+      "text": "Địa chỉ đã được cập nhật thành công."
+    },
+    {
+      "speaker": "customer",
+      "text": "Điều này có ảnh hưởng đến sao kê của tôi không?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Các sao kê tiếp theo sẽ được gửi về địa chỉ mới."
+    },
+    {
+      "speaker": "customer",
+      "text": "Tuyệt, cảm ơn bạn."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Vietnamese Scripts.docx",
+    "conversation_index": 4,
+    "total_turns": 10
+  }
+}

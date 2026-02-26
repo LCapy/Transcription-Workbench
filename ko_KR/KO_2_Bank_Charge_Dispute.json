@@ -1,0 +1,56 @@
+{
+  "scenario": "Bank Charge Dispute",
+  "language": "KO",
+  "file_language": "ko_KR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "여보세요, 제 계정에 모르는 청구 내역이 있어서 연락드렸어요."
+    },
+    {
+      "speaker": "agent",
+      "text": "확인 도와드릴게요. 청구된 날짜와 금액을 알려주실 수 있을까요?"
+    },
+    {
+      "speaker": "customer",
+      "text": "네, 3월 12일에 ₩45.99가 청구됐어요."
+    },
+    {
+      "speaker": "agent",
+      "text": "감사합니다. 여기 거래 내역이 보이네요."
+    },
+    {
+      "speaker": "customer",
+      "text": "이 구매는 한 기억이 없어요."
+    },
+    {
+      "speaker": "agent",
+      "text": "알겠습니다. 이 건에 대해 이의 제기를 제출해드릴 수 있어요."
+    },
+    {
+      "speaker": "customer",
+      "text": "네, 부탁드려요."
+    },
+    {
+      "speaker": "agent",
+      "text": "이의 제기가 제출되었습니다. 조사 후 이메일로 업데이트를 드리겠습니다."
+    },
+    {
+      "speaker": "customer",
+      "text": "조사 기간은 얼마나 걸리나요?"
+    },
+    {
+      "speaker": "agent",
+      "text": "보통 최대 10영업일 정도 소요됩니다."
+    },
+    {
+      "speaker": "customer",
+      "text": "네, 감사합니다."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Korean Scripts.docx",
+    "conversation_index": 2,
+    "total_turns": 11
+  }
+}

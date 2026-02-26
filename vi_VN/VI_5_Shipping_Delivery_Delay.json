@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Delivery Delay",
+  "language": "VI",
+  "file_language": "vi_VN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Chào bạn, tôi gọi vì gói hàng của tôi vẫn chưa được giao."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tôi rất xin lỗi. Bạn cho tôi xin mã theo dõi?"
+    },
+    {
+      "speaker": "customer",
+      "text": "TRK-55134."
+    },
+    {
+      "speaker": "agent",
+      "text": "Cảm ơn bạn. Tôi đang kiểm tra."
+    },
+    {
+      "speaker": "agent",
+      "text": "Gói hàng bị trì hoãn do thời tiết và hiện dự kiến giao vào ngày mai."
+    },
+    {
+      "speaker": "customer",
+      "text": "Lẽ ra phải đến vào thứ Hai."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tôi hiểu sự khó chịu này. Ngày giao mới là 18 tháng 4."
+    },
+    {
+      "speaker": "customer",
+      "text": "Tôi có nhận email cập nhật không?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Có, chúng tôi sẽ gửi vào email john.john@gmail.com."
+    },
+    {
+      "speaker": "customer",
+      "text": "Được rồi, cảm ơn bạn."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Vietnamese Scripts.docx",
+    "conversation_index": 5,
+    "total_turns": 10
+  }
+}

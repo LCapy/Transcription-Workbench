@@ -1,0 +1,68 @@
+{
+  "scenario": "Purchase Order Status",
+  "language": "TH",
+  "file_language": "th_TH",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "สวัสดีค่ะ จะสอบถามสถานะคำสั่งซื้อเครื่องซักผ้าที่สั่งไปเมื่อสัปดาห์ก่อนค่ะ"
+    },
+    {
+      "speaker": "agent",
+      "text": "ได้ค่ะ ขอหมายเลขคำสั่งซื้อหน่อยค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "78421 ค่ะ"
+    },
+    {
+      "speaker": "agent",
+      "text": "ขอบคุณค่ะ ฉันตรวจสอบให้เลย"
+    },
+    {
+      "speaker": "agent",
+      "text": "คำสั่งซื้อได้รับการอนุมัติและจัดส่งเมื่อวานช่วงบ่ายค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "ดีเลยค่ะ แล้วจะมาถึงเมื่อไหร่?"
+    },
+    {
+      "speaker": "agent",
+      "text": "คาดว่าจะส่งถึงในวันศุกร์ที่ 10 ธันวาคมค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "เราจะได้รับอีเมลยืนยันการจัดส่งไหมคะ?"
+    },
+    {
+      "speaker": "agent",
+      "text": "ใช่ค่ะ จะได้รับภายในวันนี้ ก่อนจะจบการโทร ขออนุญาตยืนยันวิธีชำระเงินค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "จ่ายด้วยบัตร Visa หมายเลข 4111 2222 3344 6677 ค่ะ"
+    },
+    {
+      "speaker": "agent",
+      "text": "ขอบคุณค่ะ เพื่อความปลอดภัย ฉันจะไม่ทวนเลขบัตร แต่ยืนยันว่าเรียบร้อยดีค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "โอเคค่ะ"
+    },
+    {
+      "speaker": "agent",
+      "text": "จะส่งอีเมลยืนยันไปที่ alex@gmail.com ค่ะ ต้องการให้ช่วยอะไรเพิ่มเติมไหมคะ?"
+    },
+    {
+      "speaker": "customer",
+      "text": "ไม่ค่ะ ขอบคุณ"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Thai Scripts.docx",
+    "conversation_index": 6,
+    "total_turns": 14
+  }
+}

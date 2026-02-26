@@ -1,0 +1,68 @@
+{
+  "scenario": "Purchase Order Status",
+  "language": "CS",
+  "file_language": "cs_CZ",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Dobrý den, volám, abych zjistil stav objednávky na novou pračku, kterou jsme zadali minulý týden."
+    },
+    {
+      "speaker": "agent",
+      "text": "Samozřejmě. Máte k dispozici číslo objednávky?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ano, je to 78421."
+    },
+    {
+      "speaker": "agent",
+      "text": "Děkuji, ověřím."
+    },
+    {
+      "speaker": "agent",
+      "text": "Vidím, že objednávka byla schválena a včera odpoledne odeslána."
+    },
+    {
+      "speaker": "customer",
+      "text": "To je dobrá zpráva. Víte, kdy dorazí?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Předpokládané doručení je tento pátek, 10. prosince."
+    },
+    {
+      "speaker": "customer",
+      "text": "Dostaneme potvrzení o odeslání?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ano, ještě dnes obdržíte e-mail s informacemi o sledování. Než skončíme, můžete potvrdit platební metodu?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ano, platil jsem kartou Visa. Číslo je 4111 2222 3344 6677."
+    },
+    {
+      "speaker": "agent",
+      "text": "Děkuji. Z bezpečnostních důvodů číslo nebudu opakovat, ale mohu potvrdit, že platba proběhla úspěšně."
+    },
+    {
+      "speaker": "customer",
+      "text": "Dobře."
+    },
+    {
+      "speaker": "agent",
+      "text": "Potvrzení bude zasláno na alex@gmail.com. Mohu vám ještě s něčím pomoci?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ne, děkuji."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Czech Scripts.docx",
+    "conversation_index": 6,
+    "total_turns": 14
+  }
+}

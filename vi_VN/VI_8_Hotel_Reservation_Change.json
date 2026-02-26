@@ -1,0 +1,60 @@
+{
+  "scenario": "Hotel Reservation Change",
+  "language": "VI",
+  "file_language": "vi_VN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Chào bạn, tôi cần đổi ngày đặt phòng khách sạn."
+    },
+    {
+      "speaker": "agent",
+      "text": "Được ạ. Cho tôi xin mã đặt phòng?"
+    },
+    {
+      "speaker": "customer",
+      "text": "HA-56219."
+    },
+    {
+      "speaker": "agent",
+      "text": "Cảm ơn. Tôi đang kiểm tra phòng trống."
+    },
+    {
+      "speaker": "agent",
+      "text": "Bạn muốn đổi sang ngày nào?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Từ 10–12 tháng 4 sang 12–14 tháng 4."
+    },
+    {
+      "speaker": "agent",
+      "text": "Những ngày đó còn phòng."
+    },
+    {
+      "speaker": "customer",
+      "text": "Tuyệt."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tôi đã cập nhật và gửi email xác nhận."
+    },
+    {
+      "speaker": "customer",
+      "text": "Giá vẫn giữ nguyên chứ?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Vâng, không thay đổi."
+    },
+    {
+      "speaker": "customer",
+      "text": "Cảm ơn rất nhiều."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Vietnamese Scripts.docx",
+    "conversation_index": 8,
+    "total_turns": 12
+  }
+}

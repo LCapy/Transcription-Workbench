@@ -1,0 +1,56 @@
+{
+  "scenario": "Bank Charge Dispute",
+  "language": "CS",
+  "file_language": "cs_CZ",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Dobrý den, volám ohledně platby na mém účtu, kterou nepoznávám."
+    },
+    {
+      "speaker": "agent",
+      "text": "Mohu pomoci. Můžete mi sdělit datum a částku této platby?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Je to z 12. března ve výši 45,99 Kč."
+    },
+    {
+      "speaker": "agent",
+      "text": "Děkuji. Transakci zde vidím."
+    },
+    {
+      "speaker": "customer",
+      "text": "Nepamatuji si, že bych tento nákup provedl."
+    },
+    {
+      "speaker": "agent",
+      "text": "Rozumím. Mohu pro vás otevřít reklamaci."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ano, prosím."
+    },
+    {
+      "speaker": "agent",
+      "text": "Reklamace byla podána. Provedeme šetření a budeme vás informovat e-mailem."
+    },
+    {
+      "speaker": "customer",
+      "text": "Jak dlouho šetření trvá?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Obvykle to trvá až 10 pracovních dnů."
+    },
+    {
+      "speaker": "customer",
+      "text": "Dobře, děkuji za pomoc."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Czech Scripts.docx",
+    "conversation_index": 2,
+    "total_turns": 11
+  }
+}

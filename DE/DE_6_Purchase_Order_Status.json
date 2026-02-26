@@ -1,0 +1,68 @@
+{
+  "scenario": "Purchase Order Status",
+  "language": "DE",
+  "file_language": "DE",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hallo, ich rufe an, um den Status einer Bestellung für eine neue Waschmaschine zu überprüfen, die wir letzte Woche aufgegeben haben."
+    },
+    {
+      "speaker": "agent",
+      "text": "Natürlich, dabei kann ich helfen. Haben Sie die Bestellnummer zur Hand?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, sie lautet 78421."
+    },
+    {
+      "speaker": "agent",
+      "text": "Vielen Dank. Ich schaue das nach."
+    },
+    {
+      "speaker": "agent",
+      "text": "Ich sehe, dass die Bestellung gestern Nachmittag genehmigt und versandt wurde."
+    },
+    {
+      "speaker": "customer",
+      "text": "Das freut mich zu hören. Wissen Sie, wann sie ankommt?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Das voraussichtliche Lieferdatum ist diesen Freitag, der 10. Dezember."
+    },
+    {
+      "speaker": "customer",
+      "text": "Erhalten wir eine Versandbestätigung?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ja, Sie sollten später heute eine E-Mail mit den Sendungsverfolgungsdetails erhalten. Bevor wir abschließen, können Sie bitte die für diese Bestellung verwendete Zahlungsmethode bestätigen?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Klar, ich habe mit einer Visa-Karte bezahlt. Die Nummer lautet 4111 2222 3344 6677."
+    },
+    {
+      "speaker": "agent",
+      "text": "Vielen Dank. Aus Sicherheitsgründen werde ich die Kartennummer nicht wiederholen, kann jedoch bestätigen, dass die Zahlung erfolgreich verarbeitet wurde."
+    },
+    {
+      "speaker": "customer",
+      "text": "Okay, das ist in Ordnung."
+    },
+    {
+      "speaker": "agent",
+      "text": "Die Bestätigungs-E-Mail wird an alex@gmail.com gesendet. Kann ich Ihnen heute noch bei etwas anderem helfen?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Nein, das war alles. Danke."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco DE Scripts.docx",
+    "conversation_index": 6,
+    "total_turns": 14
+  }
+}

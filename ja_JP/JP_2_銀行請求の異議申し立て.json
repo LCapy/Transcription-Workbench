@@ -1,0 +1,56 @@
+{
+  "scenario": "銀行請求の異議申し立て",
+  "language": "JP",
+  "file_language": "ja_JP",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "こんにちは。身に覚えのない請求についてお電話しています。"
+    },
+    {
+      "speaker": "agent",
+      "text": "承知しました。請求日と金額を教えていただけますか？"
+    },
+    {
+      "speaker": "customer",
+      "text": "3月12日付で ¥45.99 です。"
+    },
+    {
+      "speaker": "agent",
+      "text": "ありがとうございます。該当の取引を確認しました。"
+    },
+    {
+      "speaker": "customer",
+      "text": "その購入をした覚えがありません。"
+    },
+    {
+      "speaker": "agent",
+      "text": "承知しました。異議申し立てを開始できます。"
+    },
+    {
+      "speaker": "customer",
+      "text": "はい、お願いします。"
+    },
+    {
+      "speaker": "agent",
+      "text": "異議申し立てを受け付けました。調査を行い、メールで進捗をご連絡いたします。"
+    },
+    {
+      "speaker": "customer",
+      "text": "調査にはどのくらいかかりますか？"
+    },
+    {
+      "speaker": "agent",
+      "text": "通常、最大で10営業日ほどかかります。"
+    },
+    {
+      "speaker": "customer",
+      "text": "わかりました。ありがとうございます。"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Japanese Scripts.docx",
+    "conversation_index": 2,
+    "total_turns": 11
+  }
+}

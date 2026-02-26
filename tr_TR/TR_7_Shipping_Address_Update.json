@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Address Update",
+  "language": "TR",
+  "file_language": "tr_TR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Merhaba, bugün verdiğim bir siparişin teslimat adresini değiştirmem gerekiyor."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tabii, yardımcı olurum. Siparişiniz gönderildi mi?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Hayır, henüz gönderilmedi."
+    },
+    {
+      "speaker": "agent",
+      "text": "Çok iyi. Yeni adresi alayım lütfen."
+    },
+    {
+      "speaker": "customer",
+      "text": "245 Market Street, San Jose, California."
+    },
+    {
+      "speaker": "agent",
+      "text": "Teşekkür ederim. Adres başarıyla güncellendi."
+    },
+    {
+      "speaker": "customer",
+      "text": "Bu teslimatı geciktirir mi?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Hayır, teslimat tarihi aynı kalacak."
+    },
+    {
+      "speaker": "customer",
+      "text": "Harika, teşekkürler."
+    },
+    {
+      "speaker": "agent",
+      "text": "Rica ederim."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Turkish Scripts.docx",
+    "conversation_index": 7,
+    "total_turns": 10
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "scenario": "Shipping Address Update",
+  "language": "CS",
+  "file_language": "cs_CZ",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Dobrý den, potřebuji změnit doručovací adresu u objednávky, kterou jsem dnes vytvořil."
+    },
+    {
+      "speaker": "agent",
+      "text": "Mohu pomoci. Byla už objednávka odeslána?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ne, ještě ne."
+    },
+    {
+      "speaker": "agent",
+      "text": "Skvělé. Prosím, sdělte novou adresu."
+    },
+    {
+      "speaker": "customer",
+      "text": "245 Market Street, San Jose, California."
+    },
+    {
+      "speaker": "agent",
+      "text": "Děkuji, aktualizuji."
+    },
+    {
+      "speaker": "agent",
+      "text": "Adresa byla úspěšně změněna."
+    },
+    {
+      "speaker": "customer",
+      "text": "Způsobí to zpoždění doručení?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ne, termín doručení zůstává stejný."
+    },
+    {
+      "speaker": "customer",
+      "text": "Perfektní, děkuji."
+    },
+    {
+      "speaker": "agent",
+      "text": "Není zač."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Czech Scripts.docx",
+    "conversation_index": 7,
+    "total_turns": 11
+  }
+}

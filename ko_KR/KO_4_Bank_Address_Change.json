@@ -1,0 +1,52 @@
+{
+  "scenario": "Bank Address Change",
+  "language": "KO",
+  "file_language": "ko_KR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "안녕하세요, 제 은행 계좌의 우편 주소를 변경하고 싶어요."
+    },
+    {
+      "speaker": "agent",
+      "text": "물론 도와드릴게요. 먼저 성함을 확인해도 될까요?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Daniel Peterson 입니다."
+    },
+    {
+      "speaker": "agent",
+      "text": "감사합니다, Daniel님. 새로운 주소는 어떻게 되시나요?"
+    },
+    {
+      "speaker": "customer",
+      "text": "782 Green Street, Seattle, Washington, 98101 입니다."
+    },
+    {
+      "speaker": "agent",
+      "text": "확인했습니다. 지금 업데이트하겠습니다."
+    },
+    {
+      "speaker": "agent",
+      "text": "주소가 성공적으로 변경되었습니다."
+    },
+    {
+      "speaker": "customer",
+      "text": "제 명세서에는 영향이 있을까요?"
+    },
+    {
+      "speaker": "agent",
+      "text": "앞으로의 명세서는 새 주소로 발송됩니다."
+    },
+    {
+      "speaker": "customer",
+      "text": "좋네요, 감사합니다."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Korean Scripts.docx",
+    "conversation_index": 4,
+    "total_turns": 10
+  }
+}

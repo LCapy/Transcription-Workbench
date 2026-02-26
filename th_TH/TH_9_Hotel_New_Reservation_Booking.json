@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel New Reservation Booking",
+  "language": "TH",
+  "file_language": "th_TH",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "สวัสดีค่ะ ฉันต้องการจองโรงแรมสำหรับเดือนหน้าค่ะ"
+    },
+    {
+      "speaker": "agent",
+      "text": "ได้ค่ะ ขอชื่อ–นามสกุลเต็มของคุณค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "Emma Johnson ค่ะ"
+    },
+    {
+      "speaker": "agent",
+      "text": "ขอบคุณค่ะ Emma คุณต้องการพักวันไหนบ้างคะ?"
+    },
+    {
+      "speaker": "customer",
+      "text": "12–15 พฤษภาคม โดยเช็คเอาต์วันที่ 15 ค่ะ"
+    },
+    {
+      "speaker": "agent",
+      "text": "ทั้งหมด 3 คืน มีห้องมาตรฐานราคา ฿140 ต่อคืนค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "ราคานี้รวมภาษีและค่าธรรมเนียมหรือยังคะ?"
+    },
+    {
+      "speaker": "agent",
+      "text": "ยังไม่รวมนะคะ รวมภาษีทั้งหมดเป็น ฿462"
+    },
+    {
+      "speaker": "customer",
+      "text": "โอเค ต้องจ่ายตอนนี้ไหมคะ?"
+    },
+    {
+      "speaker": "agent",
+      "text": "ไม่ต้องค่ะ แค่ใช้บัตรเครดิตยืนยันการจอง แต่จะเก็บเงินตอนเช็คอินค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "ได้ค่ะ บัตร Mastercard หมายเลข 9999 8888 3333 1111 ค่ะ"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Thai Scripts.docx",
+    "conversation_index": 9,
+    "total_turns": 11
+  }
+}

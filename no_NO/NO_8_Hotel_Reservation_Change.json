@@ -1,0 +1,60 @@
+{
+  "scenario": "Hotel Reservation Change",
+  "language": "NO",
+  "file_language": "no_NO",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hei, jeg trenger å endre datoene for hotellreservasjonen min."
+    },
+    {
+      "speaker": "agent",
+      "text": "Selvfølgelig. Har du reservasjonsnummeret?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, HA-56219."
+    },
+    {
+      "speaker": "agent",
+      "text": "Takk. Jeg sjekker tilgjengelighet."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hvilke nye datoer ønsker du?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Jeg vil flytte den fra 10.–12. april til 12.–14. april."
+    },
+    {
+      "speaker": "agent",
+      "text": "De datoene er tilgjengelige."
+    },
+    {
+      "speaker": "customer",
+      "text": "Flott."
+    },
+    {
+      "speaker": "agent",
+      "text": "Jeg har oppdatert reservasjonen og sendt en bekreftelse på e-post."
+    },
+    {
+      "speaker": "customer",
+      "text": "Forblir prisen den samme?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ja, ingen prisendring."
+    },
+    {
+      "speaker": "customer",
+      "text": "Tusen takk."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Norwegian Scripts.docx",
+    "conversation_index": 8,
+    "total_turns": 12
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "scenario": "Insurance Claim Status",
+  "language": "BM",
+  "file_language": "MS_MY",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hai, saya telefon untuk semak status tuntutan insurans yang saya hantar minggu lepas."
+    },
+    {
+      "speaker": "agent",
+      "text": "Baik, boleh saya dapatkan nombor tuntutan?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ya, CLM-458921."
+    },
+    {
+      "speaker": "agent",
+      "text": "Terima kasih. Saya semak sekarang."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tuntutan dihantar pada 3 April dan kini dalam semakan."
+    },
+    {
+      "speaker": "customer",
+      "text": "Tahu bila ia akan diluluskan?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Semakan biasanya mengambil masa lima hingga tujuh hari bekerja."
+    },
+    {
+      "speaker": "customer",
+      "text": "Okay. Adakah saya akan diberitahu selepas ia diluluskan?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ya, kami akan hantar e-mel ke alamat yang didaftarkan."
+    },
+    {
+      "speaker": "customer",
+      "text": "Itu adalah maria.lopez@gmail.com."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Bahasa ms-MY Scripts.docx",
+    "conversation_index": 2,
+    "total_turns": 10
+  }
+}

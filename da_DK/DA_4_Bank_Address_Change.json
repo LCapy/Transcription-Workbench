@@ -1,0 +1,52 @@
+{
+  "scenario": "Bank Address Change",
+  "language": "DA",
+  "file_language": "da_DK",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hej, jeg har brug for at opdatere min postadresse på min bankkonto."
+    },
+    {
+      "speaker": "agent",
+      "text": "Det kan jeg hjælpe med. Kan du først bekræfte dit fulde navn?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Selvfølgelig. Det er Daniel Peterson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tak, Daniel. Hvad er den nye adresse?"
+    },
+    {
+      "speaker": "customer",
+      "text": "782 Green Street, Seattle, Washington, 98101."
+    },
+    {
+      "speaker": "agent",
+      "text": "Noteret. Jeg opdaterer det nu."
+    },
+    {
+      "speaker": "agent",
+      "text": "Adressen er blevet opdateret korrekt."
+    },
+    {
+      "speaker": "customer",
+      "text": "Vil det påvirke mine kontoudtog?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Dine fremtidige kontoudtog vil blive sendt til den nye adresse."
+    },
+    {
+      "speaker": "customer",
+      "text": "Perfekt, tak for hjælpen."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Danish Scripts.docx",
+    "conversation_index": 4,
+    "total_turns": 10
+  }
+}

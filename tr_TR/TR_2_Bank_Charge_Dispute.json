@@ -1,0 +1,56 @@
+{
+  "scenario": "Bank Charge Dispute",
+  "language": "TR",
+  "file_language": "tr_TR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Merhaba, hesabımda tanımadığım bir işlem ücreti var, bunun için arıyorum."
+    },
+    {
+      "speaker": "agent",
+      "text": "Yardımcı olabilirim. İşlemin tarihini ve tutarını söyleyebilir misiniz?"
+    },
+    {
+      "speaker": "customer",
+      "text": "12 Mart tarihli ve tutarı ₺45.99."
+    },
+    {
+      "speaker": "agent",
+      "text": "Teşekkürler, işlemi burada görüyorum."
+    },
+    {
+      "speaker": "customer",
+      "text": "Bu satın almayı yaptığımı hatırlamıyorum."
+    },
+    {
+      "speaker": "agent",
+      "text": "Anladım. Sizin için bir itiraz dosyası açabilirim."
+    },
+    {
+      "speaker": "customer",
+      "text": "Evet, lütfen açın."
+    },
+    {
+      "speaker": "agent",
+      "text": "İtiraz oluşturuldu. İnceleme yapacağız ve sizi e-posta ile bilgilendireceğiz."
+    },
+    {
+      "speaker": "customer",
+      "text": "İnceleme ne kadar sürüyor?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Genelde 10 iş gününe kadar sürebilir."
+    },
+    {
+      "speaker": "customer",
+      "text": "Tamam, teşekkür ederim."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Turkish Scripts.docx",
+    "conversation_index": 2,
+    "total_turns": 11
+  }
+}

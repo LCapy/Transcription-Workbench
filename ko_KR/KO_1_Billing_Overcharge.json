@@ -1,0 +1,60 @@
+{
+  "scenario": "Billing Overcharge",
+  "language": "KO",
+  "file_language": "ko_KR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "안녕하세요, 제 월간 구독료가 두 번 청구된 것 같아서 전화드렸습니다."
+    },
+    {
+      "speaker": "agent",
+      "text": "불편을 드려 정말 죄송합니다. 확인을 도와드릴게요. 계정에 등록된 이메일 주소를 알려주실 수 있을까요?"
+    },
+    {
+      "speaker": "customer",
+      "text": "네, alex.morgan@gmail.com 입니다."
+    },
+    {
+      "speaker": "agent",
+      "text": "감사합니다. 계정 정보를 불러오는 데 잠시만 기다려 주세요."
+    },
+    {
+      "speaker": "agent",
+      "text": "어제 ₩54.50이 두 번 청구된 내역이 보입니다. 그중 한 건은 중복 청구로 보입니다."
+    },
+    {
+      "speaker": "customer",
+      "text": "네, 저도 그렇게 생각했어요."
+    },
+    {
+      "speaker": "agent",
+      "text": "중복된 금액은 환불 처리해드릴게요. 고객님께서 추가로 하실 일은 없습니다."
+    },
+    {
+      "speaker": "customer",
+      "text": "환불은 보통 얼마나 걸리나요?"
+    },
+    {
+      "speaker": "agent",
+      "text": "보통 영업일 기준 5~7일 정도 소요됩니다."
+    },
+    {
+      "speaker": "customer",
+      "text": "알겠습니다. 확인해주셔서 감사합니다."
+    },
+    {
+      "speaker": "agent",
+      "text": "언제든지요. 오늘 더 도와드릴 일 있을까요?"
+    },
+    {
+      "speaker": "customer",
+      "text": "아니요, 그게 다예요."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Korean Scripts.docx",
+    "conversation_index": 1,
+    "total_turns": 12
+  }
+}

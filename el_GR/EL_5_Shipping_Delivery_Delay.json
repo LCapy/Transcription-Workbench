@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Delivery Delay",
+  "language": "EL",
+  "file_language": "el_GR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Γεια σας, καλώ επειδή το δέμα μου δεν έχει φτάσει ακόμη."
+    },
+    {
+      "speaker": "agent",
+      "text": "Λυπάμαι πολύ γι’ αυτό. Μπορώ να έχω τον αριθμό εντοπισμού;"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ναι, είναι TRK-55134."
+    },
+    {
+      "speaker": "agent",
+      "text": "Ευχαριστώ. Ας δω την κατάσταση."
+    },
+    {
+      "speaker": "agent",
+      "text": "Το δέμα καθυστέρησε λόγω καιρού και έχει προγραμματιστεί να παραδοθεί αύριο."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ήταν να παραδοθεί τη Δευτέρα."
+    },
+    {
+      "speaker": "agent",
+      "text": "Καταλαβαίνω την ενόχληση. Η νέα ημερομηνία παράδοσης είναι 18 Απριλίου."
+    },
+    {
+      "speaker": "customer",
+      "text": "Θα λάβω ενημέρωση με email;"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ναι, θα τη στείλουμε στο john.john@gmail.com."
+    },
+    {
+      "speaker": "customer",
+      "text": "Εντάξει, ευχαριστώ."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Greek Scripts.docx",
+    "conversation_index": 5,
+    "total_turns": 10
+  }
+}

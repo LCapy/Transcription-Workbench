@@ -1,0 +1,52 @@
+{
+  "scenario": "Insurance Claim Status",
+  "language": "SV",
+  "file_language": "sv_SE",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hej, jag ringer för att kontrollera statusen på ett försäkringsärende jag skickade in förra veckan."
+    },
+    {
+      "speaker": "agent",
+      "text": "Jag kan hjälpa dig med det. Kan jag få ditt ärendenummer?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, det är CLM-458921."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tack. Jag tittar på det nu."
+    },
+    {
+      "speaker": "agent",
+      "text": "Jag ser att ärendet skickades in den 3 april och för närvarande är under granskning."
+    },
+    {
+      "speaker": "customer",
+      "text": "Vet du när det kommer att godkännas?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Granskningen tar vanligtvis fem till sju arbetsdagar."
+    },
+    {
+      "speaker": "customer",
+      "text": "Okej. Får jag ett meddelande när det är godkänt?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ja, vi skickar ett mejl till den registrerade adressen."
+    },
+    {
+      "speaker": "customer",
+      "text": "Det är maria.lopez@gmail.com."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Swedish Scripts.docx",
+    "conversation_index": 3,
+    "total_turns": 10
+  }
+}

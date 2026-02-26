@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Address Update",
+  "language": "MR",
+  "file_language": "mr_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "नमस्कार, आज आधी दिलेल्या ऑर्डरसाठी मला शिपिंग पत्ता बदलायचा आहे."
+    },
+    {
+      "speaker": "agent",
+      "text": "नक्कीच. ऑर्डर आधीच पाठवली आहे का?"
+    },
+    {
+      "speaker": "customer",
+      "text": "नाही, अजून नाही."
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक आहे. नवीन पत्ता सांगा."
+    },
+    {
+      "speaker": "customer",
+      "text": "245 Market Street, San Jose, California."
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद. पत्ता अपडेट करण्यात आला आहे."
+    },
+    {
+      "speaker": "customer",
+      "text": "यामुळे डिलिव्हरी उशीर होईल का?"
+    },
+    {
+      "speaker": "agent",
+      "text": "नाही, डिलिव्हरी तारीख तशीच राहील."
+    },
+    {
+      "speaker": "customer",
+      "text": "परफेक्ट, धन्यवाद."
+    },
+    {
+      "speaker": "agent",
+      "text": "स्वागत आहे."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Marathi Scripts.docx",
+    "conversation_index": 7,
+    "total_turns": 10
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel Billing Issue",
+  "language": "EN",
+  "file_language": "sr_RS",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Zdravo, imam pitanje u vezi sa naplatom sa mog nedavnog hotelskog boravka."
+    },
+    {
+      "speaker": "agent",
+      "text": "Rado ću pomoći. Mogu li dobiti broj rezervacije?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Da, RES-90231."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hvala. Vidim naplatu od 180 дин. od 10. aprila."
+    },
+    {
+      "speaker": "customer",
+      "text": "To izgleda više nego što sam očekivala."
+    },
+    {
+      "speaker": "agent",
+      "text": "Naplata uključuje jednu noć plus minibar."
+    },
+    {
+      "speaker": "customer",
+      "text": "Nisam koristila minibar."
+    },
+    {
+      "speaker": "agent",
+      "text": "Razumem. Ukloniću tu stavku i izdati delimičan povraćaj."
+    },
+    {
+      "speaker": "customer",
+      "text": "Koliko će biti refundirano?"
+    },
+    {
+      "speaker": "agent",
+      "text": "30 дин. biće vraćeno na vašu karticu."
+    },
+    {
+      "speaker": "customer",
+      "text": "U redu, hvala."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Serbian sr-RS Scripts.docx",
+    "conversation_index": 10,
+    "total_turns": 11
+  }
+}

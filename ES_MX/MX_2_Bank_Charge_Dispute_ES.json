@@ -1,0 +1,56 @@
+{
+  "scenario": "Bank Charge Dispute – ES",
+  "language": "MX",
+  "file_language": "ES_MX",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hola, llamo por un cargo en mi cuenta que no reconozco."
+    },
+    {
+      "speaker": "agent",
+      "text": "Puedo ayudarle con eso. ¿Puede indicarme la fecha y el monto del cargo?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Es del 12 de marzo por 45.99 pesos."
+    },
+    {
+      "speaker": "agent",
+      "text": "Gracias. Veo la transacción aquí."
+    },
+    {
+      "speaker": "customer",
+      "text": "No recuerdo haber realizado esa compra."
+    },
+    {
+      "speaker": "agent",
+      "text": "Entendido. Puedo abrir una aclaración para usted."
+    },
+    {
+      "speaker": "customer",
+      "text": "Sí, por favor."
+    },
+    {
+      "speaker": "agent",
+      "text": "La aclaración ha sido enviada. Investigaremos y lo mantendremos informado por correo electrónico."
+    },
+    {
+      "speaker": "customer",
+      "text": "¿Cuánto tiempo tarda la investigación?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Generalmente tarda hasta 10 días hábiles."
+    },
+    {
+      "speaker": "customer",
+      "text": "Muy bien, gracias por su ayuda."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco es_MX Scripts.docx",
+    "conversation_index": 2,
+    "total_turns": 11
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "scenario": "Purchase Order Status",
+  "language": "EN",
+  "file_language": "sl_SI",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Pozdravljeni, kličem, da preverim stanje naročila za novo pralni stroj, ki smo ga oddali prejšnji teden."
+    },
+    {
+      "speaker": "agent",
+      "text": "Seveda, lahko pomagam. Imate številko naročila?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Da, 78421."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hvala. Naj preverim."
+    },
+    {
+      "speaker": "agent",
+      "text": "Vidim, da je bilo naročilo odobreno in odposlano včeraj popoldne."
+    },
+    {
+      "speaker": "customer",
+      "text": "Super. Veste, kdaj bo prispelo?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Predviden datum dostave je ta petek, 10. december."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ali bomo prejeli potrdilo o pošiljanju?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Da, danes boste prejeli e-pošto s podatki o sledenju. Preden zaključiva, lahko potrdite način plačila?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Seveda, plačal sem s kartico Visa. Številka je 4111 2222 3344 6677."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hvala. Zaradi varnosti številke ne bom ponovil, lahko pa potrdim, da je bila plačana uspešno."
+    },
+    {
+      "speaker": "customer",
+      "text": "V redu."
+    },
+    {
+      "speaker": "agent",
+      "text": "Potrdilo bo poslano na alex@gmail.com. Lahko še s čim pomagam?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ne, to je vse. Hvala."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Slovenian sl-SI Scripts.docx",
+    "conversation_index": 6,
+    "total_turns": 14
+  }
+}

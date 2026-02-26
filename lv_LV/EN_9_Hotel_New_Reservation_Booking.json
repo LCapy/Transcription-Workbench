@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel New Reservation Booking",
+  "language": "EN",
+  "file_language": "lv_LV",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Labdien, es vēlētos veikt viesnīcas rezervāciju nākamajam mēnesim."
+    },
+    {
+      "speaker": "agent",
+      "text": "Protams, es varu palīdzēt. Vai varu saņemt jūsu pilno vārdu?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Jā, tas ir Emma Johnson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Paldies, Emma. Kādos datumos vēlaties uzturēties?"
+    },
+    {
+      "speaker": "customer",
+      "text": "No 12. maija līdz 15. maijam, izrakstīšanās 15. datumā."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tas būs trīs naktis. Man ir pieejams standarta numurs par 140 € par nakti."
+    },
+    {
+      "speaker": "customer",
+      "text": "Vai cenā ir iekļauti nodokļi un maksas?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Nodokļi nav iekļauti. Ar nodokļiem kopējā summa ir 462 €."
+    },
+    {
+      "speaker": "customer",
+      "text": "Labi. Vai man jāmaksā tagad?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Mums nepieciešama kredītkarte, lai rezervāciju paturētu, bet maksājums tiek veikts reģistrējoties."
+    },
+    {
+      "speaker": "customer",
+      "text": "Labi. Es varu sniegt kartes datus tagad. Tā ir Mastercard, numurs 9999 8888 3333 1111."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Latvian lv-LV Scripts.docx",
+    "conversation_index": 9,
+    "total_turns": 11
+  }
+}

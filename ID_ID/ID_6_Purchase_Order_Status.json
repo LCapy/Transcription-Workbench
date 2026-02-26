@@ -1,0 +1,68 @@
+{
+  "scenario": "Purchase Order Status",
+  "language": "ID",
+  "file_language": "ID_ID",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Halo, saya ingin mengecek status pesanan pembelian mesin cuci yang kami lakukan minggu lalu."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tentu. Apakah Anda memiliki nomor pesanan?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ya, 78421."
+    },
+    {
+      "speaker": "agent",
+      "text": "Terima kasih. Saya cek sekarang."
+    },
+    {
+      "speaker": "agent",
+      "text": "Pesanan telah disetujui dan dikirim kemarin sore."
+    },
+    {
+      "speaker": "customer",
+      "text": "Senang mendengarnya. Kapan akan tiba?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Perkiraan tanggal pengiriman adalah Jumat, 10 Desember."
+    },
+    {
+      "speaker": "customer",
+      "text": "Apakah kami akan menerima konfirmasi pengiriman?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ya, Anda akan menerima email dengan detail pelacakan hari ini. Sebelum selesai, boleh saya konfirmasi metode pembayaran?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Saya membayar dengan kartu Visa. Nomornya 4111 2222 3344 6677."
+    },
+    {
+      "speaker": "agent",
+      "text": "Terima kasih. Demi keamanan, saya tidak akan mengulangi nomor tersebut, namun pembayaran telah berhasil diproses."
+    },
+    {
+      "speaker": "customer",
+      "text": "Baik."
+    },
+    {
+      "speaker": "agent",
+      "text": "Email konfirmasi akan dikirim ke alex@gmail.com. Apakah ada lagi yang bisa saya bantu?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Tidak, terima kasih."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Bahasa id_ID Scripts.docx",
+    "conversation_index": 6,
+    "total_turns": 14
+  }
+}

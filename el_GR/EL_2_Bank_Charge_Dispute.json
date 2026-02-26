@@ -1,0 +1,56 @@
+{
+  "scenario": "Bank Charge Dispute",
+  "language": "EL",
+  "file_language": "el_GR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Γεια σας, καλώ για μια χρέωση στον λογαριασμό μου που δεν αναγνωρίζω."
+    },
+    {
+      "speaker": "agent",
+      "text": "Μπορώ να βοηθήσω. Μπορείτε να μου πείτε την ημερομηνία και το ποσό της χρέωσης;"
+    },
+    {
+      "speaker": "customer",
+      "text": "Είναι από τις 12 Μαρτίου για €45.99."
+    },
+    {
+      "speaker": "agent",
+      "text": "Ευχαριστώ. Βλέπω τη συναλλαγή εδώ."
+    },
+    {
+      "speaker": "customer",
+      "text": "Δεν θυμάμαι να έκανα αυτή την αγορά."
+    },
+    {
+      "speaker": "agent",
+      "text": "Κατανοητό. Μπορώ να ανοίξω διαφωνία χρέωσης για εσάς."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ναι, παρακαλώ."
+    },
+    {
+      "speaker": "agent",
+      "text": "Η διαφωνία έχει καταχωρηθεί. Θα διερευνήσουμε και θα σας ενημερώσουμε με email."
+    },
+    {
+      "speaker": "customer",
+      "text": "Πόσο διαρκεί η έρευνα;"
+    },
+    {
+      "speaker": "agent",
+      "text": "Συνήθως έως 10 εργάσιμες ημέρες."
+    },
+    {
+      "speaker": "customer",
+      "text": "Εντάξει, ευχαριστώ για τη βοήθεια."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Greek Scripts.docx",
+    "conversation_index": 2,
+    "total_turns": 11
+  }
+}
