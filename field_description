@@ -1,0 +1,469 @@
+{
+  "categories": {
+    "liveCall": {
+      "liveFollowability": {
+        "name": "Live Followability",
+        "description": "Can an agent track intent and actions in real time?",
+        "options": {
+          "Pass": "Transcript keeps pace throughout; agent and customer intent always clear; no loss of context.",
+          "Needs Review": "Occasional lag or brief gaps; agent can recover context without restarting.",
+          "Fail": "Frequent lag or missing content; agent cannot reliably follow the call in real time."
+        },
+        "role": "Agent",
+        "guidance": "Can an agent track intent and actions in real time?"
+      },
+      "perceivedLatency": {
+        "name": "Perceived Latency",
+        "description": "Approx delay from speech to text visible.",
+        "options": {
+          "1-2s": "Text appears almost immediately after speech; suitable for uninterrupted real-time use.",
+          "2-3s": "Slight but noticeable delay; agent can still follow without disruption.",
+          "4-5s": "Clear delay; agent may need to pause or reread.",
+          ">5s": "Significant delay; transcript not usable for real-time support.",
+          "Unsure": "Latency cannot be confidently assessed due to playback or recording limitations."
+        },
+        "role": "Agent",
+        "guidance": "Approx delay from speech to text visible."
+      },
+      "overlapNoiseRobustness": {
+        "name": "Overlap & Noise Robustness",
+        "description": "How well the system handles crosstalk, background noise, and low volume.",
+        "options": {
+          "Good": "Handles noise and overlap well; content remains clear.",
+          "Some Issues": "Occasional loss or confusion; still understandable.",
+          "Poor": "Noise significantly degrades transcript usability."
+        },
+        "role": "Agent",
+        "guidance": "Crosstalk, background, low volume."
+      }
+    },
+    "suggestedResponse": {
+      "suggestedResponseShown": {
+        "name": "Suggested Response Shown",
+        "description": "Whether a Suggested Response appeared on the agent's screen.",
+        "options": {
+          "Yes": "Choose Yes only if a Suggested Response visibly appeared on the agent's screen during the call.",
+          "No": "Choose No if no Suggested Response was displayed at any point during the call."
+        },
+        "role": "Agent",
+        "guidance": "Select only if SR appeared"
+      },
+      "triggerContextFit": {
+        "name": "Trigger & Context Fit",
+        "description": "Was timing natural and helpful?",
+        "options": {
+          "Yes": "Select Yes if the SR appeared at the right moment and clearly matched the flow of the conversation.",
+          "Somewhat": "Select this if the SR appeared slightly early or late but was still relevant and usable.",
+          "No": "Select No if the SR appeared at an awkward moment, interrupted the conversation, or felt irrelevant."
+        },
+        "role": "Agent",
+        "guidance": "Was timing natural and helpful?"
+      },
+      "primaryIssueType": {
+        "name": "Primary Issue Type",
+        "description": "Select main reason SR fails",
+        "options": {
+          "Wrong Timing": "Choose this if the SR appeared at the wrong moment in the conversation.",
+          "Intent Misread": "Choose this if the SR misunderstood what the customer wanted.",
+          "Too Generic": "Choose this if the SR is too vague or generic to be useful.",
+          "Wrong Knowledge": "Choose this if the SR contains incorrect or misleading information.",
+          "Hallucination": "Choose this if the SR includes invented or false information.",
+          "Awkward Language": "Choose this if poor wording makes the SR hard to use.",
+          "Wrong Tone": "Choose this if tone is the main reason the SR is not suitable.",
+          "Action Too Aggressive": "Choose this if the SR pushes the customer too strongly.",
+          "Action Too Vague": "Choose this if the SR lacks a clear action or next step.",
+          "Other": "Choose this if none of the listed reasons apply."
+        },
+        "role": "Customer",
+        "guidance": "Select main reason SR fails"
+      },
+      "observedCustomerIntent": {
+        "name": "Observed Customer Intent",
+        "description": "Identify intent up to the moment the SR appears",
+        "options": {
+          "Billing & Payment": "Select this if, before the SR appeared, the customer was clearly asking about charges, bills, invoices, payment methods, or payment-related issues.",
+          "Refund": "Select this if the customer was requesting a refund, reversal, or return of money.",
+          "Order Status": "Select this if the customer was asking about delivery, tracking, or order progress.",
+          "Technical Issue": "Select this if the customer described errors, system failures, app issues, or something not working.",
+          "Appointment": "Select this if the customer wanted to book, reschedule, confirm, or cancel an appointment.",
+          "Address Change": "Select this if the customer asked to update, correct, or confirm an address.",
+          "Dispute": "Select this if the customer was raising a complaint, disagreement, or challenging a charge or decision.",
+          "Cancellation": "Select this if the customer wanted to cancel a service, subscription, or order.",
+          "General Question": "Select this if the customer was asking for general information without requesting a specific action.",
+          "Other": "Use only if the customer's intent does not fit any of the listed categories."
+        },
+        "role": "Customer",
+        "guidance": "Identify intent up to the moment the SR appears"
+      },
+      "intentAlignment": {
+        "name": "Intent Alignment",
+        "description": "Does SR match intent?",
+        "options": {
+          "Correct": "Select Correct if the SR fully addresses what the customer was trying to achieve.",
+          "Partially Correct": "Select this if the SR addresses the general intent but misses details or includes minor inaccuracies.",
+          "Incorrect": "Select Incorrect if the SR responds to a different issue than what the customer was asking."
+        },
+        "role": "Customer",
+        "guidance": "Does SR match intent?"
+      },
+      "fluencyNaturalness": {
+        "name": "Fluency & Naturalness",
+        "description": "How natural and human-like the suggested response sounds",
+        "options": {
+          "Natural": "Select Natural if the SR sounds fluent, human-like, and native for the language and region.",
+          "Acceptable": "Select this if the SR is understandable but has minor phrasing or grammar issues.",
+          "Unnatural": "Select Unnatural if the SR sounds robotic, awkward, or clearly machine-generated."
+        },
+        "role": "Customer",
+        "guidance": "Sounds human and native"
+      },
+      "tonePoliteness": {
+        "name": "Tone & Politeness",
+        "description": "Appropriateness of the tone and politeness level",
+        "options": {
+          "Appropriate": "Select Appropriate if the tone is polite, professional, and suitable for customer service.",
+          "Slightly Off": "Select this if the tone is slightly too casual, formal, or impersonal, but not offensive.",
+          "Inappropriate": "Select Inappropriate if the tone is rude, aggressive, dismissive, or culturally unsuitable."
+        },
+        "role": "Customer",
+        "guidance": "Suitable for customer service"
+      },
+      "knowledgeGrounding": {
+        "name": "Knowledge Grounding",
+        "description": "Whether the suggested response is based on accurate knowledge",
+        "options": {
+          "Grounded": "Select Grounded if all information is supported by the conversation or known knowledge.",
+          "Unclear": "Select this if the information cannot be clearly confirmed from the call or known sources.",
+          "Hallucinated": "Select Hallucinated if the SR introduces facts that were not mentioned or appear incorrect."
+        },
+        "role": "Customer",
+        "guidance": "Supported by call or KB"
+      },
+      "agentUsability": {
+        "name": "Agent Usability (SR)",
+        "description": "Whether the suggested response could be used by the agent",
+        "options": {
+          "Yes": "Select Yes if a real agent would confidently use the SR without changes.",
+          "With Edits": "Select this if the SR is usable but would need small wording or clarity edits.",
+          "No": "Select No if the agent would likely ignore or not use the SR."
+        },
+        "role": "Customer",
+        "guidance": "Agent can use as-is"
+      },
+      "completeness": {
+        "name": "Completeness (SR)",
+        "description": "Whether the suggested response addresses all aspects",
+        "options": {
+          "Yes": "Select Yes if the SR provides enough information for the agent to respond properly.",
+          "Somewhat": "Select this if the SR helps but lacks some details or next steps.",
+          "No": "Select No if the SR does not help the agent move the conversation forward."
+        },
+        "role": "Customer",
+        "guidance": "Fully sufficient"
+      },
+      "overallSRVerdict": {
+        "name": "Overall SR Verdict",
+        "description": "Overall assessment of the suggested response quality",
+        "options": {
+          "Pass": "Select Pass if the SR is acceptable overall.",
+          "Needs Review": "Select this if the SR is borderline and needs further review.",
+          "Fail": "Select Fail if the SR is not usable and should be rejected."
+        },
+        "role": "Customer",
+        "guidance": "Final decision"
+      }
+    },
+    "postCall": {
+      "summaryShown": {
+        "name": "Summary Shown",
+        "description": "Whether a post-call summary was generated and visible",
+        "options": {
+          "Yes": "Select Yes only if an AI-generated summary appeared after the call ended and was available to view.",
+          "No": "Select No if no post-call summary was generated or visible at all."
+        },
+        "role": "Agent",
+        "guidance": "Select Yes only if a post-call summary was generated and visible"
+      }
+    },
+    "evaluation": {
+      "speakerAttribution": {
+        "name": "Speaker Attribution",
+        "description": "Are agent/customer labels correct?",
+        "options": {
+          "Correct": "Agent and customer speakers consistently labeled correctly.",
+          "Occasional Errors": "Few mislabels; context still makes speaker clear.",
+          "Frequent Errors": "Repeated mislabeling causing confusion or misinterpretation."
+        },
+        "role": "Customer",
+        "guidance": "Are agent/customer labels correct?"
+      },
+      "omissionOfCriticalInfo": {
+        "name": "Omission of Critical Info",
+        "description": "Numbers, names, dates, intent missing?",
+        "options": {
+          "None": "All critical information present, including names, dates, numbers, and intent.",
+          "Minor": "Small omissions that do not affect understanding or outcome.",
+          "Major": "Missing key information preventing correct handling or decision-making."
+        },
+        "role": "Customer",
+        "guidance": "Numbers, names, dates, intent missing?"
+      },
+      "numericsAccuracy": {
+        "name": "Numerics Accuracy",
+        "description": "Accuracy of amounts, order IDs, dates, times.",
+        "options": {
+          "N/A": "No numerical information appears in the call.",
+          "Correct": "All numerics accurately transcribed.",
+          "Some Errors": "Few numeric mistakes; core intent remains clear.",
+          "Major Errors": "Incorrect or missing numerics that could lead to wrong actions."
+        },
+        "role": "Customer",
+        "guidance": "Amounts, order IDs, dates, times."
+      },
+      "namedEntitiesAccuracy": {
+        "name": "Named Entities Accuracy",
+        "description": "Accuracy of people, companies, addresses, products.",
+        "options": {
+          "N/A": "No named entities are mentioned.",
+          "Correct": "All named entities accurately captured.",
+          "Some Errors": "Minor spelling or partial errors; entity still recognizable.",
+          "Major Errors": "Wrong or missing entities causing misunderstanding."
+        },
+        "role": "Customer",
+        "guidance": "People, companies, addresses, products."
+      },
+      "disfluencyHandling": {
+        "name": "Disfluency Handling",
+        "description": "How well the system handles um/uh, false starts—too much or too little?",
+        "options": {
+          "Proper": "Natural handling of fillers; readable and realistic.",
+          "Over-verbose": "Excessive fillers captured, reducing readability.",
+          "Under-captured": "Important disfluencies missing, altering meaning or flow."
+        },
+        "role": "Customer",
+        "guidance": "Um/uh, false starts—too much or too little?"
+      },
+      "pciMasking": {
+        "name": "PCI Masking",
+        "description": "Credit card data must be masked. You should not see the numbers of the credit card in the RTT, neither as numbers nor as letters.",
+        "options": {
+          "Pass": "All PCI data fully masked.",
+          "Need Review": "Masking unclear or partially applied; requires verification.",
+          "Fail": "Any unmasked credit card information present."
+        },
+        "role": "Customer",
+        "guidance": "Credit card data must be masked. You should not see the numbers of the credit card in the RTT, neither as numbers nor as letters."
+      },
+      "agentImpact": {
+        "name": "Agent Impact",
+        "description": "Did issues force rereads or cause misunderstanding?",
+        "options": {
+          "None": "Transcript usable without additional effort.",
+          "Minor": "Occasional rereads required; no incorrect action caused.",
+          "Major": "Errors cause misunderstanding or incorrect agent action."
+        },
+        "role": "Customer",
+        "guidance": "Did issues force rereads or cause misunderstanding?"
+      },
+      "linguistNotes": {
+        "name": "Linguist's Notes",
+        "description": "Free-text notes from the linguist about observations, issues, or context.",
+        "options": {},
+        "role": "Customer",
+        "guidance": "Add only if there is a clear better phrasing or key insight. Keep it short. Use only to justify lower ratings or note a critical insight. Avoid rewriting content. Only one short sentence if needed."
+      },
+      "redFlagOffensivePhrasing": {
+        "name": "Red Flag - Offensive Phrasing",
+        "description": "Check RTT for offensive language",
+        "options": {
+          "Yes": "You see offensive phrasing in the RTT",
+          "No": "You don't see offensive phrasing in the RTT"
+        },
+        "role": "Customer",
+        "guidance": "Check RTT in detail"
+      },
+      "redFlagWrongPoliteness": {
+        "name": "Red Flag - Wrong Politeness Form",
+        "description": "Check RTT for incorrect politeness forms",
+        "options": {
+          "Yes": "You see wrong politeness forms in the RTT",
+          "No": "You don't see wrong politeness forms in the RTT"
+        },
+        "role": "Customer",
+        "guidance": "Check RTT in detail"
+      },
+      "overallVerdict": {
+        "name": "Overall Verdict",
+        "description": "Overall assessment of the transcript quality",
+        "options": {
+          "Pass": "Usable for real-time agent support.",
+          "Needs Review": "Issues present but fixable.",
+          "Fail": "Critical failures or multiple major issues. If you have a FAIL in PCI Masking or a YES in Red Flag-Offensive Phrasing."
+        },
+        "role": "Customer",
+        "guidance": "Think of the overall feedback."
+      }
+    },
+    "summaryDetailed": {
+      "initialContactReasonAccuracy": {
+        "name": "Initial Contact Reason Accuracy",
+        "description": "Does the summary correctly capture why the customer contacted support?",
+        "options": {
+          "Accurate": "Select Accurate if the summary clearly and correctly states the main reason for the customer's call.",
+          "Partially Accurate": "Select this if the main reason is mostly correct but lacks some important details.",
+          "Incorrect": "Select Incorrect if the summary states an incorrect reason for the call.",
+          "Missing": "Select Missing if the reason for contact is not mentioned at all."
+        },
+        "role": "Customer",
+        "guidance": "Does the summary correctly capture why the customer contacted support?"
+      },
+      "additionalContextAccuracy": {
+        "name": "Additional Context Accuracy",
+        "description": "Relevant background captured?",
+        "options": {
+          "Accurate": "Select Accurate if the summary includes relevant background or clarifying details from the call.",
+          "Partially Accurate": "Select this if some background is included but key context is missing.",
+          "Incorrect": "Select Incorrect if the background or context is described incorrectly.",
+          "Missing": "Select Missing if no additional context is included."
+        },
+        "role": "Customer",
+        "guidance": "Relevant background captured"
+      },
+      "stepsTakenByAgentAccuracy": {
+        "name": "Steps Taken by Agent Accuracy",
+        "description": "Agent actions described correctly?",
+        "options": {
+          "Accurate": "Select Accurate if the actions taken by the agent are described correctly.",
+          "Partially Accurate": "Select this if agent actions are mostly correct but incomplete.",
+          "Incorrect": "Select Incorrect if the agent's actions are misrepresented.",
+          "Missing": "Select Missing if no agent actions are mentioned."
+        },
+        "role": "Customer",
+        "guidance": "Agent actions correct"
+      },
+      "coverageCompleteness": {
+        "name": "Coverage Completeness",
+        "description": "All key parts of the call covered?",
+        "options": {
+          "Complete": "Select Complete if the summary covers the issue, actions, and outcome clearly.",
+          "Mostly Complete": "Select this if one or two minor elements are missing.",
+          "Incomplete": "Select Incomplete if important parts of the call are missing."
+        },
+        "role": "Customer",
+        "guidance": "All key parts covered"
+      },
+      "perceivedConciseness": {
+        "name": "Summary's Perceived Conciseness",
+        "description": "Is the summary the right length?",
+        "options": {
+          "Too Brief": "Select Too Brief if the summary is too short and misses key details.",
+          "Concise": "Select Concise if the summary is clear and appropriately detailed.",
+          "Too Long": "Select Too Long if the summary contains unnecessary or repetitive information."
+        },
+        "role": "Customer",
+        "guidance": "Lacks information, right length, or over-detailed?"
+      },
+      "factualAccuracyOverall": {
+        "name": "Factual Accuracy Overall",
+        "description": "Overall factual accuracy of the summary",
+        "options": {
+          "Accurate": "Select Accurate if all facts in the summary are correct.",
+          "Minor Issues": "Select Minor Issues if there are small factual errors that do not change meaning.",
+          "Major Issues": "Select Major Issues if factual errors significantly misrepresent the call."
+        },
+        "role": "Customer",
+        "guidance": "No factual errors"
+      },
+      "hallucinationSeverity": {
+        "name": "Hallucination Severity",
+        "description": "Presence of invented or fabricated content",
+        "options": {
+          "None": "Select None if all content is supported by the call.",
+          "Minor": "Select Minor if minor invented details appear but do not affect outcome.",
+          "Critical": "Select Critical if the summary invents actions, outcomes, or unsafe information."
+        },
+        "role": "Customer",
+        "guidance": "No invented content"
+      },
+      "fluencyReadability": {
+        "name": "Fluency & Readability",
+        "description": "How well-written and easy to read the summary is",
+        "options": {
+          "Clear": "Select Clear if the summary is easy to read and understand quickly.",
+          "Acceptable": "Select Acceptable if wording is understandable but slightly awkward.",
+          "Unclear": "Select Unclear if the summary is confusing or poorly written."
+        },
+        "role": "Customer",
+        "guidance": "Easy to read"
+      },
+      "toneProfessionalism": {
+        "name": "Tone & Professionalism",
+        "description": "Appropriateness of the summary's tone",
+        "options": {
+          "Appropriate": "Select Appropriate if tone fits professional support documentation.",
+          "Slightly Off": "Select this if tone is slightly informal or awkward.",
+          "Inappropriate": "Select Inappropriate if tone is not suitable."
+        },
+        "role": "Customer",
+        "guidance": "Professional tone"
+      },
+      "agentUsable": {
+        "name": "Agent Usable (Summary)",
+        "description": "Whether another agent could rely on the summary without replaying the call",
+        "options": {
+          "Yes": "Select Yes if another agent could rely on the summary without replaying the call.",
+          "With Edits": "Select this if the summary is usable but needs minor edits.",
+          "No": "Select No if replaying the call would be required."
+        },
+        "role": "Customer",
+        "guidance": "Agent can rely on summary"
+      },
+      "primaryIssueTypeSummary": {
+        "name": "Primary Issue Type (Summary)",
+        "description": "Main issue with the summary",
+        "options": {
+          "Missing Information": "Select this if missing details are the main problem.",
+          "Incorrect Reason": "Select this if the contact reason is wrong.",
+          "Incorrect Actions": "Select this if agent actions are misrepresented.",
+          "Incorrect Outcome": "Select this if the final outcome is wrong.",
+          "Hallucination": "Select this if hallucination is the main issue.",
+          "Over-generalization": "Select this if summary lacks specificity.",
+          "Awkward Language": "Select this if wording is the main issue.",
+          "Wrong Tone": "Select this if tone is the main issue.",
+          "Other": "Select this if none of the above apply."
+        },
+        "role": "Customer",
+        "guidance": "Main issue with the summary"
+      },
+      "linguistWrittenSummary": {
+        "name": "Linguist's Written Summary",
+        "description": "Human-written summary for comparison with AI-generated version",
+        "options": {},
+        "role": "Customer",
+        "guidance": "Write a concise human summary of the call. It should answer: • Does this reflect what really happened on the call? • Could I rely on this summary without replaying the call? • Would this be safe to store and share internally?"
+      },
+      "overallSummaryVerdict": {
+        "name": "Overall Summary Verdict",
+        "description": "Overall assessment of the summary quality",
+        "options": {
+          "Pass": "Select Pass if the summary is acceptable overall.",
+          "Needs Review": "Select Needs Review if further review is required.",
+          "Fail": "Select Fail if the summary is unusable. You must have a PRIMARY ISSUE TYPE in this case."
+        },
+        "role": "Customer",
+        "guidance": "Final decision"
+      }
+    }
+  },
+  "general": {
+    "languageSelection": "Select the language folder to browse available call scripts. Each language folder contains JSON files with call transcripts and summaries.",
+    "scriptSelection": "Choose a specific call script to load and evaluate. The script contains the conversation and will populate the transcript fields.",
+    "roleToggle": "Switch between Agent view (focused on live experience metrics) and Customer view (focused on transcript/summary quality metrics).",
+    "saveAll": "Save all current evaluation data to browser storage.",
+    "exportAll": "Export all evaluation data as a JSON file for sharing or backup.",
+    "autoSave": "Auto-save runs every 30 seconds to prevent data loss."
+  },
+  "description": "Complete evaluation criteria for AI Call Quality Assessment. This JSON contains detailed descriptions, options, and guidance for all fields in the evaluation tool.",
+  "version": "1.0",
+  "lastUpdated": "2024"
+}
