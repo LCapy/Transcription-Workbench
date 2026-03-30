@@ -1,0 +1,56 @@
+{
+  "scenario": "Bank Charge Dispute",
+  "language": "DE",
+  "file_language": "DE",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hallo, ich rufe wegen einer Abbuchung auf meinem Konto an, die ich nicht erkenne."
+    },
+    {
+      "speaker": "agent",
+      "text": "Dabei kann ich Ihnen helfen. Können Sie mir das Datum und den Betrag der Abbuchung nennen?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Sie ist vom 12. März über 45,99 €."
+    },
+    {
+      "speaker": "agent",
+      "text": "Vielen Dank. Ich sehe die Transaktion hier."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ich kann mich nicht daran erinnern, diesen Kauf getätigt zu haben."
+    },
+    {
+      "speaker": "agent",
+      "text": "Verstanden. Ich kann eine Reklamation für Sie eröffnen."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, bitte tun Sie das."
+    },
+    {
+      "speaker": "agent",
+      "text": "Die Reklamation wurde eingereicht. Wir werden den Fall untersuchen und Sie per E-Mail auf dem Laufenden halten."
+    },
+    {
+      "speaker": "customer",
+      "text": "Wie lange dauert die Untersuchung?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Sie dauert in der Regel bis zu 10 Werktage."
+    },
+    {
+      "speaker": "customer",
+      "text": "Alles klar, danke für Ihre Hilfe."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco DE Scripts.docx",
+    "conversation_index": 2,
+    "total_turns": 11
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "scenario": "Hotel Reservation Change",
+  "language": "ID",
+  "file_language": "ID_ID",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Halo, saya ingin mengubah tanggal reservasi hotel saya."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tentu. Boleh saya minta nomor reservasinya?"
+    },
+    {
+      "speaker": "customer",
+      "text": "HA-56219."
+    },
+    {
+      "speaker": "agent",
+      "text": "Terima kasih. Saya cek ketersediaannya."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tanggal baru apa yang Anda inginkan?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Saya ingin mengubah dari 10–12 April menjadi 12–14 April."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tanggal tersebut tersedia."
+    },
+    {
+      "speaker": "customer",
+      "text": "Bagus."
+    },
+    {
+      "speaker": "agent",
+      "text": "Reservasi telah diperbarui dan email konfirmasi sudah dikirim."
+    },
+    {
+      "speaker": "customer",
+      "text": "Apakah harganya tetap sama?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ya, tidak ada perubahan harga."
+    },
+    {
+      "speaker": "customer",
+      "text": "Terima kasih banyak."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Bahasa id_ID Scripts.docx",
+    "conversation_index": 8,
+    "total_turns": 12
+  }
+}

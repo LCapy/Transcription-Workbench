@@ -1,0 +1,60 @@
+{
+  "scenario": "Billing Overcharge",
+  "language": "DE",
+  "file_language": "DE",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hallo, ich rufe an, weil ich glaube, dass mir mein monatliches Abonnement doppelt berechnet wurde."
+    },
+    {
+      "speaker": "agent",
+      "text": "Es tut mir leid, das zu hören. Ich kann Ihnen dabei helfen, das zu überprüfen. Darf ich die mit dem Konto verknüpfte E-Mail-Adresse haben?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, es ist alex.morgan@gmail.com."
+    },
+    {
+      "speaker": "agent",
+      "text": "Vielen Dank. Ich rufe Ihr Konto auf. Das dauert nur einen Moment."
+    },
+    {
+      "speaker": "agent",
+      "text": "Ich sehe zwei Abbuchungen über 54,50 €, die gestern verbucht wurden. Eine davon scheint eine Doppelabbuchung zu sein."
+    },
+    {
+      "speaker": "customer",
+      "text": "Okay, das habe ich mir gedacht."
+    },
+    {
+      "speaker": "agent",
+      "text": "Ich werde eine Rückerstattung für die zusätzliche Abbuchung veranlassen. Sie müssen keine weiteren Schritte unternehmen."
+    },
+    {
+      "speaker": "customer",
+      "text": "Wie lange dauert die Rückerstattung normalerweise?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Rückerstattungen erscheinen in der Regel innerhalb von fünf bis sieben Werktagen."
+    },
+    {
+      "speaker": "customer",
+      "text": "Alles klar, danke fürs Nachprüfen."
+    },
+    {
+      "speaker": "agent",
+      "text": "Natürlich. Gibt es heute noch etwas, wobei ich Ihnen helfen kann?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Nein, das war alles."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco DE Scripts.docx",
+    "conversation_index": 1,
+    "total_turns": 12
+  }
+}

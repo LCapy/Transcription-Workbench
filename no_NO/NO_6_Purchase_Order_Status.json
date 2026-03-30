@@ -1,0 +1,68 @@
+{
+  "scenario": "Purchase Order Status",
+  "language": "NO",
+  "file_language": "no_NO",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hei, jeg ringer for å sjekke statusen på en bestilling av en vaskemaskin vi la inn forrige uke."
+    },
+    {
+      "speaker": "agent",
+      "text": "Klart det. Har du bestillingsnummeret?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, det er 78421."
+    },
+    {
+      "speaker": "agent",
+      "text": "Takk, jeg sjekker det."
+    },
+    {
+      "speaker": "agent",
+      "text": "Jeg ser at bestillingen ble godkjent og sendt i går ettermiddag."
+    },
+    {
+      "speaker": "customer",
+      "text": "Det var godt å høre. Når kommer den?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Forventet leveringsdato er fredag 10. desember."
+    },
+    {
+      "speaker": "customer",
+      "text": "Får vi en forsendelsesbekreftelse?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ja, du vil få en e-post med sporingsinformasjon senere i dag. Før vi avslutter — kan du bekrefte betalingsmetoden?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, jeg betalte med Visa. Nummeret er 4111 2222 3344 6677."
+    },
+    {
+      "speaker": "agent",
+      "text": "Takk. Av sikkerhetsgrunner gjentar jeg ikke nummeret, men betalingen gikk gjennom."
+    },
+    {
+      "speaker": "customer",
+      "text": "Greit."
+    },
+    {
+      "speaker": "agent",
+      "text": "Bekreftelsen blir sendt til alex@gmail.com. Kan jeg hjelpe med noe mer?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Nei, takk."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Norwegian Scripts.docx",
+    "conversation_index": 6,
+    "total_turns": 14
+  }
+}

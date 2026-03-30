@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Address Update",
+  "language": "HI",
+  "file_language": "hi_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "नमस्ते, मुझे आज की गई ऑर्डर की शिपिंग एड्रेस बदलनी है।"
+    },
+    {
+      "speaker": "agent",
+      "text": "बिल्कुल। क्या ऑर्डर भेजा जा चुका है?"
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं, अभी नहीं भेजा गया है।"
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है। कृपया नया पता बताइए।"
+    },
+    {
+      "speaker": "customer",
+      "text": "245 Market Street, San Jose, California।"
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद। पता अपडेट कर दिया गया है।"
+    },
+    {
+      "speaker": "customer",
+      "text": "क्या इससे डिलीवरी में देरी होगी?"
+    },
+    {
+      "speaker": "agent",
+      "text": "नहीं, डिलीवरी तिथि वही रहेगी।"
+    },
+    {
+      "speaker": "customer",
+      "text": "बढ़िया, धन्यवाद।"
+    },
+    {
+      "speaker": "agent",
+      "text": "आपका स्वागत है।"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Hindi Scripts.docx",
+    "conversation_index": 7,
+    "total_turns": 10
+  }
+}

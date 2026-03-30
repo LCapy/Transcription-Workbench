@@ -1,0 +1,68 @@
+{
+  "scenario": "Purchase Order Status",
+  "language": "DA",
+  "file_language": "da_DK",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hej, jeg ringer for at tjekke status på en indkøbsordre for en ny vaskemaskine, som vi afgav i sidste uge."
+    },
+    {
+      "speaker": "agent",
+      "text": "Selvfølgelig, det kan jeg hjælpe med. Har du indkøbsordrenummeret?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, det er 78421."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tak. Jeg slår det op."
+    },
+    {
+      "speaker": "agent",
+      "text": "Jeg kan se, at ordren blev godkendt og afsendt i går eftermiddag."
+    },
+    {
+      "speaker": "customer",
+      "text": "Det er godt at høre. Ved du, hvornår den ankommer?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Den forventede leveringsdato er denne fredag, den 10. december."
+    },
+    {
+      "speaker": "customer",
+      "text": "Vil vi modtage en forsendelsesbekræftelse?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ja, du bør modtage en e-mail med sporingsoplysninger senere i dag. Før vi afslutter, kan du bekræfte betalingsmetoden for denne ordre?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, jeg betalte med et Visa-kort. Nummeret er 4111 2222 3344 6677."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tak. Af sikkerhedsmæssige årsager gentager jeg ikke kortnummeret, men jeg kan bekræfte, at betalingen er gennemført."
+    },
+    {
+      "speaker": "customer",
+      "text": "Okay, det er fint."
+    },
+    {
+      "speaker": "agent",
+      "text": "Bekræftelsesmailen bliver sendt til alex@gmail.com. Er der andet, jeg kan hjælpe med i dag?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Nej, det er alt. Tak."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Danish Scripts.docx",
+    "conversation_index": 6,
+    "total_turns": 14
+  }
+}

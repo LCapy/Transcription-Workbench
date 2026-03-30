@@ -1,0 +1,68 @@
+{
+  "scenario": "発注状況",
+  "language": "JP",
+  "file_language": "ja_JP",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "こんにちは。先週注文した洗濯機の発注状況を確認したくお電話しました。"
+    },
+    {
+      "speaker": "agent",
+      "text": "承知しました。発注番号をお持ちでしょうか？"
+    },
+    {
+      "speaker": "customer",
+      "text": "はい、78421 です。"
+    },
+    {
+      "speaker": "agent",
+      "text": "ありがとうございます。確認いたします。"
+    },
+    {
+      "speaker": "agent",
+      "text": "注文は承認され、昨日の午後に発送されました。"
+    },
+    {
+      "speaker": "customer",
+      "text": "よかったです。到着予定はいつですか？"
+    },
+    {
+      "speaker": "agent",
+      "text": "予定配達日は12月10日（金）です。"
+    },
+    {
+      "speaker": "customer",
+      "text": "発送確認メールは届きますか？"
+    },
+    {
+      "speaker": "agent",
+      "text": "はい、本日中に追跡情報を含むメールが届く予定です。念のため、支払い方法を確認させてください。"
+    },
+    {
+      "speaker": "customer",
+      "text": "Visaカードで支払いました。番号は 4111 2222 3344 6677 です。"
+    },
+    {
+      "speaker": "agent",
+      "text": "ありがとうございます。安全上、番号は繰り返しませんが、支払いは正常に処理されています。"
+    },
+    {
+      "speaker": "customer",
+      "text": "わかりました。"
+    },
+    {
+      "speaker": "agent",
+      "text": "確認メールは alex@gmail.com に送信されます。他にお手伝いできることはございますか？"
+    },
+    {
+      "speaker": "customer",
+      "text": "いいえ、ありがとうございます。"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Japanese Scripts.docx",
+    "conversation_index": 6,
+    "total_turns": 14
+  }
+}

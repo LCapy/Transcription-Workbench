@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Address Update",
+  "language": "TH",
+  "file_language": "th_TH",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "สวัสดีค่ะ ฉันต้องการเปลี่ยนที่อยู่จัดส่งสินค้าที่สั่งไปก่อนหน้านี้วันนี้ค่ะ"
+    },
+    {
+      "speaker": "agent",
+      "text": "ได้ค่ะ ออเดอร์ถูกส่งไปแล้วหรือยังคะ?"
+    },
+    {
+      "speaker": "customer",
+      "text": "ยังค่ะ ยังไม่ส่ง"
+    },
+    {
+      "speaker": "agent",
+      "text": "งั้นขอที่อยู่ใหม่ค่ะ"
+    },
+    {
+      "speaker": "customer",
+      "text": "245 Market Street, San Jose, California"
+    },
+    {
+      "speaker": "agent",
+      "text": "รับทราบค่ะ ฉันอัปเดตให้แล้ว"
+    },
+    {
+      "speaker": "customer",
+      "text": "แล้วจะทำให้จัดส่งช้าขึ้นไหมคะ?"
+    },
+    {
+      "speaker": "agent",
+      "text": "ไม่ค่ะ วันที่ส่งยังเหมือนเดิม"
+    },
+    {
+      "speaker": "customer",
+      "text": "เยี่ยมเลยค่ะ ขอบคุณมาก"
+    },
+    {
+      "speaker": "agent",
+      "text": "ด้วยความยินดีค่ะ"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Thai Scripts.docx",
+    "conversation_index": 7,
+    "total_turns": 10
+  }
+}

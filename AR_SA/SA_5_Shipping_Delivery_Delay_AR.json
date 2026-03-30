@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Delivery Delay – AR",
+  "language": "SA",
+  "file_language": "AR_SA",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "مرحباً، أتصل لأن شحنتي لم تصل بعد."
+    },
+    {
+      "speaker": "agent",
+      "text": "نأسف لإزعاجك. هل يمكنني الحصول على رقم التتبع؟"
+    },
+    {
+      "speaker": "customer",
+      "text": "نعم، TRK-55134."
+    },
+    {
+      "speaker": "agent",
+      "text": "شكراً، سأتحقق الآن."
+    },
+    {
+      "speaker": "agent",
+      "text": "تم تأخير الشحنة بسبب الأحوال الجوية، ومقرر توصيلها غداً."
+    },
+    {
+      "speaker": "customer",
+      "text": "كان من المفترض أن تصل يوم الاثنين."
+    },
+    {
+      "speaker": "agent",
+      "text": "أتفهم انزعاجك. تاريخ التوصيل الجديد هو 18 أبريل."
+    },
+    {
+      "speaker": "customer",
+      "text": "هل سأستلم تحديثات عبر البريد الإلكتروني؟"
+    },
+    {
+      "speaker": "agent",
+      "text": "نعم، سيتم إرسالها إلى john.john@gmail.com."
+    },
+    {
+      "speaker": "customer",
+      "text": "تمام، شكراً."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco ar_SA Scripts.docx",
+    "conversation_index": 5,
+    "total_turns": 10
+  }
+}

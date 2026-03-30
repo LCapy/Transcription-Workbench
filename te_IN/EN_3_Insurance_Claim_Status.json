@@ -1,0 +1,52 @@
+{
+  "scenario": "Insurance Claim Status",
+  "language": "EN",
+  "file_language": "te_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "హాయ్, నేను గత వారం సబ్మిట్ చేసిన ఇన్సూరెన్స్ క్లెయిమ్ స్టేటస్ చెక్ చేయడానికి కాల్ చేస్తున్నాను."
+    },
+    {
+      "speaker": "agent",
+      "text": "నేను సహాయం చేయగలను. దయచేసి మీ క్లెయిమ్ నంబర్ చెప్పగలరా?"
+    },
+    {
+      "speaker": "customer",
+      "text": "అవును, అది CLM-458921."
+    },
+    {
+      "speaker": "agent",
+      "text": "ధన్యవాదాలు. అది ఓపెన్ చేస్తున్నాను."
+    },
+    {
+      "speaker": "agent",
+      "text": "క్లెయిమ్ ఏప్రిల్ 3న సబ్మిట్ చేయబడింది మరియు ప్రస్తుతానికి రివ్యూ‌లో ఉంది."
+    },
+    {
+      "speaker": "customer",
+      "text": "అది ఎప్పుడు అప్రూవ్ అవుతుంది?"
+    },
+    {
+      "speaker": "agent",
+      "text": "రివ్యూ సాధారణంగా ఐదు నుండి ఏడు బిజినెస్ డేస్ పడుతుంది."
+    },
+    {
+      "speaker": "customer",
+      "text": "సరే. అప్రూవ్ అయిన వెంటనే నన్ను సమాచారం ఇస్తారా?"
+    },
+    {
+      "speaker": "agent",
+      "text": "అవును, మా ఫైల్‌లో ఉన్న ఈమెయిల్‌కు మెసేజ్ పంపుతాము."
+    },
+    {
+      "speaker": "customer",
+      "text": "అది maria.lopez@gmail.com."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Telugu te-IN Scripts.docx",
+    "conversation_index": 3,
+    "total_turns": 10
+  }
+}

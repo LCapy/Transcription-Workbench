@@ -1,0 +1,60 @@
+{
+  "scenario": "Hotel Reservation Change",
+  "language": "EL",
+  "file_language": "el_GR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Γεια σας, θέλω να αλλάξω τις ημερομηνίες της κράτησης του ξενοδοχείου μου."
+    },
+    {
+      "speaker": "agent",
+      "text": "Βεβαίως. Μπορώ να έχω τον αριθμό κράτησης;"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ναι, είναι HA-56219."
+    },
+    {
+      "speaker": "agent",
+      "text": "Ευχαριστώ. Ας ελέγξω διαθεσιμότητα."
+    },
+    {
+      "speaker": "agent",
+      "text": "Ποιες νέες ημερομηνίες θέλετε;"
+    },
+    {
+      "speaker": "customer",
+      "text": "Από 10–12 Απριλίου σε 12–14 Απριλίου."
+    },
+    {
+      "speaker": "agent",
+      "text": "Αυτές οι ημερομηνίες είναι διαθέσιμες."
+    },
+    {
+      "speaker": "customer",
+      "text": "Τέλεια."
+    },
+    {
+      "speaker": "agent",
+      "text": "Έχω ενημερώσει την κράτηση και σας έχω στείλει email επιβεβαίωσης."
+    },
+    {
+      "speaker": "customer",
+      "text": "Η τιμή παραμένει ίδια;"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ναι, δεν υπάρχει αλλαγή."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ευχαριστώ πολύ."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Greek Scripts.docx",
+    "conversation_index": 8,
+    "total_turns": 12
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel New Reservation Booking",
+  "language": "EN",
+  "file_language": "te_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "హాయ్, వచ్చే నెలకు హోటల్ రిజర్వేషన్ చేయాలనుకుంటున్నాను."
+    },
+    {
+      "speaker": "agent",
+      "text": "సహాయం చేస్తాను. మీ పూర్తి పేరు చెప్పగలరా?"
+    },
+    {
+      "speaker": "customer",
+      "text": "అవును, అది Emma Johnson."
+    },
+    {
+      "speaker": "agent",
+      "text": "ధన్యవాదాలు, Emma. మీరు ఎప్పుడు ఉండాలనుకుంటున్నారు?"
+    },
+    {
+      "speaker": "customer",
+      "text": "మే 12 నుండి మే 15 వరకు, 15న చెక్‌ఔట్."
+    },
+    {
+      "speaker": "agent",
+      "text": "అది మూడు రాత్రులు. నాకు ప్రతిరాత్రికి ₹140 విలువైన స్టాండర్డ్ రూమ్ ఉంది."
+    },
+    {
+      "speaker": "customer",
+      "text": "ఆ ధరలో పన్నులు, ఫీజులు ఉన్నాయా?"
+    },
+    {
+      "speaker": "agent",
+      "text": "పన్నులు లేవు. పన్నులతో మొత్తం ₹462 అవుతుంది."
+    },
+    {
+      "speaker": "customer",
+      "text": "సరే. ఇప్పుడు చెల్లించాలా?"
+    },
+    {
+      "speaker": "agent",
+      "text": "రిజర్వేషన్ హోల్డ్ చేయడానికి క్రెడిట్ కార్డ్ అవసరం, కానీ చెల్లింపు చెక్-ఇన్ సమయంలో జరుగుతుంది."
+    },
+    {
+      "speaker": "customer",
+      "text": "సరే. నా కార్డ్ ఇప్పుడే ఇస్తాను. అది Mastercard, నంబర్ 9999 8888 3333 1111."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Telugu te-IN Scripts.docx",
+    "conversation_index": 9,
+    "total_turns": 11
+  }
+}

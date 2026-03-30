@@ -1,0 +1,56 @@
+{
+  "scenario": "ホテル新規予約",
+  "language": "JP",
+  "file_language": "ja_JP",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "こんにちは。来月のホテル予約をしたいです。"
+    },
+    {
+      "speaker": "agent",
+      "text": "承知しました。お名前をフルネームで教えてください。"
+    },
+    {
+      "speaker": "customer",
+      "text": "Emma Johnson です。"
+    },
+    {
+      "speaker": "agent",
+      "text": "ありがとうございます、Emma。ご宿泊日はいつからいつまででしょうか？"
+    },
+    {
+      "speaker": "customer",
+      "text": "5月12日から15日までで、15日にチェックアウトします。"
+    },
+    {
+      "speaker": "agent",
+      "text": "3泊ですね。スタンダードルームが1泊 ¥140 でご利用いただけます。"
+    },
+    {
+      "speaker": "customer",
+      "text": "税金や手数料は含まれていますか？"
+    },
+    {
+      "speaker": "agent",
+      "text": "税金は含まれていません。税込合計は ¥462 になります。"
+    },
+    {
+      "speaker": "customer",
+      "text": "わかりました。今支払う必要はありますか？"
+    },
+    {
+      "speaker": "agent",
+      "text": "予約保持のためにクレジットカードが必要ですが、支払いはチェックイン時に行われます。"
+    },
+    {
+      "speaker": "customer",
+      "text": "ではカードをお伝えします。Mastercard、番号は 9999 8888 3333 1111 です。"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Japanese Scripts.docx",
+    "conversation_index": 9,
+    "total_turns": 11
+  }
+}

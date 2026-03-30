@@ -1,0 +1,60 @@
+{
+  "scenario": "Hotel Reservation Change – AR",
+  "language": "SA",
+  "file_language": "AR_SA",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "مرحباً، أريد تغيير تواريخ حجز الفندق."
+    },
+    {
+      "speaker": "agent",
+      "text": "بالتأكيد. هل أستطيع الحصول على رقم الحجز؟"
+    },
+    {
+      "speaker": "customer",
+      "text": "نعم، HA-56219."
+    },
+    {
+      "speaker": "agent",
+      "text": "شكراً. سأتحقق من التوفر الآن."
+    },
+    {
+      "speaker": "agent",
+      "text": "ما هي التواريخ الجديدة التي ترغب بها؟"
+    },
+    {
+      "speaker": "customer",
+      "text": "أريد تغيير الحجز من 10–12 أبريل إلى 12–14 أبريل."
+    },
+    {
+      "speaker": "agent",
+      "text": "التواريخ متاحة."
+    },
+    {
+      "speaker": "customer",
+      "text": "ممتاز."
+    },
+    {
+      "speaker": "agent",
+      "text": "تم تعديل الحجز وإرسال التأكيد بالبريد."
+    },
+    {
+      "speaker": "customer",
+      "text": "هل السعر سيبقى نفسه؟"
+    },
+    {
+      "speaker": "agent",
+      "text": "نعم، لا يوجد تغيير."
+    },
+    {
+      "speaker": "customer",
+      "text": "شكراً جزيلاً."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco ar_SA Scripts.docx",
+    "conversation_index": 8,
+    "total_turns": 12
+  }
+}

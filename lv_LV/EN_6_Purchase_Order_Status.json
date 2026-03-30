@@ -1,0 +1,68 @@
+{
+  "scenario": "Purchase Order Status",
+  "language": "EN",
+  "file_language": "lv_LV",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Labdien, zvanu, lai pārbaudītu pasūtījuma statusu jaunajai veļasmašīnai, ko veicām pagājušajā nedēļā."
+    },
+    {
+      "speaker": "agent",
+      "text": "Protams, es varu palīdzēt. Vai jums ir pasūtījuma numurs?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Jā, tas ir 78421."
+    },
+    {
+      "speaker": "agent",
+      "text": "Paldies. Ļaujiet man to pārbaudīt."
+    },
+    {
+      "speaker": "agent",
+      "text": "Redzu, ka pasūtījums tika apstiprināts un vakar pēcpusdienā nosūtīts."
+    },
+    {
+      "speaker": "customer",
+      "text": "Labi dzirdēt. Vai zināt, kad tas ieradīsies?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Paredzamais piegādes datums ir šī piektdiena, 10. decembris."
+    },
+    {
+      "speaker": "customer",
+      "text": "Vai mēs saņemsim piegādes apstiprinājumu?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Jā, jums vajadzētu saņemt e-pastu ar izsekošanas informāciju vēl šodien. Pirms pabeidzam, vai varat apstiprināt maksājuma veidu?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Protams, es maksāju ar Visa karti. Numurs ir 4111 2222 3344 6677."
+    },
+    {
+      "speaker": "agent",
+      "text": "Paldies. Drošības dēļ es neatkārtošu kartes numuru, bet varu apstiprināt, ka maksājums ir veiksmīgi apstrādāts."
+    },
+    {
+      "speaker": "customer",
+      "text": "Labi."
+    },
+    {
+      "speaker": "agent",
+      "text": "Apstiprinājums tiks nosūtīts uz alex@gmail.com. Vai varu vēl ar kaut ko palīdzēt?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Nē, tas ir viss. Paldies."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Latvian lv-LV Scripts.docx",
+    "conversation_index": 6,
+    "total_turns": 14
+  }
+}

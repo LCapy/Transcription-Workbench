@@ -1,0 +1,52 @@
+{
+  "scenario": "配送遅延",
+  "language": "JP",
+  "file_language": "ja_JP",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "こんにちは。荷物がまだ届いていないためお電話しました。"
+    },
+    {
+      "speaker": "agent",
+      "text": "申し訳ございません。追跡番号を教えていただけますか？"
+    },
+    {
+      "speaker": "customer",
+      "text": "はい、TRK-55134 です。"
+    },
+    {
+      "speaker": "agent",
+      "text": "ありがとうございます。状況を確認します。"
+    },
+    {
+      "speaker": "agent",
+      "text": "天候の影響で遅延が発生しており、現在は明日配達予定となっています。"
+    },
+    {
+      "speaker": "customer",
+      "text": "月曜日に届く予定でした。"
+    },
+    {
+      "speaker": "agent",
+      "text": "ご不便をおかけして申し訳ありません。新しい配達予定日は4月18日です。"
+    },
+    {
+      "speaker": "customer",
+      "text": "メールで更新通知は届きますか？"
+    },
+    {
+      "speaker": "agent",
+      "text": "はい、john.john@gmail.com にお送りします。"
+    },
+    {
+      "speaker": "customer",
+      "text": "わかりました。ありがとうございます。"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Japanese Scripts.docx",
+    "conversation_index": 5,
+    "total_turns": 10
+  }
+}

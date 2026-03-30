@@ -1,0 +1,60 @@
+{
+  "scenario": "Hotel Reservation Change",
+  "language": "BM",
+  "file_language": "MS_MY",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hai, saya perlu menukar tarikh tempahan hotel saya."
+    },
+    {
+      "speaker": "agent",
+      "text": "Baik. Boleh saya dapatkan nombor tempahan?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ya, HA-56219."
+    },
+    {
+      "speaker": "agent",
+      "text": "Terima kasih. Saya semak ketersediaan."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tarikh baru yang anda perlukan?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Dari 10–12 April ke 12–14 April."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tarikh itu tersedia."
+    },
+    {
+      "speaker": "customer",
+      "text": "Bagus."
+    },
+    {
+      "speaker": "agent",
+      "text": "Saya telah kemas kini tempahan dan hantar e-mel pengesahan."
+    },
+    {
+      "speaker": "customer",
+      "text": "Harga masih sama?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ya, tiada perubahan harga."
+    },
+    {
+      "speaker": "customer",
+      "text": "Terima kasih banyak."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Bahasa ms-MY Scripts.docx",
+    "conversation_index": 7,
+    "total_turns": 12
+  }
+}

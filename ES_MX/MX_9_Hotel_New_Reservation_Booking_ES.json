@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel New Reservation Booking – ES",
+  "language": "MX",
+  "file_language": "ES_MX",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hola, me gustaría hacer una reservación de hotel para el próximo mes."
+    },
+    {
+      "speaker": "agent",
+      "text": "Claro, puedo ayudarle con eso. ¿Me puede proporcionar su nombre completo, por favor?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Sí, es Emma Johnson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Gracias, Emma. ¿Qué fechas desea para su estancia?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Del 12 de mayo al 15 de mayo, con salida el día 15."
+    },
+    {
+      "speaker": "agent",
+      "text": "Serían tres noches. Tengo una habitación estándar disponible a ciento cuarenta pesos por noche."
+    },
+    {
+      "speaker": "customer",
+      "text": "¿Ese precio incluye impuestos y cargos?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Los impuestos no están incluidos. Con impuestos, el total es de cuatrocientos sesenta y dos pesos."
+    },
+    {
+      "speaker": "customer",
+      "text": "De acuerdo. ¿Necesito pagar ahora?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Requerimos una tarjeta de crédito para garantizar la reservación, pero el pago se procesa al momento del check-in."
+    },
+    {
+      "speaker": "customer",
+      "text": "Perfecto. Puedo proporcionarle mi tarjeta ahora. Es una Mastercard, número 9999 8888 3333 1111."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco es_MX Scripts.docx",
+    "conversation_index": 9,
+    "total_turns": 11
+  }
+}

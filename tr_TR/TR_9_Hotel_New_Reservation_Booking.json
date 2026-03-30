@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel New Reservation Booking",
+  "language": "TR",
+  "file_language": "tr_TR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Merhaba, gelecek ay için otel rezervasyonu yapmak istiyorum."
+    },
+    {
+      "speaker": "agent",
+      "text": "Elbette, yardımcı olurum. Tam adınızı alabilir miyim?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Emma Johnson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Teşekkürler Emma. Hangi tarihlerde kalmayı planlıyorsunuz?"
+    },
+    {
+      "speaker": "customer",
+      "text": "12–15 Mayıs, 15’inde çıkış yapacağım."
+    },
+    {
+      "speaker": "agent",
+      "text": "Üç gece oluyor. Standart odamız ₺140 gecelik fiyatla mevcut."
+    },
+    {
+      "speaker": "customer",
+      "text": "Bu fiyata vergi ve ücretler dahil mi?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Hayır, vergiler dahil değil. Vergilerle toplam ₺462 oluyor."
+    },
+    {
+      "speaker": "customer",
+      "text": "Şimdi ödeme yapmam gerekiyor mu?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Hayır, sadece rezervasyonu tutmak için bir kart gerekiyor. Ödeme check-in sırasında alınır."
+    },
+    {
+      "speaker": "customer",
+      "text": "Tamam, kartım Mastercard. Numara: 9999 8888 3333 1111."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Turkish Scripts.docx",
+    "conversation_index": 9,
+    "total_turns": 11
+  }
+}

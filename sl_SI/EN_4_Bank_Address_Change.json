@@ -1,0 +1,52 @@
+{
+  "scenario": "Bank Address Change",
+  "language": "EN",
+  "file_language": "sl_SI",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Pozdravljeni, potrebujem posodobitev poštnega naslova na mojem bančnem računu."
+    },
+    {
+      "speaker": "agent",
+      "text": "Lahko vam pomagam. Mi lahko najprej potrdite svoje polno ime?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Seveda. Daniel Peterson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hvala, Daniel. Kakšen je novi naslov?"
+    },
+    {
+      "speaker": "customer",
+      "text": "782 Green Street, Seattle, Washington, 98101."
+    },
+    {
+      "speaker": "agent",
+      "text": "Razumem. Posodabljam zdaj."
+    },
+    {
+      "speaker": "agent",
+      "text": "Naslov je bil uspešno posodobljen."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ali bo to vplivalo na moje izpiske?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Vaši prihodnji izpiski bodo poslani na novi naslov."
+    },
+    {
+      "speaker": "customer",
+      "text": "Odlično, hvala za pomoč."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Slovenian sl-SI Scripts.docx",
+    "conversation_index": 4,
+    "total_turns": 10
+  }
+}

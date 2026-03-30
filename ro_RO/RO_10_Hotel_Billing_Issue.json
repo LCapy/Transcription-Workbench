@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel Billing Issue",
+  "language": "RO",
+  "file_language": "ro_RO",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Bună ziua, am o întrebare despre o taxă de la ultima mea ședere la hotel."
+    },
+    {
+      "speaker": "agent",
+      "text": "Pot să vă ajut. Care este numărul rezervării?"
+    },
+    {
+      "speaker": "customer",
+      "text": "RES-90231."
+    },
+    {
+      "speaker": "agent",
+      "text": "Mulțumesc. Văd o taxă de 180 lei din 10 aprilie."
+    },
+    {
+      "speaker": "customer",
+      "text": "Pare mai mare decât mă așteptam."
+    },
+    {
+      "speaker": "agent",
+      "text": "Taxa include o noapte de cazare plus taxa pentru minibar."
+    },
+    {
+      "speaker": "customer",
+      "text": "Nu am folosit minibarul."
+    },
+    {
+      "speaker": "agent",
+      "text": "Înțeleg. Voi elimina taxa și voi procesa o rambursare parțială."
+    },
+    {
+      "speaker": "customer",
+      "text": "Cât va fi rambursat?"
+    },
+    {
+      "speaker": "agent",
+      "text": "30 lei vor fi rambursați pe cardul dumneavoastră."
+    },
+    {
+      "speaker": "customer",
+      "text": "În regulă, mulțumesc."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Romanian Script.docx",
+    "conversation_index": 10,
+    "total_turns": 11
+  }
+}

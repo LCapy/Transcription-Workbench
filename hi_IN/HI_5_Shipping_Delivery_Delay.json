@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Delivery Delay",
+  "language": "HI",
+  "file_language": "hi_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "नमस्ते, मेरा पैकेज अभी तक नहीं पहुँचा है।"
+    },
+    {
+      "speaker": "agent",
+      "text": "इसके लिए मैं क्षमा चाहता/चाहती हूँ। क्या आप मुझे ट्रैकिंग नंबर दे सकते/सकती हैं?"
+    },
+    {
+      "speaker": "customer",
+      "text": "हाँ, यह है — TRK-55134।"
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद। मैं स्थिति चेक करता/करती हूँ।"
+    },
+    {
+      "speaker": "agent",
+      "text": "मौसम की वजह से पैकेज में देरी हुई है और अब इसकी डिलीवरी कल निर्धारित की गई है।"
+    },
+    {
+      "speaker": "customer",
+      "text": "इसे सोमवार को आ जाना चाहिए था।"
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं आपकी परेशानी समझता/समझती हूँ। नई डिलीवरी तिथि 18 अप्रैल है।"
+    },
+    {
+      "speaker": "customer",
+      "text": "क्या मुझे ईमेल अपडेट मिलेगा?"
+    },
+    {
+      "speaker": "agent",
+      "text": "हाँ, हम अपडेट john.john@gmail.com पर भेजेंगे।"
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है, धन्यवाद।"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Hindi Scripts.docx",
+    "conversation_index": 5,
+    "total_turns": 10
+  }
+}

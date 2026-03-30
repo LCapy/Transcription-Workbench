@@ -1,0 +1,68 @@
+{
+  "scenario": "Purchase Order Status",
+  "language": "SV",
+  "file_language": "sv_SE",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hej, jag ringer för att kontrollera statusen på en beställning av en ny tvättmaskin som vi lade förra veckan."
+    },
+    {
+      "speaker": "agent",
+      "text": "Självklart. Har du beställningsnumret?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, det är 78421."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tack. Jag tittar på det."
+    },
+    {
+      "speaker": "agent",
+      "text": "Jag ser att beställningen godkändes och skickades i går eftermiddag."
+    },
+    {
+      "speaker": "customer",
+      "text": "Det var bra att höra. Vet du när den kommer?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Den beräknade leveransdagen är nu på fredag, den 10 december."
+    },
+    {
+      "speaker": "customer",
+      "text": "Får vi en leveransbekräftelse?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ja, du kommer att få ett mejl med spårningsinformation senare idag. Innan vi avslutar — kan du bekräfta betalningsmetoden?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, jag betalade med Visa. Numret är 4111 2222 3344 6677."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tack. Av säkerhetsskäl upprepar jag inte kortnumret, men jag kan bekräfta att betalningen har behandlats."
+    },
+    {
+      "speaker": "customer",
+      "text": "Okej."
+    },
+    {
+      "speaker": "agent",
+      "text": "Bekräftelsen skickas till alex@gmail.com. Är det något mer jag kan hjälpa dig med?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Nej, tack."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Swedish Scripts.docx",
+    "conversation_index": 6,
+    "total_turns": 14
+  }
+}

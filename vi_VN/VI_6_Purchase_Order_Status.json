@@ -1,0 +1,68 @@
+{
+  "scenario": "Purchase Order Status",
+  "language": "VI",
+  "file_language": "vi_VN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Xin chào, tôi muốn kiểm tra đơn đặt hàng máy giặt mà chúng tôi đặt tuần trước."
+    },
+    {
+      "speaker": "agent",
+      "text": "Vâng, bạn có mã đơn hàng không?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Có, 78421."
+    },
+    {
+      "speaker": "agent",
+      "text": "Cảm ơn. Tôi đang kiểm tra."
+    },
+    {
+      "speaker": "agent",
+      "text": "Đơn hàng đã được duyệt và gửi đi vào chiều hôm qua."
+    },
+    {
+      "speaker": "customer",
+      "text": "Tuyệt. Khi nào nhận được?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Dự kiến giao vào thứ Sáu, 10 tháng 12."
+    },
+    {
+      "speaker": "customer",
+      "text": "Chúng tôi sẽ nhận email xác nhận giao hàng chứ?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Vâng, bạn sẽ nhận được email có mã theo dõi trong hôm nay. Trước khi kết thúc, tôi xác nhận lại phương thức thanh toán nhé?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Tôi dùng thẻ Visa. Số là 4111 2222 3344 6677."
+    },
+    {
+      "speaker": "agent",
+      "text": "Cảm ơn bạn. Vì lý do bảo mật, tôi không lặp lại số, nhưng thanh toán đã thành công."
+    },
+    {
+      "speaker": "customer",
+      "text": "Được rồi."
+    },
+    {
+      "speaker": "agent",
+      "text": "Email xác nhận sẽ gửi đến alex@gmail.com. Bạn còn cần gì nữa không?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Không, cảm ơn."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Vietnamese Scripts.docx",
+    "conversation_index": 6,
+    "total_turns": 14
+  }
+}

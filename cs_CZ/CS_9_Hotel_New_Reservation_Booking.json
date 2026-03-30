@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel New Reservation Booking",
+  "language": "CS",
+  "file_language": "cs_CZ",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Dobrý den, chtěl bych si rezervovat hotel na příští měsíc."
+    },
+    {
+      "speaker": "agent",
+      "text": "Samozřejmě. Můžete mi sdělit své celé jméno?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Emma Johnson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Děkuji, Emmo. Na jaké termíny plánujete pobyt?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Od 12. do 15. května, odjezd 15."
+    },
+    {
+      "speaker": "agent",
+      "text": "To jsou tři noci. Máme standardní pokoj za 140 Kč za noc."
+    },
+    {
+      "speaker": "customer",
+      "text": "Je tato cena včetně daní a poplatků?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Daně nejsou zahrnuty. S daněmi činí celková částka 462 Kč."
+    },
+    {
+      "speaker": "customer",
+      "text": "Dobře. Musím platit hned?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Požadujeme kreditní kartu pro garanci rezervace, platba proběhne při check-inu."
+    },
+    {
+      "speaker": "customer",
+      "text": "Dobře. Mohu vám sdělit číslo karty – Mastercard 9999 8888 3333 1111."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Czech Scripts.docx",
+    "conversation_index": 9,
+    "total_turns": 11
+  }
+}

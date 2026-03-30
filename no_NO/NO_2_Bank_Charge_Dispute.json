@@ -1,0 +1,56 @@
+{
+  "scenario": "Bank Charge Dispute",
+  "language": "NO",
+  "file_language": "no_NO",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hei, jeg ringer angående en belastning på kontoen min som jeg ikke kjenner igjen."
+    },
+    {
+      "speaker": "agent",
+      "text": "Jeg kan hjelpe deg med det. Kan du si hvilken dato og hvilket beløp det gjelder?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Det er fra 12. mars på kr 45,99."
+    },
+    {
+      "speaker": "agent",
+      "text": "Takk. Jeg ser transaksjonen her."
+    },
+    {
+      "speaker": "customer",
+      "text": "Jeg husker ikke å ha gjort det kjøpet."
+    },
+    {
+      "speaker": "agent",
+      "text": "Forstått. Jeg kan opprette en reklamasjon for deg."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, gjør det."
+    },
+    {
+      "speaker": "agent",
+      "text": "Reklamasjonen er sendt inn. Vi undersøker saken og holder deg oppdatert på e-post."
+    },
+    {
+      "speaker": "customer",
+      "text": "Hvor lang tid tar undersøkelsen?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Den tar vanligvis opptil 10 virkedager."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, takk for hjelpen."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Norwegian Scripts.docx",
+    "conversation_index": 2,
+    "total_turns": 11
+  }
+}

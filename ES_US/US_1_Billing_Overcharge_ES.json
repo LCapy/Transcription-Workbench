@@ -1,0 +1,60 @@
+{
+  "scenario": "Billing Overcharge – ES",
+  "language": "US",
+  "file_language": "ES_US",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hola, llamo porque creo que me cobraron dos veces mi suscripción mensual."
+    },
+    {
+      "speaker": "agent",
+      "text": "Lo siento. Puedo ayudarle a revisarlo. ¿Puede proporcionarme la dirección de correo electrónico asociada a la cuenta?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Sí, es alex.morgan@gmail.com."
+    },
+    {
+      "speaker": "agent",
+      "text": "Gracias. Permítame consultar su cuenta. Esto solo tomará un momento."
+    },
+    {
+      "speaker": "agent",
+      "text": "Veo dos cargos de $54.50 registrados ayer. Uno parece ser un duplicado."
+    },
+    {
+      "speaker": "customer",
+      "text": "De acuerdo, eso era lo que pensaba."
+    },
+    {
+      "speaker": "agent",
+      "text": "Enviaré una solicitud de reembolso por el cargo adicional. No necesita realizar ninguna otra acción."
+    },
+    {
+      "speaker": "customer",
+      "text": "¿Cuánto tiempo suele tardar el reembolso?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Los reembolsos normalmente se reflejan en un plazo de cinco a siete días hábiles."
+    },
+    {
+      "speaker": "customer",
+      "text": "De acuerdo, gracias por revisarlo."
+    },
+    {
+      "speaker": "agent",
+      "text": "Claro. ¿Hay algo más en lo que pueda ayudarle hoy?"
+    },
+    {
+      "speaker": "customer",
+      "text": "No, eso es todo."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco es_US Scripts.docx",
+    "conversation_index": 1,
+    "total_turns": 12
+  }
+}

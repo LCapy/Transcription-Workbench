@@ -1,0 +1,56 @@
+{
+  "scenario": "Bank Charge Dispute",
+  "language": "EN",
+  "file_language": "te_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "హలో, నా అకౌంట్‌లో ఉన్న ఒక చార్జ్ గురించి కాల్ చేస్తున్నాను, అది నాకు గుర్తు లేదు."
+    },
+    {
+      "speaker": "agent",
+      "text": "నేను సహాయం చేయగలను. దయచేసి ఆ చార్జ్ తేదీ మరియు అమౌంట్ చెప్పగలరా?"
+    },
+    {
+      "speaker": "customer",
+      "text": "అది మార్చి 12నది, మొత్తం ₹45.99."
+    },
+    {
+      "speaker": "agent",
+      "text": "ధన్యవాదాలు. నేను ఈ ట్రాన్సాక్షన్ కనిపిస్తోంది."
+    },
+    {
+      "speaker": "customer",
+      "text": "నేను ఆ కొనుగోలు చేసినట్టు గుర్తు లేదు."
+    },
+    {
+      "speaker": "agent",
+      "text": "అర్థమైంది. మీ కోసం నేను ఒక dispute ఓపెన్ చేస్తాను."
+    },
+    {
+      "speaker": "customer",
+      "text": "అవును, దయచేసి చేయండి."
+    },
+    {
+      "speaker": "agent",
+      "text": "dispute సబ్మిట్ చేయబడింది. మేము ఇన్వెస్టిగేట్ చేసి ఈమెయిల్ ద్వారా మీకు అప్డేట్‌లను పంపుతాము."
+    },
+    {
+      "speaker": "customer",
+      "text": "ఇన్వెస్టిగేషన్‌కు ఎంత సమయం పడుతుంది?"
+    },
+    {
+      "speaker": "agent",
+      "text": "సాధారణంగా 10 బిజినెస్ డేస్ వరకు పడుతుంది."
+    },
+    {
+      "speaker": "customer",
+      "text": "సరే, మీ సహాయం కోసం ధన్యవాదాలు."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Telugu te-IN Scripts.docx",
+    "conversation_index": 2,
+    "total_turns": 11
+  }
+}

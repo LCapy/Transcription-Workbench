@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Address Update",
+  "language": "EL",
+  "file_language": "el_GR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Γεια σας, θέλω να αλλάξω τη διεύθυνση αποστολής για μια παραγγελία που έκανα νωρίτερα σήμερα."
+    },
+    {
+      "speaker": "agent",
+      "text": "Βεβαίως. Έχει σταλεί ήδη η παραγγελία;"
+    },
+    {
+      "speaker": "customer",
+      "text": "Όχι, δεν έχει σταλεί ακόμη."
+    },
+    {
+      "speaker": "agent",
+      "text": "Ωραία. Παρακαλώ δώστε μου τη νέα διεύθυνση."
+    },
+    {
+      "speaker": "customer",
+      "text": "245 Market Street, San Jose, California."
+    },
+    {
+      "speaker": "agent",
+      "text": "Ευχαριστώ. Η διεύθυνση ενημερώθηκε επιτυχώς."
+    },
+    {
+      "speaker": "customer",
+      "text": "Θα καθυστερήσει η παράδοση;"
+    },
+    {
+      "speaker": "agent",
+      "text": "Όχι, η ημερομηνία παράδοσης παραμένει η ίδια."
+    },
+    {
+      "speaker": "customer",
+      "text": "Τέλεια, ευχαριστώ πολύ."
+    },
+    {
+      "speaker": "agent",
+      "text": "Παρακαλώ."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Greek Scripts.docx",
+    "conversation_index": 7,
+    "total_turns": 10
+  }
+}

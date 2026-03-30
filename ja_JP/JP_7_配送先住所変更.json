@@ -1,0 +1,56 @@
+{
+  "scenario": "配送先住所変更",
+  "language": "JP",
+  "file_language": "ja_JP",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "こんにちは。本日注文した商品の配送先住所を変更したいです。"
+    },
+    {
+      "speaker": "agent",
+      "text": "承知しました。すでに発送されていますか？"
+    },
+    {
+      "speaker": "customer",
+      "text": "いいえ、まだです。"
+    },
+    {
+      "speaker": "agent",
+      "text": "では、新しい住所を教えてください。"
+    },
+    {
+      "speaker": "customer",
+      "text": "245 Market Street, San Jose, California です。"
+    },
+    {
+      "speaker": "agent",
+      "text": "ありがとうございます。更新します。"
+    },
+    {
+      "speaker": "agent",
+      "text": "住所は正常に更新されました。"
+    },
+    {
+      "speaker": "customer",
+      "text": "配達は遅れますか？"
+    },
+    {
+      "speaker": "agent",
+      "text": "いいえ、配達日は変更ありません。"
+    },
+    {
+      "speaker": "customer",
+      "text": "よかったです。ありがとうございます。"
+    },
+    {
+      "speaker": "agent",
+      "text": "どういたしまして。"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Japanese Scripts.docx",
+    "conversation_index": 7,
+    "total_turns": 11
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "scenario": "Shipping Address Update – ES",
+  "language": "MX",
+  "file_language": "ES_MX",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hola, necesito cambiar la dirección de envío de una orden que realicé hoy más temprano."
+    },
+    {
+      "speaker": "agent",
+      "text": "Puedo ayudarle con eso. ¿La orden ya fue enviada?"
+    },
+    {
+      "speaker": "customer",
+      "text": "No, aún no ha sido enviada."
+    },
+    {
+      "speaker": "agent",
+      "text": "Perfecto. Por favor proporcione la nueva dirección."
+    },
+    {
+      "speaker": "customer",
+      "text": "Es 245 Market Street, San Jose, California."
+    },
+    {
+      "speaker": "agent",
+      "text": "Gracias. Permítame actualizarla."
+    },
+    {
+      "speaker": "agent",
+      "text": "La dirección se ha actualizado correctamente."
+    },
+    {
+      "speaker": "customer",
+      "text": "¿Eso retrasará la entrega?"
+    },
+    {
+      "speaker": "agent",
+      "text": "No, la fecha de entrega se mantiene igual."
+    },
+    {
+      "speaker": "customer",
+      "text": "Perfecto. Gracias por su ayuda."
+    },
+    {
+      "speaker": "agent",
+      "text": "Con gusto."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco es_MX Scripts.docx",
+    "conversation_index": 7,
+    "total_turns": 11
+  }
+}

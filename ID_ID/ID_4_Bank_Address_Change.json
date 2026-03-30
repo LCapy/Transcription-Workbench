@@ -1,0 +1,52 @@
+{
+  "scenario": "Bank Address Change",
+  "language": "ID",
+  "file_language": "ID_ID",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Halo, saya perlu memperbarui alamat surat-menyurat di akun bank saya."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tentu, saya bisa membantu. Boleh saya konfirmasi nama lengkap Anda?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Daniel Peterson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Terima kasih, Daniel. Apa alamat barunya?"
+    },
+    {
+      "speaker": "customer",
+      "text": "782 Green Street, Seattle, Washington, 98101."
+    },
+    {
+      "speaker": "agent",
+      "text": "Baik, saya perbarui sekarang."
+    },
+    {
+      "speaker": "agent",
+      "text": "Alamat Anda telah berhasil diperbarui."
+    },
+    {
+      "speaker": "customer",
+      "text": "Apakah ini akan memengaruhi laporan saya?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Laporan selanjutnya akan dikirim ke alamat baru."
+    },
+    {
+      "speaker": "customer",
+      "text": "Baik, terima kasih."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Bahasa id_ID Scripts.docx",
+    "conversation_index": 4,
+    "total_turns": 10
+  }
+}

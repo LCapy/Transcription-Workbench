@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel Billing Issue – fi",
+  "language": "FI",
+  "file_language": "fi_FI",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hei, minulla on kysymys viimeisimmän hotellivierailuni veloituksesta."
+    },
+    {
+      "speaker": "agent",
+      "text": "Autan mielelläni. Voinko saada varaustunnuksen?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Kyllä, se on RES-90231."
+    },
+    {
+      "speaker": "agent",
+      "text": "Kiitos. Näen veloituksen 180 € päivältä 10. huhtikuuta."
+    },
+    {
+      "speaker": "customer",
+      "text": "Se vaikuttaa korkeammalta kuin odotin."
+    },
+    {
+      "speaker": "agent",
+      "text": "Summa sisältää yhden yön majoituksen sekä minibaarimaksun."
+    },
+    {
+      "speaker": "customer",
+      "text": "En käyttänyt minibaaria."
+    },
+    {
+      "speaker": "agent",
+      "text": "Ymmärrän. Poistan maksun ja teen osittaisen palautuksen."
+    },
+    {
+      "speaker": "customer",
+      "text": "Kuinka paljon palautetaan?"
+    },
+    {
+      "speaker": "agent",
+      "text": "30 € hyvitetään kortillesi."
+    },
+    {
+      "speaker": "customer",
+      "text": "Selvä, kiitos."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Finnish Scripts.docx",
+    "conversation_index": 10,
+    "total_turns": 11
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "scenario": "Hotel Reservation Change – fi",
+  "language": "FI",
+  "file_language": "fi_FI",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hei, minun täytyy muuttaa hotellivaraukseni päivämääriä."
+    },
+    {
+      "speaker": "agent",
+      "text": "Toki. Voinko saada varaustunnuksen?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Kyllä, se on HA-56219."
+    },
+    {
+      "speaker": "agent",
+      "text": "Kiitos. Tarkistan saatavuuden."
+    },
+    {
+      "speaker": "agent",
+      "text": "Mitkä päivämäärät haluaisit?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Haluaisin siirtää varaukseni 10.–12. huhtikuuta ajalle 12.–14. huhtikuuta."
+    },
+    {
+      "speaker": "agent",
+      "text": "Nämä päivät ovat saatavilla."
+    },
+    {
+      "speaker": "customer",
+      "text": "Hienoa."
+    },
+    {
+      "speaker": "agent",
+      "text": "Olen päivittänyt varauksen ja lähettänyt vahvistuksen sähköpostitse."
+    },
+    {
+      "speaker": "customer",
+      "text": "Pysyykö hinta samana?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Kyllä, hintaan ei tule muutoksia."
+    },
+    {
+      "speaker": "customer",
+      "text": "Kiitos paljon."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Finnish Scripts.docx",
+    "conversation_index": 8,
+    "total_turns": 12
+  }
+}

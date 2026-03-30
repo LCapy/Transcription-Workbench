@@ -1,0 +1,60 @@
+{
+  "scenario": "Billing Overcharge",
+  "language": "ID",
+  "file_language": "ID_ID",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Halo, saya menelepon karena saya rasa saya dikenakan biaya dua kali untuk langganan bulanan saya."
+    },
+    {
+      "speaker": "agent",
+      "text": "Mohon maaf atas ketidaknyamanannya. Saya bisa membantu mengeceknya. Boleh saya minta alamat email yang terdaftar di akun Anda?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ya, alex.morgan@gmail.com."
+    },
+    {
+      "speaker": "agent",
+      "text": "Terima kasih. Saya akan membuka akun Anda, mohon tunggu sebentar."
+    },
+    {
+      "speaker": "agent",
+      "text": "Saya melihat ada dua tagihan sebesar Rp54.50 yang tercatat kemarin. Salah satunya tampak sebagai duplikat."
+    },
+    {
+      "speaker": "customer",
+      "text": "Baik, itu juga yang saya pikirkan."
+    },
+    {
+      "speaker": "agent",
+      "text": "Saya akan mengajukan pengembalian dana untuk tagihan tambahan tersebut. Anda tidak perlu melakukan tindakan apa pun."
+    },
+    {
+      "speaker": "customer",
+      "text": "Biasanya berapa lama proses pengembalian dana?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Biasanya pengembalian dana akan terlihat dalam 5–7 hari kerja."
+    },
+    {
+      "speaker": "customer",
+      "text": "Baik, terima kasih sudah mengecek."
+    },
+    {
+      "speaker": "agent",
+      "text": "Sama-sama. Apakah ada hal lain yang bisa saya bantu hari ini?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Tidak, itu saja."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Bahasa id_ID Scripts.docx",
+    "conversation_index": 1,
+    "total_turns": 12
+  }
+}

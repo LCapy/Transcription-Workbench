@@ -1,0 +1,52 @@
+{
+  "scenario": "Bank Address Change",
+  "language": "EN",
+  "file_language": "te_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "హలో, నా బ్యాంక్ అకౌంట్‌కు సంబంధించిన మెయిలింగ్ అడ్రస్ అప్డేట్ చేయాలి."
+    },
+    {
+      "speaker": "agent",
+      "text": "నేను సహాయం చేయగలను. ముందుగా మీ పూర్తి పేరును వెరిఫై చేస్తారా?"
+    },
+    {
+      "speaker": "customer",
+      "text": "తప్పకుండా. అది Daniel Peterson."
+    },
+    {
+      "speaker": "agent",
+      "text": "ధన్యవాదాలు, Daniel. కొత్త అడ్రస్ ఏది?"
+    },
+    {
+      "speaker": "customer",
+      "text": "అది 782 Green Street, Seattle, Washington, 98101."
+    },
+    {
+      "speaker": "agent",
+      "text": "సరి. ఇప్పుడు అప్డేట్ చేస్తున్నాను."
+    },
+    {
+      "speaker": "agent",
+      "text": "అడ్రస్ విజయవంతంగా అప్డేట్ చేయబడింది."
+    },
+    {
+      "speaker": "customer",
+      "text": "ఇది నా స్టేట్‌మెంట్స్‌పై ఎఫెక్ట్ చూపుతుందా?"
+    },
+    {
+      "speaker": "agent",
+      "text": "మీ భవిష్యత్ స్టేట్‌మెంట్లు కొత్త అడ్రస్‌కు పంపబడతాయి."
+    },
+    {
+      "speaker": "customer",
+      "text": "బాగుంది, ధన్యవాదాలు."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Telugu te-IN Scripts.docx",
+    "conversation_index": 4,
+    "total_turns": 10
+  }
+}

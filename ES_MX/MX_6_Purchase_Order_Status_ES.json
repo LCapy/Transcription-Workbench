@@ -1,0 +1,68 @@
+{
+  "scenario": "Purchase Order Status – ES",
+  "language": "MX",
+  "file_language": "ES_MX",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hola, llamo para verificar el estado de una orden de compra de una lavadora nueva que realizamos la semana pasada."
+    },
+    {
+      "speaker": "agent",
+      "text": "Claro, puedo ayudarle con eso. ¿Tiene a la mano el número de la orden de compra?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Sí, es 78421."
+    },
+    {
+      "speaker": "agent",
+      "text": "Gracias. Permítame revisarlo."
+    },
+    {
+      "speaker": "agent",
+      "text": "Veo que la orden fue aprobada y enviada ayer por la tarde."
+    },
+    {
+      "speaker": "customer",
+      "text": "Me alegra escuchar eso. ¿Sabe cuándo llegará?"
+    },
+    {
+      "speaker": "agent",
+      "text": "La fecha estimada de entrega es este viernes, 10 de diciembre."
+    },
+    {
+      "speaker": "customer",
+      "text": "¿Recibiremos una confirmación de envío?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Sí, debería recibir un correo electrónico con los detalles de rastreo más tarde hoy. Antes de finalizar, ¿puede confirmar el método de pago utilizado para esta orden?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Claro, pagué con una tarjeta Visa. El número es 4111 2222 3344 6677."
+    },
+    {
+      "speaker": "agent",
+      "text": "Gracias. Por razones de seguridad, no repetiré el número de la tarjeta, pero puedo confirmar que el pago se procesó correctamente."
+    },
+    {
+      "speaker": "customer",
+      "text": "Está bien."
+    },
+    {
+      "speaker": "agent",
+      "text": "El correo de confirmación será enviado a alex@gmail.com. ¿Hay algo más en lo que pueda ayudarle hoy?"
+    },
+    {
+      "speaker": "customer",
+      "text": "No, eso es todo. Gracias."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco es_MX Scripts.docx",
+    "conversation_index": 6,
+    "total_turns": 14
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel New Reservation Booking – AR",
+  "language": "SA",
+  "file_language": "AR_SA",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "مرحباً، أود إجراء حجز فندقي للشهر القادم."
+    },
+    {
+      "speaker": "agent",
+      "text": "بكل سرور. هل تذكر لي اسمك الكامل؟"
+    },
+    {
+      "speaker": "customer",
+      "text": "Emma Johnson."
+    },
+    {
+      "speaker": "agent",
+      "text": "شكراً Emma. ما هي مواعيد الإقامة المطلوبة؟"
+    },
+    {
+      "speaker": "customer",
+      "text": "من 12 إلى 15 مايو، والخروج في 15."
+    },
+    {
+      "speaker": "agent",
+      "text": "الإقامة ستكون 3 ليالٍ. لدينا غرفة قياسية بسعر 140 ر.س لليلة."
+    },
+    {
+      "speaker": "customer",
+      "text": "هل يشمل السعر الضرائب؟"
+    },
+    {
+      "speaker": "agent",
+      "text": "لا، غير شامل. مع الضرائب يصبح الإجمالي 462 ر.س."
+    },
+    {
+      "speaker": "customer",
+      "text": "هل أدفع الآن؟"
+    },
+    {
+      "speaker": "agent",
+      "text": "لا، نحتاج فقط بطاقة لحجز الغرفة. الدفع عند تسجيل الوصول."
+    },
+    {
+      "speaker": "customer",
+      "text": "حسناً، بطاقتي Mastercard رقمها 9999 8888 3333 1111."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco ar_SA Scripts.docx",
+    "conversation_index": 9,
+    "total_turns": 11
+  }
+}

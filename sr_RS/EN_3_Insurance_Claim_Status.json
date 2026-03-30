@@ -1,0 +1,52 @@
+{
+  "scenario": "Insurance Claim Status",
+  "language": "EN",
+  "file_language": "sr_RS",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Zdravo, zovem da proverim status zahteva za osiguranje koji sam podnela prošle nedelje."
+    },
+    {
+      "speaker": "agent",
+      "text": "Mogu da pomognem. Mogu li dobiti broj zahteva?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Da, CLM-458921."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hvala. Samo trenutak."
+    },
+    {
+      "speaker": "agent",
+      "text": "Vidim da je zahtev podnet 3. aprila i trenutno je u obradi."
+    },
+    {
+      "speaker": "customer",
+      "text": "Da li se zna kada će biti odobren?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Obrada obično traje pet do sedam radnih dana."
+    },
+    {
+      "speaker": "customer",
+      "text": "U redu. Da li ću dobiti obaveštenje kada bude odobren?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Da, poslaćemo imejl na adresu u sistemu."
+    },
+    {
+      "speaker": "customer",
+      "text": "To je maria.lopez@gmail.com."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Serbian sr-RS Scripts.docx",
+    "conversation_index": 3,
+    "total_turns": 10
+  }
+}

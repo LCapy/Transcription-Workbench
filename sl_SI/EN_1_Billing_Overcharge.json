@@ -1,0 +1,60 @@
+{
+  "scenario": "Billing Overcharge",
+  "language": "EN",
+  "file_language": "sl_SI",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Pozdravljeni, kličem, ker mislim, da sem bil dvakrat zaračunan za svojo mesečno naročnino."
+    },
+    {
+      "speaker": "agent",
+      "text": "Oprostite za to. Pomagam vam lahko preveriti. Mi lahko prosim poveste e-poštni naslov, povezan z vašim računom?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Da, to je alex.morgan@gmail.com."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hvala. Naj odprem vaš račun. To bo trajalo le trenutek."
+    },
+    {
+      "speaker": "agent",
+      "text": "Vidim dva stroška v višini 54,50 €, knjižena včeraj. Eden od njiju je videti kot podvojen."
+    },
+    {
+      "speaker": "customer",
+      "text": "V redu, to sem si mislil."
+    },
+    {
+      "speaker": "agent",
+      "text": "Oddal bom vračilo za dodatni znesek. Ni vam treba narediti ničesar."
+    },
+    {
+      "speaker": "customer",
+      "text": "Kako dolgo običajno traja vračilo?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Vračila se običajno prikažejo v petih do sedmih delovnih dneh."
+    },
+    {
+      "speaker": "customer",
+      "text": "Prav, hvala za preverjanje."
+    },
+    {
+      "speaker": "agent",
+      "text": "Seveda. Vam lahko danes še s čim pomagam?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ne, to je vse."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Slovenian sl-SI Scripts.docx",
+    "conversation_index": 1,
+    "total_turns": 12
+  }
+}

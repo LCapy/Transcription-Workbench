@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Delivery Delay",
+  "language": "EN",
+  "file_language": "te_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "హాయ్, నా ప్యాకేజీ ఇంకా రాలేదు కాబట్టి కాల్ చేస్తున్నాను."
+    },
+    {
+      "speaker": "agent",
+      "text": "దానికి క్షమించండి. దయచేసి ట్రాకింగ్ నంబర్ ఇవ్వగలరా?"
+    },
+    {
+      "speaker": "customer",
+      "text": "అవును, TRK-55134."
+    },
+    {
+      "speaker": "agent",
+      "text": "ధన్యవాదాలు. స్థితి చెక్ చేస్తున్నాను."
+    },
+    {
+      "speaker": "agent",
+      "text": "వాతావరణ కారణంగా ప్యాకేజీ ఆలస్యమైంది, రేపు డెలివరీ చేయబడుతుంది."
+    },
+    {
+      "speaker": "customer",
+      "text": "అది సోమవారం రావాలి."
+    },
+    {
+      "speaker": "agent",
+      "text": "మీ అసహనం అర్థమవుతోంది. కొత్త డెలివరీ తేదీ ఏప్రిల్ 18."
+    },
+    {
+      "speaker": "customer",
+      "text": "నాకు ఈమెయిల్‌లో అప్డేట్ వస్తుందా?"
+    },
+    {
+      "speaker": "agent",
+      "text": "అవును, john.john@gmail.com కు అప్డేట్ పంపబడుతుంది."
+    },
+    {
+      "speaker": "customer",
+      "text": "సరే, ధన్యవాదాలు."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Telugu te-IN Scripts.docx",
+    "conversation_index": 5,
+    "total_turns": 10
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "scenario": "Shipping Address Update",
+  "language": "NO",
+  "file_language": "no_NO",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hei, jeg trenger å endre leveringsadressen for en bestilling jeg la inn tidligere i dag."
+    },
+    {
+      "speaker": "agent",
+      "text": "Det kan jeg gjøre. Har bestillingen allerede blitt sendt?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Nei, ikke ennå."
+    },
+    {
+      "speaker": "agent",
+      "text": "Flott. Hva er den nye adressen?"
+    },
+    {
+      "speaker": "customer",
+      "text": "245 Market Street, San Jose, California."
+    },
+    {
+      "speaker": "agent",
+      "text": "Takk. Jeg oppdaterer det nå."
+    },
+    {
+      "speaker": "agent",
+      "text": "Adressen er oppdatert."
+    },
+    {
+      "speaker": "customer",
+      "text": "Vil dette forsinke leveringen?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Nei, leveringsdatoen er den samme."
+    },
+    {
+      "speaker": "customer",
+      "text": "Perfekt, takk for hjelpen."
+    },
+    {
+      "speaker": "agent",
+      "text": "Bare hyggelig."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Norwegian Scripts.docx",
+    "conversation_index": 7,
+    "total_turns": 11
+  }
+}

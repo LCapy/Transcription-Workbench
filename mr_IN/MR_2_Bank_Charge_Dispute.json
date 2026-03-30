@@ -1,0 +1,56 @@
+{
+  "scenario": "Bank Charge Dispute",
+  "language": "MR",
+  "file_language": "mr_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "नमस्कार, माझ्या खात्यावर एक असे शुल्क आहे जे मला ओळखीचे नाही."
+    },
+    {
+      "speaker": "agent",
+      "text": "मी मदत करू शकतो/शकते. कृपया त्या शुल्काची तारीख आणि रक्कम सांगाल का?"
+    },
+    {
+      "speaker": "customer",
+      "text": "12 मार्चची आहे, रक्कम ₹45.99."
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद. मला ती व्यवहार नोंद दिसत आहे."
+    },
+    {
+      "speaker": "customer",
+      "text": "मला ती खरेदी केल्याचे आठवत नाही."
+    },
+    {
+      "speaker": "agent",
+      "text": "समजले. मी तुमच्यासाठी वाद (dispute) नोंदवू शकतो/शकते."
+    },
+    {
+      "speaker": "customer",
+      "text": "हो, कृपया करा."
+    },
+    {
+      "speaker": "agent",
+      "text": "वाद नोंदवण्यात आला आहे. आम्ही तपास करू आणि ईमेलद्वारे तुम्हाला अपडेट देऊ."
+    },
+    {
+      "speaker": "customer",
+      "text": "तपासणीस किती वेळ लागतो?"
+    },
+    {
+      "speaker": "agent",
+      "text": "साधारणपणे 10 कामकाजाचे दिवस लागतात."
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक आहे, धन्यवाद."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Marathi Scripts.docx",
+    "conversation_index": 2,
+    "total_turns": 11
+  }
+}

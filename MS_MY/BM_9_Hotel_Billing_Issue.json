@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel Billing Issue",
+  "language": "BM",
+  "file_language": "MS_MY",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Helo, saya ada soalan tentang caj dari penginapan hotel saya baru-baru ini."
+    },
+    {
+      "speaker": "agent",
+      "text": "Baik, saya boleh bantu. Boleh saya dapatkan nombor tempahan?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ya, RES-90231."
+    },
+    {
+      "speaker": "agent",
+      "text": "Terima kasih. Saya nampak caj RM180 dari 10 April."
+    },
+    {
+      "speaker": "customer",
+      "text": "Itu nampak lebih tinggi daripada yang saya jangka."
+    },
+    {
+      "speaker": "agent",
+      "text": "Caj itu termasuk satu malam serta caj minibar."
+    },
+    {
+      "speaker": "customer",
+      "text": "Tapi saya tak guna minibar."
+    },
+    {
+      "speaker": "agent",
+      "text": "Baik, saya boleh keluarkan caj minibar dan buat bayaran balik sebahagian."
+    },
+    {
+      "speaker": "customer",
+      "text": "Berapa jumlah yang akan dikembalikan?"
+    },
+    {
+      "speaker": "agent",
+      "text": "RM30 akan dikembalikan ke kad anda."
+    },
+    {
+      "speaker": "customer",
+      "text": "Baik, terima kasih."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Bahasa ms-MY Scripts.docx",
+    "conversation_index": 9,
+    "total_turns": 11
+  }
+}

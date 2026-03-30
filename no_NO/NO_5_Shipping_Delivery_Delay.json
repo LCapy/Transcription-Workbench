@@ -1,0 +1,52 @@
+{
+  "scenario": "Shipping Delivery Delay",
+  "language": "NO",
+  "file_language": "no_NO",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hei, jeg ringer fordi pakken min ikke har kommet ennå."
+    },
+    {
+      "speaker": "agent",
+      "text": "Det beklager jeg. Kan jeg få sporingsnummeret?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, det er TRK-55134."
+    },
+    {
+      "speaker": "agent",
+      "text": "Takk. Jeg sjekker status."
+    },
+    {
+      "speaker": "agent",
+      "text": "Forsendelsen ble forsinket på grunn av været og er nå planlagt levert i morgen."
+    },
+    {
+      "speaker": "customer",
+      "text": "Den skulle komme på mandag."
+    },
+    {
+      "speaker": "agent",
+      "text": "Jeg forstår frustrasjonen. Ny leveringsdato er 18. april."
+    },
+    {
+      "speaker": "customer",
+      "text": "Får jeg oppdateringer på e-post?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ja, vi sender dem til john.john@gmail.com."
+    },
+    {
+      "speaker": "customer",
+      "text": "Greit, takk for oppdateringen."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Norwegian Scripts.docx",
+    "conversation_index": 5,
+    "total_turns": 10
+  }
+}

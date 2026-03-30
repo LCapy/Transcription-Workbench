@@ -1,0 +1,52 @@
+{
+  "scenario": "Insurance Claim Status – AR",
+  "language": "SA",
+  "file_language": "AR_SA",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "مرحباً، أود معرفة حالة مطالبة التأمين التي قدمتها الأسبوع الماضي."
+    },
+    {
+      "speaker": "agent",
+      "text": "بكل سرور. هل يمكنني الحصول على رقم المطالبة؟"
+    },
+    {
+      "speaker": "customer",
+      "text": "نعم، هو CLM-458921."
+    },
+    {
+      "speaker": "agent",
+      "text": "شكراً، سأتأكد الآن."
+    },
+    {
+      "speaker": "agent",
+      "text": "تم تقديم المطالبة في 3 أبريل وهي حالياً تحت المراجعة."
+    },
+    {
+      "speaker": "customer",
+      "text": "متى سيتم اعتمادها؟"
+    },
+    {
+      "speaker": "agent",
+      "text": "عادةً تستغرق المراجعة 5 إلى 7 أيام عمل."
+    },
+    {
+      "speaker": "customer",
+      "text": "تمام. هل سيتم إعلامي عند اعتمادها؟"
+    },
+    {
+      "speaker": "agent",
+      "text": "نعم، سنرسل إشعاراً إلى البريد الإلكتروني المسجّل."
+    },
+    {
+      "speaker": "customer",
+      "text": "البريد هو maria.lopez@gmail.com."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco ar_SA Scripts.docx",
+    "conversation_index": 3,
+    "total_turns": 10
+  }
+}

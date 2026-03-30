@@ -1,0 +1,52 @@
+{
+  "scenario": "保険請求ステータス",
+  "language": "JP",
+  "file_language": "ja_JP",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "こんにちは。先週提出した保険請求の状況を確認したくお電話しました。"
+    },
+    {
+      "speaker": "agent",
+      "text": "承知しました。請求番号を教えていただけますか？"
+    },
+    {
+      "speaker": "customer",
+      "text": "はい、CLM-458921 です。"
+    },
+    {
+      "speaker": "agent",
+      "text": "ありがとうございます。確認いたします。"
+    },
+    {
+      "speaker": "agent",
+      "text": "4月3日に提出され、現在審査中であることを確認しました。"
+    },
+    {
+      "speaker": "customer",
+      "text": "承認されるのはいつ頃でしょうか？"
+    },
+    {
+      "speaker": "agent",
+      "text": "審査には通常5〜7営業日かかります。"
+    },
+    {
+      "speaker": "customer",
+      "text": "承認されたら通知は届きますか？"
+    },
+    {
+      "speaker": "agent",
+      "text": "はい、登録されているメールアドレスへお知らせします。"
+    },
+    {
+      "speaker": "customer",
+      "text": "maria.lopez@gmail.com です。"
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Japanese Scripts.docx",
+    "conversation_index": 3,
+    "total_turns": 10
+  }
+}

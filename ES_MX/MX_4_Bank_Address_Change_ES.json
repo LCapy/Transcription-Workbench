@@ -1,0 +1,52 @@
+{
+  "scenario": "Bank Address Change – ES",
+  "language": "MX",
+  "file_language": "ES_MX",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hola, necesito actualizar mi dirección postal en mi cuenta bancaria."
+    },
+    {
+      "speaker": "agent",
+      "text": "Puedo ayudarle con eso. ¿Puede verificar primero su nombre completo?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Claro. Es Daniel Peterson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Gracias, Daniel. ¿Cuál es la nueva dirección?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Es 782 Green Street, Seattle, Washington, 98101."
+    },
+    {
+      "speaker": "agent",
+      "text": "Perfecto. Estoy actualizando la información ahora."
+    },
+    {
+      "speaker": "agent",
+      "text": "La dirección se ha actualizado correctamente."
+    },
+    {
+      "speaker": "customer",
+      "text": "¿Esto afectará mis estados de cuenta?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Sus futuros estados de cuenta se enviarán a la nueva dirección."
+    },
+    {
+      "speaker": "customer",
+      "text": "Excelente, gracias por su ayuda."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco es_MX Scripts.docx",
+    "conversation_index": 4,
+    "total_turns": 10
+  }
+}

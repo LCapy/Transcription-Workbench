@@ -1,0 +1,52 @@
+{
+  "scenario": "Insurance Claim Status",
+  "language": "DA",
+  "file_language": "da_DK",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hej, jeg ringer for at tjekke status på en forsikringsanmeldelse, jeg indsendte i sidste uge."
+    },
+    {
+      "speaker": "agent",
+      "text": "Det kan jeg hjælpe med. Må jeg få dit anmeldelsesnummer?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ja, det er CLM-458921."
+    },
+    {
+      "speaker": "agent",
+      "text": "Tak. Jeg slår det op."
+    },
+    {
+      "speaker": "agent",
+      "text": "Jeg kan se, at anmeldelsen blev indsendt den 3. april og i øjeblikket er under behandling."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ved du, hvornår den bliver godkendt?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Behandlingen tager normalt fem til syv arbejdsdage."
+    },
+    {
+      "speaker": "customer",
+      "text": "Okay. Bliver jeg informeret, når den er godkendt?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Ja, vi sender en e-mail til den registrerede adresse."
+    },
+    {
+      "speaker": "customer",
+      "text": "Det er maria.lopez@gmail.com."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Danish Scripts.docx",
+    "conversation_index": 3,
+    "total_turns": 10
+  }
+}

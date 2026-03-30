@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel Billing Issue",
+  "language": "CS",
+  "file_language": "cs_CZ",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Dobrý den, mám dotaz ohledně platby za můj nedávný pobyt v hotelu."
+    },
+    {
+      "speaker": "agent",
+      "text": "Rád pomohu. Můžete mi sdělit číslo rezervace?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Ano, RES-90231."
+    },
+    {
+      "speaker": "agent",
+      "text": "Děkuji. Vidím zde platbu z 10. dubna ve výši 180 Kč."
+    },
+    {
+      "speaker": "customer",
+      "text": "Zdá se mi to vyšší, než jsem očekával."
+    },
+    {
+      "speaker": "agent",
+      "text": "Platba zahrnuje jednu noc a poplatek za minibar."
+    },
+    {
+      "speaker": "customer",
+      "text": "Minibar jsem nepoužil."
+    },
+    {
+      "speaker": "agent",
+      "text": "Rozumím. Mohu odstranit poplatek a vystavit částečné vrácení peněz."
+    },
+    {
+      "speaker": "customer",
+      "text": "Jaká částka bude vrácena?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Na vaši kartu bude vráceno 30 Kč."
+    },
+    {
+      "speaker": "customer",
+      "text": "Dobře, děkuji."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Czech Scripts.docx",
+    "conversation_index": 10,
+    "total_turns": 11
+  }
+}

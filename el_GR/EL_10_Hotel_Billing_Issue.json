@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel Billing Issue",
+  "language": "EL",
+  "file_language": "el_GR",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Γεια σας, έχω μια απορία σχετικά με μια χρέωση από την πρόσφατη διαμονή μου σε ξενοδοχείο."
+    },
+    {
+      "speaker": "agent",
+      "text": "Φυσικά. Μπορώ να έχω τον αριθμό κράτησης;"
+    },
+    {
+      "speaker": "customer",
+      "text": "Είναι RES-90231."
+    },
+    {
+      "speaker": "agent",
+      "text": "Ευχαριστώ. Βλέπω μια χρέωση €180 από τις 10 Απριλίου."
+    },
+    {
+      "speaker": "customer",
+      "text": "Αυτό φαίνεται υψηλότερο από όσο περίμενα."
+    },
+    {
+      "speaker": "agent",
+      "text": "Η χρέωση περιλαμβάνει μία διανυκτέρευση και χρέωση για το μίνι μπαρ."
+    },
+    {
+      "speaker": "customer",
+      "text": "Δεν χρησιμοποίησα το μίνι μπαρ."
+    },
+    {
+      "speaker": "agent",
+      "text": "Καταλαβαίνω. Μπορώ να αφαιρέσω τη χρέωση του μίνι μπαρ και να κάνω μερική επιστροφή χρημάτων."
+    },
+    {
+      "speaker": "customer",
+      "text": "Πόσο θα επιστραφεί;"
+    },
+    {
+      "speaker": "agent",
+      "text": "Θα σας επιστραφούν €30 στην κάρτα σας."
+    },
+    {
+      "speaker": "customer",
+      "text": "Εντάξει, ευχαριστώ."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Greek Scripts.docx",
+    "conversation_index": 10,
+    "total_turns": 11
+  }
+}

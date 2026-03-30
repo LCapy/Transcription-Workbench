@@ -1,0 +1,56 @@
+{
+  "scenario": "Hotel New Reservation Booking",
+  "language": "EN",
+  "file_language": "sl_SI",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Pozdravljeni, želela bi rezervacijo hotela za naslednji mesec."
+    },
+    {
+      "speaker": "agent",
+      "text": "Seveda, lahko pomagam. Vaše polno ime, prosim?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Emma Johnson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Hvala, Emma. Katere datume želite?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Od 12. maja do 15. maja, odhod 15."
+    },
+    {
+      "speaker": "agent",
+      "text": "To so tri noči. Na voljo imam standardno sobo za 140 € na noč."
+    },
+    {
+      "speaker": "customer",
+      "text": "Ali cena vključuje davke in stroške?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Davki niso vključeni. Skupni znesek z davki znaša 462 €."
+    },
+    {
+      "speaker": "customer",
+      "text": "V redu. Moram plačati zdaj?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Potrebujemo kreditno kartico za potrditev rezervacije, plačilo pa poteka ob prijavi."
+    },
+    {
+      "speaker": "customer",
+      "text": "V redu, lahko podam kartico zdaj. Mastercard, številka 9999 8888 3333 1111."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Slovenian sl-SI Scripts.docx",
+    "conversation_index": 9,
+    "total_turns": 11
+  }
+}

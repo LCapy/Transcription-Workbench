@@ -1,0 +1,52 @@
+{
+  "scenario": "Bank Address Change",
+  "language": "MR",
+  "file_language": "mr_IN",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "नमस्कार, मला माझ्या बँक खात्यावरील पत्रव्यवहाराचा पत्ता बदलायचा आहे."
+    },
+    {
+      "speaker": "agent",
+      "text": "मी मदत करू शकतो/शकते. कृपया तुमचे पूर्ण नाव सांगा."
+    },
+    {
+      "speaker": "customer",
+      "text": "Daniel Peterson."
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद, Daniel. नवीन पत्ता काय आहे?"
+    },
+    {
+      "speaker": "customer",
+      "text": "782 Green Street, Seattle, Washington, 98101."
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक आहे, मी आत्ताच अपडेट करतो/करते."
+    },
+    {
+      "speaker": "agent",
+      "text": "पत्ता यशस्वीरित्या अपडेट झाला आहे."
+    },
+    {
+      "speaker": "customer",
+      "text": "यामुळे माझ्या स्टेटमेंटवर काही परिणाम होईल का?"
+    },
+    {
+      "speaker": "agent",
+      "text": "पुढील स्टेटमेंट्स नवीन पत्त्यावर पाठवली जातील."
+    },
+    {
+      "speaker": "customer",
+      "text": "छान, धन्यवाद."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Marathi Scripts.docx",
+    "conversation_index": 4,
+    "total_turns": 10
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "scenario": "Bank Address Change – fi",
+  "language": "FI",
+  "file_language": "fi_FI",
+  "conversation": [
+    {
+      "speaker": "customer",
+      "text": "Hei, minun täytyy päivittää postiosoitteeni pankkitililleni."
+    },
+    {
+      "speaker": "agent",
+      "text": "Voin auttaa. Voisitko ensin vahvistaa koko nimesi?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Toki. Daniel Peterson."
+    },
+    {
+      "speaker": "agent",
+      "text": "Kiitos, Daniel. Mikä on uusi osoite?"
+    },
+    {
+      "speaker": "customer",
+      "text": "782 Green Street, Seattle, Washington, 98101."
+    },
+    {
+      "speaker": "agent",
+      "text": "Selvä. Päivitän sen nyt."
+    },
+    {
+      "speaker": "agent",
+      "text": "Osoite on päivitetty onnistuneesti."
+    },
+    {
+      "speaker": "customer",
+      "text": "Vaikuttaako tämä tiliotteisiini?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Tulevat tiliotteet lähetetään uuteen osoitteeseen."
+    },
+    {
+      "speaker": "customer",
+      "text": "Hienoa, kiitos avusta."
+    }
+  ],
+  "metadata": {
+    "source_file": "Cisco Finnish Scripts.docx",
+    "conversation_index": 4,
+    "total_turns": 10
+  }
+}
